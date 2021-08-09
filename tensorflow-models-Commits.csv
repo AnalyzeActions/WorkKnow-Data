@@ -1,0 +1,1943 @@
+,organization,repo,repo_url,actions_url,head_commit_id,head_commit_tree_id,head_commit_message,head_commit_timestamp,head_commit_author_name,head_commit_author_email,head_commit_committer_name,head_commit_committer_email
+0,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f2b7f984f476072c64fe6394b8e010968c68137c,50eb0ebf368eceff518994c0f0fb3a91bfbdc258,Fix spelling issue in EfficientDet config file,2021-08-05T21:40:37Z,Jake Malis,jake.malis@pinecrest.edu,GitHub,noreply@github.com
+1,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,3a8c553037aaa88e0c28cf80d6e656c85e1c7cfb,854686c98ede868c0a0a71d9584da3e9bc137c8d,Merge branch 'tensorflow:master' into master,2021-08-05T12:01:35Z,Simon Geisler,23301446+sigeisler@users.noreply.github.com,GitHub,noreply@github.com
+2,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,4a1005baebbd3799b8dc32c394ff01a3fe0e13cf,b6430688f0a41161d5118e57fc040c8efc2fc726,fix bug while 0 detection,2021-08-04T17:31:02Z,Shixin Luo,luoshixin@google.com,Shixin Luo,luoshixin@google.com
+3,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,39f641c34c67aac955947cd1bca67fd387ba8df0,780ead9d7d85ec4725bfb7377701f0c27f7e18c9,Update mobilenet_example.ipynb,2021-08-04T16:44:04Z,Yasir Modak,42785357+ymodak@users.noreply.github.com,GitHub,noreply@github.com
+4,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,1d4c5e6d37b1a0a13b8e2e76769ceac67c28ad98,389a21005b9b9f3fa3729a76ba283f05796503a5,Update mobilenet_example.ipynb,2021-08-03T20:53:10Z,Yasir Modak,42785357+ymodak@users.noreply.github.com,GitHub,noreply@github.com
+5,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,d2fb2c307a354b4dc9b37e22a78d4e2d38543b12,46235927dbf97615d88a3a687f347ec33df19c01,Update mobilenet_example.ipynb,2021-08-03T20:51:53Z,Yasir Modak,42785357+ymodak@users.noreply.github.com,GitHub,noreply@github.com
+6,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,7db2e5151dfa5bb3e5e39ea95fb567222d640d60,863e4550c987a19a018424af02f30661a6f49406,"Update mobilenet_example.ipynb
+
+fixes https://github.com/tensorflow/models/issues/10161",2021-08-03T20:49:41Z,Yasir Modak,42785357+ymodak@users.noreply.github.com,GitHub,noreply@github.com
+7,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,abe58a894980b88e082d9473e0e8aad4ecc0a50c,8c97743fd605317130159eb2692e5b86c8e006a3,"Added task definition and configs for Panoptic Mask R-CNN  (#10165)
+
+* added PanopticMaskRCNNTask config
+
+* added tests for config
+
+* added Panoptic MaskRCNN task
+
+* added tests for Panoptic MaskRCNN task
+
+* fixed typo
+
+* set default segmentation loss weight to 1.0
+
+* added class docstrings
+
+* support `segmentation_decoder` checkpoint
+
+* added `init_checkpoint_modules` description
+
+* compute `steps_per_epoch` with `train_batch_size`
+
+* flattened semantic_segmentation loss attributes",2021-07-30T07:04:50Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+8,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,b086522019da7228721eff2af3ae46c59042e476,e0c6b5b031136fb320a6791f0fe4dae79fc3de46,"Added task definition and configs for Panoptic Mask R-CNN  (#10165)
+
+* added PanopticMaskRCNNTask config
+
+* added tests for config
+
+* added Panoptic MaskRCNN task
+
+* added tests for Panoptic MaskRCNN task
+
+* fixed typo
+
+* set default segmentation loss weight to 1.0
+
+* added class docstrings
+
+* support `segmentation_decoder` checkpoint
+
+* added `init_checkpoint_modules` description
+
+* compute `steps_per_epoch` with `train_batch_size`
+
+* flattened semantic_segmentation loss attributes",2021-07-29T06:18:16Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+9,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,b9afb6264fafff6df201e88566a411ed9887259d,9dc0cc9fd4b23b53ac97b8bba83b5c8ca32913ca,"Added task definition and configs for Panoptic Mask R-CNN  (#10165)
+
+* added PanopticMaskRCNNTask config
+
+* added tests for config
+
+* added Panoptic MaskRCNN task
+
+* added tests for Panoptic MaskRCNN task
+
+* fixed typo
+
+* set default segmentation loss weight to 1.0
+
+* added class docstrings
+
+* support `segmentation_decoder` checkpoint
+
+* added `init_checkpoint_modules` description
+
+* compute `steps_per_epoch` with `train_batch_size`
+
+* flattened semantic_segmentation loss attributes",2021-07-28T18:22:01Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,GitHub,noreply@github.com
+10,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,ce16b37d3de2cb153ecdcc3a41f7bf2b7fbc6da4,5a88b8f2c500858187d8e9bcbf862a8846dac1a9,flattened semantic_segmentation loss attributes,2021-07-28T18:07:41Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+11,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f44d4a95ddd147956ce1f09cd0e63d18d0ba1a9b,30691a636e19da98b0a2f01f2604201dd7649efc,compute `steps_per_epoch` with `train_batch_size`,2021-07-28T06:18:18Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+12,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,1c70a016b3edfec6581c5da8675e5c9097894a9e,78091c49d788d47af1b5d05df3c47258dd2ab512,added `init_checkpoint_modules` description,2021-07-28T06:11:25Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+13,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9fce03c9cc8c0d895800d044589eeb2d5bb93f48,cedf716c685d83174805f4e3a07cd5d887763d3c,added class docstrings,2021-07-27T19:07:00Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+14,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9fce03c9cc8c0d895800d044589eeb2d5bb93f48,cedf716c685d83174805f4e3a07cd5d887763d3c,added class docstrings,2021-07-27T19:07:00Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+15,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,0454c7563b9f7859dc452aecfe3b56a8677cace5,efe0ae8e08263b3bf0b5ece8440e1afc2fefce0a,fixed typo,2021-07-27T17:07:02Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+16,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,cb9d1f089bdf64d4e76c0204856f648ede47b77f,1efb2c23877f323d34c331b6aab1d2130480987b,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-27T07:07:21Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+17,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,e1c3ba48b92f70fee659e0c4d8d2ba8268e9cbd4,67bc52c2a56967e368c3782aa2a3d211488db39b,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-27T07:06:17Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+18,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,2ab8af9fe61652489539e7d2c4c7fefc28d10c62,5d5ee523443adebd3b0f3e0220f627e0e30aec38,update training driver,2021-07-26T08:01:07Z,Gunho Park,gunho1123@postech.ac.kr,Gunho Park,gunho1123@postech.ac.kr
+19,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,59ad734af0bd500e1eabd157c5a0138c07731a38,8aa9177c5832aa00a4bb7295ca2ac76fb624348c,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-25T07:05:16Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+20,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,a3d4144e0345d0aa7b78d1722da4d4cade968b80,8e0789e7c5b585000d0a3951021892e7f275ddc6,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-25T07:04:37Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+21,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,64611302d301c98acc5c834f005f2a987924d6c1,5e6e2ac6d7b1d5ae3b1519128321d0fcc9aa111b,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-24T07:04:44Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+22,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,1edee2b2ee604d6978ea8f9583a0072a23baead2,b1caf69d5d0158d5b13cc85234253bedea7dd7a8,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-24T07:04:11Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+23,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,bf1868b6da7dea871a0ed5dea40017bb52878994,db35d28bab41a81afc50f5240012a583d9f84722,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-23T07:05:28Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+24,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,fc0d5ed23f0338e91ce96580464b8c5f9a66bf87,491ae5e7fc745c3185ebf7e8967aadbabbdf4369,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-23T07:04:47Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+25,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,0027bdde0e7c735881a93cc5e37bd2335722ba72,9b6afa026fa4ca12e5e1dc3d65cdc1b5534b1f9a,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-22T07:05:07Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+26,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,fde5e3afb8ac10fe3f2236002acd847dcb75d0a5,6c8fda456a010c80ccefa96b42805c3a5a844f88,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-22T07:04:30Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+27,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,5ffcc5b668d3739c068d744213d617b3add1a03c,15035c5d9d3944e9938ac3ca9735b20d8a6e13dc,Merge branch 'purdue-yolo' into detection_generator_pr,2021-07-22T01:02:51Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,GitHub,noreply@github.com
+28,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,6960f2cb2e2518d5b85412a9ff9dd06cbadfb105,4f914ed8d2bacc631094d49eb50f175e90b5758a,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-20T07:05:55Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+29,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,76e0c014988964b50efedc10204ca59391c9b1a1,cfe811576f8002faeab7a598070041ece06d5a2c,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-20T07:05:04Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+30,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,d9b85094711b4bcd34400989618b738032c992cf,6f7e1a116f11f1a4af848f1c64c4943a25dcf39c,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-19T20:17:10Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+31,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,785760186da716a7f0a08a7d2feb3cb03156160b,8b9e2cc4300fa1c0fa99e8a342511e3a59ffb610,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-19T20:16:23Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+32,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,a41a77124378ab2ec01bf7db21c8857d336f5db9,032a051d729a9bdf058f251c802c4b2b28bd460b,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-19T07:05:37Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+33,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,c2b950fd7581641daf76fe28cecae9b42fd750d3,d99a62e0f1f1dbb5bf054f6a358db4b49872356a,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-19T07:05:04Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+34,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,0faab551950f85df85dc4fe5ce9c55894fff2025,cd59b5384bee7dcc47710b6aa3d5e9a3f91ad3cd,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-18T07:04:41Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+35,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,ad5939387db6f0df4da534dc55ce007ffca76902,6017b6c2fe76cb80f5eea10f92d76169b99d69ce,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-18T07:04:04Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+36,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,6e658e061c3559a7914db7769d611ed6e6a0e841,38a2e942865a9414de922b4f91bfb436b31f2df3,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-17T07:04:32Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+37,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f1145d53d053c8291ba3b68604ed64fd54f96195,42d3fd2b706780eb0f71c29af1318b5c9e68e4a0,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-17T07:03:59Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+38,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9d7e2b5f4fce04b815252ff2676ca57d6dc9abb3,33e2edfc7d148e01ad10d47f984bfc3025846b3f,Merge branch 'tensorflow-panoptic-segmentation' into panoptic-segmentation,2021-07-17T06:29:51Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+39,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,ab6acdcc647781a483d3fcf08fb2bef4faefe00d,83140f5023c971eca14f00a2a2948e210a65a247,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-16T07:04:41Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+40,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,690de1a3463ab3d40dc5c49c2f8cc9d36f7ea95c,5d5e9ae984a9e000ab8f68a7734899b185762c31,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-16T07:04:04Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+41,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,b09f1055fd6703889c8b7bcf971e01535152e125,2f4ab0bed34b223d38b889257e7ccab29eed48f2,added fields for init checkpoints,2021-07-15T19:24:06Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+42,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,95b73ee67d24748cb121c198f0dc2b97dc91c5ee,1eb62c7f1f904dc238554e544c0ca53b50a14c25,Merge branch 'panoptic-segmentation' into panoptic-segmentation,2021-07-15T18:00:41Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,GitHub,noreply@github.com
+43,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,eee0858dcb2c80f68d4eecd004de45da26fe5d50,3b43fa17af5df8865bf322321b37d11062f83891,Combined the two installation code cells,2021-07-15T15:28:56Z,Jake Malis,jake.malis@pinecrest.edu,GitHub,noreply@github.com
+44,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,5185605aad34a9863437156a2a99d22db2e63233,9f5c520815187bad558f4a4d9e0fdf462ce3c945,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-15T07:05:22Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+45,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,82b485bdde4b3eb264f357b4e32b1ed83fc64ef5,1e49954231d206e25c8962b3df0d3f8fd04b92e5,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-15T07:04:45Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+46,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,5517873c9a0f1931c47c5744c0deca0a7e509d3f,cc791372f94e5e499f413606b29f2637bfcb035c,added tests for `tasks.PanopticMaskRCNNTask`,2021-07-14T15:03:21Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+47,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,1ffbd57e62074e94f61f62dc5598051b41182518,a665ae60976eccb602771bbd1c2fd93b36e7c0ad,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-14T07:04:37Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+48,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,313b8cc9da26d7a042a6d84a3b51d59e589c7365,65df47b5aa0a67e841c550b014b1c183cedc3e8c,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-14T07:04:02Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+49,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,82d3f0872ef1a42fa06163d84b8926cb730f70df,383084b97dc59dd82ad54729a016a38030663065,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-07-13T12:55:42Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+50,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,733d4a61cb5492f4be4f2a2f6d014b2a5d5702aa,214eea104e1e661fd52be108a574a0d814c4d612,Merge remote-tracking branch 'upstream/master' into global_model_training,2021-07-13T12:16:44Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+51,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,811dad9b29f300119ec4330c5f09f4383d046e3c,421cd040c8080d38cece26a63bd19c4fe49ae26f,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-13T07:05:19Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+52,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,41702d067c2cb5afc0d919abd9bfc32f87f12756,d0f44feabe015e9b7f37691c904dff8c144709a4,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-13T07:04:46Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+53,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,d12b6cb8ce7d7a9db2c691a59ed070eebd709fe0,cd6e9360d26524490daa4031e010cece52fbce9a,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-11T07:04:37Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+54,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,4bb623f46b2b70b2c9aa0e01be3c01ae4aa9b8df,a247b0629ecc475d5d8c5076a083f7621e2179d9,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-11T07:03:51Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+55,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,aa4411ed69aa1943223098ab02e04d3e03f8e39d,dd17768c12d074ab5c77e49a834036179e2e20bd,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-10T07:04:53Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+56,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,a5d912d051604b4768f715ab5570f5db17833032,37dacd6cfe23809577d01cfd5adcf11cca9f4e74,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-10T07:04:22Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+57,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,c76f31d149099cad2c1a4af18cfdf82460f1ef1b,678eef3c9a076bda739d76254832c69926471c0f,"Added dataloader for Panoptic Mask R-CNN (#10112)
+
+* Added `panoptic_maskrcnn_input.Parser`
+
+* Added tests for `panoptic_maskrcnn_input.Parser`
+
+* added `DataConfig`
+
+* fixed doc-string
+
+* Added type annotations",2021-07-09T15:13:29Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,GitHub,noreply@github.com
+58,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9534fd213256e4f65df50fb111579bf2f9872c25,029810fcec64882121e24b1df1ee90e89c8fe2a6,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-07-09T08:06:28Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+59,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,79605521a25f1982e1a6c889e9518665cc5f0f60,b824c7a311d97f73adf3bd0a641a7598f20043ff,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-07-09T07:57:32Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+60,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,e6c11f8e14db78314bedd963277551a76c38e981,9afd5325c500d8ae6e242fdc2019a63902fd84e6,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-07-09T07:52:20Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+61,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,5326790535d0083a9a38ecc68db26f75de0321d8,a841b34773133c1f665442c89b110525a1273464,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-09T07:04:34Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+62,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f099f1ae06a73bde5f3183f8f462ae7c2430550b,10004369685ec3a44a03d7d7a79a445b3d8c3cd8,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-08T07:04:33Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+63,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,b264877864d339128dd34a47762e75b9c0cf3771,b738dcc2e1e78bf62b63d566a3fd69892511eca6,Added type annotations,2021-07-07T20:27:10Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+64,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,5631c40816da05f0169aabe9fa3f6bf11bea2a12,6d6dc0bc0d8927be55bb82130ef762ae9b7dd41b,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-07-07T11:38:28Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+65,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,a78283b66f75b615636e04fe101f201b0ee0b396,00eb39ff03782a6cfd17b6cc3d0afbe1856dac2a,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-07-07T10:09:22Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+66,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,73ba238bd5d93f184d860f7b673226fab6abf0ad,4c9493a8c0b4bc23b74860f8323e29634ab193d8,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-07-07T10:08:35Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+67,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,e4ce9bd7f6712bb6e3ab15be3f52bdd2d57d8f29,e8fba4e385bc16071f6a1f179bda00784290c5b2,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-07-07T09:56:13Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+68,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,2d9c050b35f7857e74dc408595e2ed59e178bd87,a3bc8b32686d4efcf7b438b2a0bab4a6c62e3945,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-07-07T09:45:15Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+69,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,eb5abde84dabfad80edefff617f865ba64e88bbb,e317ffec5e5d4ace28a28551f6e6ea1aa5f14b0a,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-07-07T09:29:33Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+70,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,12c1b0a0d07d58ad333e3c0b4f7230972cdf3510,dbc9d85d0b2b5a5ffa5217f3951f903d236ddb9a,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-07-07T09:20:40Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+71,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,d6ba35ab1050904b0d3d5764811f57c9eadfe5e8,7afbe536c0917dbd9a7e3ccda4fb9e66179da026,fixed doc-string,2021-07-05T19:26:52Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+72,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,67cfc95bafee4a163fa3e92c1ee4398690373538,f8a59fbaa8e31a03be1a0ccfca0fde985b17ce69,Internal change,2021-07-05T15:16:33Z,Gunho Park,gunho1123@postech.ac.kr,Gunho Park,gunho1123@postech.ac.kr
+73,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,84561f846ee1490bebfa7936110081d1a61b0d22,8ed196ca09d47a04bb159966c73b62fdd14e1b8b,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-05T07:04:09Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+74,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,e1de338f80e1f97c352900620bbe331a1eaa89d4,a69ff82a0111c64a4190ed253381be56b5cc4bb7,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-04T07:04:33Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+75,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,8313210e3cb4bfd9ebb5caade7a44ea802319cce,cb25650c13f481bac4f58c17914e8340b8d46035,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-03T07:03:58Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+76,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,2e9f7308330e880212599773704079961551b7db,3b27be8240c05c3a77c51b05183fdc268feccb21,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-02T07:04:07Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+77,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,58858d01bfbf684ac8a313d8ef56c76f14c9ee48,4b41792e2076c2ce82f48054c4401def6b2ba488,"Added factory method for Panoptic Mask R-CNN (#10076)
+
+* added factory method for `PanopticMaskRCNNModel`
+
+* added tests for factory method
+
+* added configuration for Panoptic Mask R-CNN
+
+* fixed formatting
+
+* reuse `build_maskrcnn`",2021-07-01T07:05:15Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+78,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,82a05c5a3239bcfee91859261e0c5c412a007378,495253cb365a8138d4d72e6464d876c44a6f0367,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-07-01T07:04:22Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+79,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,4b4216411663cf7e36527de56af65b35c5529d28,9fbe595fc17e5be4cebdbfa694a5e32b14dcf862,"Added factory method for Panoptic Mask R-CNN (#10076)
+
+* added factory method for `PanopticMaskRCNNModel`
+
+* added tests for factory method
+
+* added configuration for Panoptic Mask R-CNN
+
+* fixed formatting
+
+* reuse `build_maskrcnn`",2021-06-30T07:05:47Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+80,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,bad1ae393491f65e9154ccc04463aca42d4e085d,a7bd0654475bd0edf827efb5a63b7586a9641c78,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-30T07:05:08Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+81,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,747ade8c5ba031f2502abf6f8475a6894612bec0,3ff9660bffde5d7345175db442f15688c749042e,"Added factory method for Panoptic Mask R-CNN (#10076)
+
+* added factory method for `PanopticMaskRCNNModel`
+
+* added tests for factory method
+
+* added configuration for Panoptic Mask R-CNN
+
+* fixed formatting
+
+* reuse `build_maskrcnn`",2021-06-29T07:04:53Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+82,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,752822904376911681362c7a5f00859b862938fc,4610821e766d2cb632eb37811a3bfd490e5f7ff8,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-29T07:04:11Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+83,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,53c3f6533255312ebe90d0dce3fc8da78023ba93,10873ec2978540011373602936787b43de92f546,Internal change,2021-06-28T04:21:28Z,Gunho Park,gunho1123@postech.ac.kr,Gunho Park,gunho1123@postech.ac.kr
+84,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,57e9a1f19efe34b726c71e5e05bab87b09c1ce3c,ee8a7cf543cf83199124039d93fa78695c9fcee3,"Added factory method for Panoptic Mask R-CNN (#10076)
+
+* added factory method for `PanopticMaskRCNNModel`
+
+* added tests for factory method
+
+* added configuration for Panoptic Mask R-CNN
+
+* fixed formatting
+
+* reuse `build_maskrcnn`",2021-06-26T07:04:42Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+85,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,e036c579a64cd159b857da6d9051cab869428af9,98f2194289972df50ef6e4deb8759190cb015b84,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-26T07:04:09Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+86,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,73e4fd117f71371acd65e50b921b4178bf5ede20,c7f1be652c1d59bef46cc178f267e8635d5129d6,"Added factory method for Panoptic Mask R-CNN (#10076)
+
+* added factory method for `PanopticMaskRCNNModel`
+
+* added tests for factory method
+
+* added configuration for Panoptic Mask R-CNN
+
+* fixed formatting
+
+* reuse `build_maskrcnn`",2021-06-25T07:05:05Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+87,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9d797056a5f9e73187dcc2374017ca9313e9b5e1,8eb2bb57b3e86c3589039aa56a9d0ee89fc03c3e,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-25T07:04:32Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+88,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,c703ef58c16427dad32974db28fccb6513daa173,c5df73cfadd51840eef2211a923572c84f53d919,small change,2021-06-24T21:20:40Z,Atze00,lory.atze@gmail.com,Atze00,lory.atze@gmail.com
+89,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,14a3b380c00f342e67641dc60afba3f9e7e92a21,cf37755742ca0ddd7871a469b5ebfe8c52fabc6e,Update README.md,2021-06-24T19:20:32Z,Yasir Modak,42785357+ymodak@users.noreply.github.com,GitHub,noreply@github.com
+90,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,d9ea4bc894c3a25d159a33a1a1503abbfefe7722,972d60209e189c0c25a6b0553c59e99294c25520,fixed typo for designed,2021-06-24T11:17:20Z,Bisola Olasehinde,horlasehinde@gmail.com,GitHub,noreply@github.com
+91,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,562900b741c0684ed558680441205083d905e62b,d70a14aceb2d98580007215caab01bc367ab9433,"Added factory method for Panoptic Mask R-CNN (#10076)
+
+* added factory method for `PanopticMaskRCNNModel`
+
+* added tests for factory method
+
+* added configuration for Panoptic Mask R-CNN
+
+* fixed formatting
+
+* reuse `build_maskrcnn`",2021-06-24T07:04:58Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+92,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,25a864fbdf7d09efc2f726dbe7610d0478105bc3,ebb60ac91f7e5a80afc593505d3f2842727fb7bd,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-24T07:04:12Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+93,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,6ea0ca5311b6a7cac32db26519954bd3d91fa836,c4a249451e94a82f099d77c39b55f561abbf7349,"Update README.md
+
+fixes https://github.com/tensorflow/models/issues/9158",2021-06-24T04:42:22Z,Yasir Modak,42785357+ymodak@users.noreply.github.com,GitHub,noreply@github.com
+94,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,b2704a3b557b0f1312d63b338349f06769ac326c,2844dfc0d01f6b6db0f8494d075a4e206caf1035,"Added factory method for Panoptic Mask R-CNN (#10076)
+
+* added factory method for `PanopticMaskRCNNModel`
+
+* added tests for factory method
+
+* added configuration for Panoptic Mask R-CNN
+
+* fixed formatting
+
+* reuse `build_maskrcnn`",2021-06-23T07:05:05Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+95,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,69307b0616b585e6432cf6861da680cb991c9a7a,f75a7a5c1488187dab1b5f4bd0c2091eaa20e560,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-23T07:04:29Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+96,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,c76fd31abde7acd4e9f6134acee819cb1af61e2b,a5374d64f953fad3da8cff34aa4ca955e71864b2,"Added factory method for Panoptic Mask R-CNN (#10076)
+
+* added factory method for `PanopticMaskRCNNModel`
+
+* added tests for factory method
+
+* added configuration for Panoptic Mask R-CNN
+
+* fixed formatting
+
+* reuse `build_maskrcnn`",2021-06-22T17:57:56Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,GitHub,noreply@github.com
+97,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,2e5965ed8588b9d139e768c86e556f9e5e4f12b2,2037ddcc16b6f940a4f5ecd3eb3f2d87df0bb2b4,reuse `build_maskrcnn`,2021-06-22T10:54:24Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+98,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9963252cbb9c7253d526e782774fb2b720383f60,7081131260fcea2caf0ed5d374744e6cd0233481,Update using_your_own_dataset.md,2021-06-22T08:09:07Z,saikumarchalla,59821987+saikumarchalla@users.noreply.github.com,GitHub,noreply@github.com
+99,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,e8a535659fe8974efeba2f1fad85cfb6d461b4aa,1935de348ef244067cd216a0d9ea0ddb4837873d,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-22T07:03:49Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+100,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,8e8b24097a3d941be3e8eea5264aa9d188d89c55,3ca2bcca1bc32e4527d7c6dccc195aa80ee5e902,fixed formatting,2021-06-21T16:57:39Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+101,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f80855d2cd0ffa13742aa0d85639c2e8c98133cb,e1d12565d0b612f47d93bfce5f90d6a424ec941f,Fixed link,2021-06-21T11:38:14Z,luozhouyang,zhouyang.luo@gmail.com,luozhouyang,zhouyang.luo@gmail.com
+102,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,3f63eb460c4d41999f2bb3c3197c78d5143674c3,906368bcfa8cf1a115f2e0766532dd8a637a4896,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-21T07:04:06Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+103,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,aa49ab6b54d38d0b66ca4595bb1e97f0d9e779a1,d01f528ad7247ed2832583a12fdefd15ca60da35,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-19T07:04:16Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+104,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,840b9cff35bfaebd064fa5c80d1e0cd63816f71f,1cbe31e818ab496f32053bfdbfbecbdbc58900af,PX fixes global model training,2021-06-19T01:17:16Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+105,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,07bdd72203400677ab8c6fbc564c4ea0633c1be5,47811f607ae28c4b2f76293bba0dd6f1179cd997,PR fixes global model,2021-06-19T01:11:00Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+106,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,96db57b2a267828b02ec4cc24ceb9dc801e00722,248685ca60f8150f079ae904df05ffee972aa3ed,PR fixes,2021-06-19T01:04:21Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+107,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f75d0236869eb1a7388028f62d12fb8478e8dfe6,1c0fe714bcf3664852faf8fdbe444fa2a0ec3d2f,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-06-19T01:00:50Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+108,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,96f53da2ffdd1ce152567498c43994eafa3be2f0,9a98697a7708d9087e71b4e4181ffc706cc507a9,Merge branch 'global_model_training' of https://github.com/ykate1998/models into global_model_training,2021-06-18T23:49:08Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+109,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,6e1b4f790a138895e6d5af29015a8a250aee2768,64d5ad3fb61fee1b86aab15b2d177aabf452d417,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-06-18T23:40:44Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+110,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,4a0ff906fc71df608cf2d7d08311979a673e3c52,ab7372173cce4b827a50d1a613e87ec002d6a690,"Merge branch 'global_model_training'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features/__init__.py
+#	research/delf/delf/python/training/global_features/train.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/training/tensorboard_utils.py",2021-06-18T18:12:23Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+111,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,611737b58ea6178c082ec74cfe004828d5282d9f,ed5704af9c0b34c949e2c0cfc24322c838d9ad84,"Merge branch 'global_model'
+
+# Conflicts:
+#	research/delf/delf/python/datasets/generic_dataset.py
+#	research/delf/delf/python/datasets/generic_dataset_test.py
+#	research/delf/delf/python/datasets/sfm120k/__init__.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k.py
+#	research/delf/delf/python/datasets/sfm120k/sfm120k_test.py
+#	research/delf/delf/python/datasets/tuples_dataset.py
+#	research/delf/delf/python/datasets/tuples_dataset_test.py
+#	research/delf/delf/python/training/global_features_utils.py
+#	research/delf/delf/python/training/model/global_model.py
+#	research/delf/delf/python/training/model/global_model_test.py
+#	research/delf/delf/python/whiten.py
+#	research/delf/delf/python/whiten_test.py",2021-06-18T18:10:10Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+112,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,12781723188fd6230d8905fc4a495afd643a6f70,f7c366130589ec5228237e36ca6c388d85146c9a,Update,2021-06-18T18:08:25Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+113,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,24498978a6d3c96fb6060c4ee7b0892b4f8392a4,cef722f066c9897cfb055a9512d28844d1a76f92,Merge branch 'tensorflow:master' into global_model_training,2021-06-18T17:43:01Z,Jekaterina Jaroslavceva,dmivit98@gmail.com,GitHub,noreply@github.com
+114,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,a094ed3292c2f422a7d5cbe0914384e55782cf91,38797f2838be1904a67f64c66693ec396339bac0,Update,2021-06-18T17:35:09Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+115,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,6e5e462da13649cffb9b16239af8f7c79aef431f,058e59e0da893177d8cebb90f994739eb27b6fc8,"Update using_your_own_dataset.md
+
+fixes https://github.com/tensorflow/models/issues/10043",2021-06-18T16:20:42Z,Yasir Modak,42785357+ymodak@users.noreply.github.com,GitHub,noreply@github.com
+116,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,8202d7d1ee2ec038c96acf0c84a7fe7f68016738,e88dd4db822b5bed09406b3ed6f6fda8e604fb3a,Update,2021-06-18T14:43:26Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+117,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9ecffbd66c4adf7dfeaefb73a28f2c94961f9e92,1132b89a74469b48474697ddfd680b8b270f4ae8,added configuration for Panoptic Mask R-CNN,2021-06-17T18:54:06Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+118,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,c8c9835d10f6eabe1ae96374f060742b65c62d5b,7726969764afbce1ac2ed9589b859e3f933e0aac,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-17T18:31:16Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+119,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,d641cd6c0410e19cb7fc552cc698e1b2a11bbd1b,f89a20a704e33c5ce7f2521293eb11942f719eaa,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-17T07:04:38Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+120,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,085ca13ec2357a7502a5891d088b33d7e71c5861,0e6f24490f3fc42f90a7ba0323e6dd5133b83319,Merge branch 'purdue-yolo' into detection_generator_pr,2021-06-16T22:43:24Z,Vishnu Banna,43182884+vishnubanna@users.noreply.github.com,GitHub,noreply@github.com
+121,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,7e5cceaccf00d1d1f6c5b4bd06846a589f3a858a,76b83798ca285014fa1fa5c0d91e933e4e47c1d9,Merge branch 'tensorflow:panoptic-segmentation' into panoptic-segmentation,2021-06-16T19:17:10Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com
+122,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,61931c807f17123d64220db3dcc6556493a7d6b4,54f0903acecdab5d88f39ec7d32a38daf00f24a0,fixed linting errors (#10053),2021-06-16T07:05:15Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+123,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,90bcb55e0cb309c5752a3ef04158c568f4706392,ddf75acdbb2efb7c527865d9e8f8cca4fa300971,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-16T07:04:33Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+124,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,d4f401e193eab64997fabf58b972a886365bdc02,aed012a008bd7d0b9a98e8af556c2e2e4dbb5eb5,Merge evaluation metrics to metrics.py,2021-06-16T02:18:53Z,Gunho Park,gunho1123@postech.ac.kr,Gunho Park,gunho1123@postech.ac.kr
+125,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,2b676a9b106ffdd305b63bd27b7f4d0b74036eb2,b6e54533ff515cc90954d6f26e23d4591f104d12,Merge remote-tracking branch 'upstream/master',2021-06-15T16:16:51Z,Gunho Park,gunho1123@postech.ac.kr,Gunho Park,gunho1123@postech.ac.kr
+126,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,8d2a1adfea5c569c0d682778180b454cb83aa27b,7f27ba7d5d804de25c3793b0eda793e02135054e,Merge branch 'tensorflow:panoptic-segmentation' into panoptic-segmentation,2021-06-15T14:11:32Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com
+127,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,82e0d3c14136bd38c3bb1ee14997e86cdf8b399c,46d1c3f2359111e69613a25b9f7b313bcaaa3e36,new lines,2021-06-15T07:07:49Z,Vishnu Banna,banna3vishnu@gmail.com,Vishnu Banna,banna3vishnu@gmail.com
+128,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,5c038c8ab92ba707ba920eb5124cde75efcc5515,21b714bfe83ba2aac5fddbaff6dab8475b31d587,new lines,2021-06-15T07:07:27Z,Vishnu Banna,banna3vishnu@gmail.com,Vishnu Banna,banna3vishnu@gmail.com
+129,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,158c193f49ac22c9fc96735e0572f74eea04ec28,651253eb9729161f113005aec17debb23609b9bb,new lines,2021-06-15T07:07:00Z,Vishnu Banna,banna3vishnu@gmail.com,Vishnu Banna,banna3vishnu@gmail.com
+130,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,dd8c67c867744a78b0a1e3a6b7e3f2246a04acde,95d04663cfbc6710a9e488f79eff2f87a78608bf,new lines,2021-06-15T07:06:14Z,Vishnu Banna,banna3vishnu@gmail.com,Vishnu Banna,banna3vishnu@gmail.com
+131,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,975fbbde65b77e94284d1342414892acc6d1932f,e1f0cb4962d5212ed8841bfb7d4b7979e6958dd4,new lines,2021-06-15T07:05:05Z,Vishnu Banna,banna3vishnu@gmail.com,Vishnu Banna,banna3vishnu@gmail.com
+132,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,fd50cc1b7404b2be672629d8e3d2b391c212b5a5,aed2d42dcbc9a748da856a80102cabf5f94c57cf,new lines,2021-06-15T07:02:14Z,Vishnu Banna,banna3vishnu@gmail.com,Vishnu Banna,banna3vishnu@gmail.com
+133,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,3c62075e5565cfd76f406881d4ab7edfbf86497a,92374b8e8e868197202f8c576af52fe3dc8068b6,new lines,2021-06-15T07:00:51Z,Vishnu Banna,banna3vishnu@gmail.com,Vishnu Banna,banna3vishnu@gmail.com
+134,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,db70cac38ff51707b851bb9e8458b969947d7ee5,ab45bf8d3071b274c4257fa2c0e8848d72f6fc53,Merge branch 'detection_generator_pr' of https://github.com/PurdueCAM2Project/tf-models into detection_generator_pr,2021-06-15T07:00:11Z,Vishnu Banna,banna3vishnu@gmail.com,Vishnu Banna,banna3vishnu@gmail.com
+135,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,40f8439de0258abb5c43b101fd173868a3a51c49,470ec7d297ebaee0bf251f98548c3a2f8e5dd0d5,Merge branch 'purdue-yolo' into detection_generator_pr,2021-06-15T06:56:39Z,Vishnu Banna,43182884+vishnubanna@users.noreply.github.com,GitHub,noreply@github.com
+136,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,ec0b779cf9ff6149c81aeefad19f5463ccc299a8,8e9ae3332eb9a287765358308d799bfded0cb1fc,fixed linting errors (#10053),2021-06-15T06:54:00Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+137,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f246dd8f166a0eecc26e952c166b2e76ec0db426,af510660896f262e5ac3424dc053e3551ae6f8aa,"YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-15T06:53:24Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+138,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9bfce0becb0ac3413e56256fe39f9a4080d5915f,eb965b7c8eb6ea2a41807d55441529bbc277d444,added configuration for Panoptic Mask R-CNN,2021-06-12T14:27:43Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+139,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,ff9a588c8c9b22200810604e74103adb435c265b,eff3a94bcceee575f6375bf9409a99fbc1c1c738,Fixed typo,2021-06-11T08:05:57Z,SOLARIS,14846501+solaris33@users.noreply.github.com,SOLARIS,14846501+solaris33@users.noreply.github.com
+140,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,c7a3a13fa9b61e2558ee5b2202aaeb30fa05c6b2,4256b50ce5e1f793297f9fffa00a14c582134872,"Merged commit includes the following changes:
+378492389  by Andre Araujo:
+
+    Internal change
+
+--
+369671840  by Andre Araujo:
+
+    Cleanup after recent PRs in DELF github repo.
+
+--
+360692342  by Andre Araujo:
+
+    Replace direct TF app import with absl::app.
+    (1) TF::app is deprecated
+    (2) direct TF import is discouraged. go/gpylint-faq#g-direct-tensorflow-import
+
+--
+359157762  by Andre Araujo:
+
+    Internal change
+
+--
+
+PiperOrigin-RevId: 378492389",2021-06-09T21:50:46Z,Andre Araujo,andrearaujo@google.com,Arjun Karpur,arjunkarpur@google.com
+141,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,e544feda59476042d516529a1d9cb28f26380e30,627290a96a7af6830ec753f7d881f71766b34ef7,Formatting for review,2021-06-09T14:40:18Z,its-dron,dron@alum.mit.edu,its-dron,dron@alum.mit.edu
+142,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,35c3a79f141c43ea836b6d9ecd549f805e5a3060,08f262c2b6dffbf53844a69c57a95dba829960cd,fixed linting errors (#10053),2021-06-09T14:38:21Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+143,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f6c99c58fe37a721ce041ef01edb67e8b459ad8d,e82dd44177f1a46767d675e622e28ca9bbf31b76,"YOLO Family: Linting (#10027)
+
+* YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>
+
+* disclaimer
+
+* Fix some PyLint errors
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-09T14:37:35Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+144,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,625f4fb4ca4f73da20fe683699c42c7f7abd0d10,222c86a97f9aa2c43e231c4aeb6a50314d4cbb07,fixed linting errors (#10053),2021-06-09T14:20:36Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,GitHub,noreply@github.com
+145,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,b6d2b51cfb7342aea1a1101b471f516f67064e42,222c86a97f9aa2c43e231c4aeb6a50314d4cbb07,fixed linting errors,2021-06-09T07:06:10Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+146,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,93b28234573a5521d2392188dd90490c14cd02de,e31ee770b089a71decd276ef19034302c60509ff,"Added `PanopticMaskRCNNModel` model (#10045)
+
+* Added `PanopticMaskRCNNModel` model
+
+* test checkpoint loading for segmentation objects
+
+* fixed docstring
+
+* subclassed `MaskRCNNModel`
+
+* always enable mask and segmentation heads
+
+* added __init__.py
+
+* added README.md",2021-06-09T05:38:35Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+147,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,2d879190cfdb72a69ade41664e032fbd5e29a4ff,392e3c83fb55768011c733c749dcde2abc6e85e9,"YOLO Family: Linting (#10027)
+
+* YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>
+
+* disclaimer
+
+* Fix some PyLint errors
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-09T05:37:45Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+148,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f6ce8f0d1a4cced9cfa3378baa174356e647ea6e,2a61b1cdd38af1f394a1946fe0e0bd9ef6cddc3a,"Added `PanopticMaskRCNNModel` model (#10045)
+
+* Added `PanopticMaskRCNNModel` model
+
+* test checkpoint loading for segmentation objects
+
+* fixed docstring
+
+* subclassed `MaskRCNNModel`
+
+* always enable mask and segmentation heads
+
+* added __init__.py
+
+* added README.md",2021-06-08T20:35:37Z,Srihari Humbarwadi,sriharihumbarwadi97@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+149,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,3719454ec09a6545d6c30c6f7ca549dd6db9a3cd,ff5527dd9e93dead812f4042b2b1b46f55d8d557,"YOLO Family: Linting (#10027)
+
+* YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>
+
+* disclaimer
+
+* Fix some PyLint errors
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-08T20:34:47Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+150,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,2c52623685e88685defb2de34d490168da69e5c6,4d48d1c25a8e27d4d8d4ed569a56698b372b6d67,"YOLO Family: Linting (#10027)
+
+* YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>
+
+* disclaimer
+
+* Fix some PyLint errors
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-06-08T18:06:53Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+151,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,75b63975a739d094cbc041b54907107fa499c057,161bddfd8adc41550cb2bca876f98091005185ad,added README.md,2021-06-07T21:53:41Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+152,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,35955ddc8f141d381c996bc6c53e5d1558567386,b28d06f8cd8c2b6d6d78cdca76995116198564ea,always enable mask and segmentation heads,2021-06-07T21:21:18Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+153,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,8b10fae3d1961eb89297a5ca934477233558c21d,fe7e081558ac53fa4971f456a76c707cd6c303cc,fixed docstring,2021-06-06T08:03:28Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+154,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f42b59d62ef1d3f2bd2f9ba1293248cfb219558d,dd11f4d45c36c5a7ef24139e0cda2b6db1f523af,"Update link to Embedding Colab
+
+The original Colab by malcolmslaney didn't work with the current VGGish/tensorflow.  Changed the link to an updated version.",2021-06-05T20:50:04Z,Dan Ellis,dpwe@google.com,GitHub,noreply@github.com
+155,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,fa6000b5251c871da8fd7156866bb467ee12fea3,81539a5b7b607c82c9803b214279565a7fe809ac,test checkpoint loading for segmentation objects,2021-06-05T18:41:59Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+156,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,ce7ca19fa0c2c7f0432f36413346954de1472310,9efd283bbb086a4be8a82ab001f7c80d722a994d,Added `PanopticMaskRCNNModel` model,2021-06-05T15:42:41Z,srihari-humbarwadi,sriharihumbarwadi97@gmail.com,srihari-humbarwadi,sriharihumbarwadi97@gmail.com
+157,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,c02980f423d767b46e54036d6a3a105211d379fc,a3ab8354f1f9dc76d330d6be2efc338104261b57,Merge branch 'purdue-yolo' into detection_generator_pr,2021-06-03T18:49:14Z,Vishnu Banna,43182884+vishnubanna@users.noreply.github.com,GitHub,noreply@github.com
+158,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,93f22151c591f3b337d12d15076eae454b2e4ea0,a3ab8354f1f9dc76d330d6be2efc338104261b57,"Merge pull request #1 from PurdueCAM2Project/linting
+
+Linting",2021-06-03T10:04:55Z,Vishnu Banna,43182884+vishnubanna@users.noreply.github.com,GitHub,noreply@github.com
+159,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,83fc5a072b53ef0f3cdd62ea7a5638a91eeec827,99893dc5c37d29041c25f4898586e97de45e8c64,names fix,2021-06-02T10:59:25Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+160,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,a26babe79a7985d3cabc268a7baa8338254e4ece,8792371dd96063e30ab023de415ee441c179d0dc,sfm120k fix,2021-06-02T10:57:54Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+161,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f11ed6bf68cc2e247bf8f31e87a64f75c83b74f0,8c39351388ecdb5fe6dc89a47e519015a95c973a,sfm120k fix,2021-06-02T10:39:14Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+162,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f9653f40b4186833f56a41db20cc44eee4f1a7d0,762cfff37a47eb9d9db1f1498685431b8eb015ea,Comments fix,2021-06-02T10:37:34Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+163,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,66fd7dda5060b0c035aac8b1e2db83e01038c7a9,a80e2a26eb332c4c7bc70b0a11a449f1f58354b2,Dataset download fix,2021-06-02T10:04:26Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+164,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,18c4fa7f3a75a7d9bc13aa96caf48b48d73f65ac,dd5d66a815bfcda226eff10b7b93ddcf74ec86de,Minor fixes,2021-06-02T10:02:37Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+165,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,7e5a6a6ee9e8e46f1cf9ead507226b74bebd9c67,93a2b096c9735bdf1608083a58b88058360701fb,Minor fixes,2021-06-02T09:33:17Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+166,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,fa838f96c575cfb1f38fe78a25885495b598a64f,d967ba73bae3d192902c0569674c081920819381,remove config files,2021-05-31T07:57:34Z,Gunho Park,gunho1123@postech.ac.kr,Gunho Park,gunho1123@postech.ac.kr
+167,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,11de225a240cc07aa267778a3f4300d1f9f29fed,ccdb9ff3ea8e06e3abf0319c772355fe4cd4f240,A common confusion,2021-05-30T23:58:25Z,十百千,x1001000@users.noreply.github.com,GitHub,noreply@github.com
+168,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,404d24b01c68d2ecdf93347814fb4da3ee636f47,1a2cab02896cfabcaeae25b379c65e6eb03185ed,"YOLO Family: Linting (#10027)
+
+* YOLO Family: Updated model (#9923)
+
+* Update YOLO model
+
+* Fix some docstrings
+
+* Fix docstrings
+
+* Address some of Dr. Davis' changes
+
+* Give descriptive names to the test cases
+
+* Fix bugs
+
+* Fix YOLO head imports
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+* docstring and variable name updates
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>
+
+* disclaimer
+
+* Fix some PyLint errors
+
+Co-authored-by: vishnubanna <banna3vishnu@gmail.com>
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-05-28T14:07:47Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,GitHub,noreply@github.com
+169,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,5dfe788de6eef72c9f7301e7efce38ee40248a1f,1a2cab02896cfabcaeae25b379c65e6eb03185ed,Merge branch 'linting2' into linting,2021-05-28T00:20:25Z,anivegesana,anirudh.vegesana@gmail.com,anivegesana,anirudh.vegesana@gmail.com
+170,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,87a04344a961427dd7fb3b852c3396ffba73cf7e,e3151e89f569e3fb579d7b328a6a90dceff48f50,Correct typo,2021-05-27T05:28:08Z,Woojung Kim,kimwj317@naver.com,Woojung Kim,kimwj317@naver.com
+171,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,725b8c8c85d36fbee58f0025364f4e1acdcb0c94,7ebf86b6c07d20d5f8d8b6b768ed33f111a5e53e,"disclaimer (#10020)
+
+Co-authored-by: Vishnu Banna <43182884+vishnubanna@users.noreply.github.com>",2021-05-27T03:46:43Z,Anirudh Vegesana,anirudh.vegesana@gmail.com,Jaeyoun Kim,jaeyounkim@google.com
+172,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,0352c8f447487fe9020837eda6d71cc76afb2aa8,7122fa5e8a4d5e43605ba2b263db2b2754c6af4f,disclaimer,2021-05-27T01:13:50Z,Vishnu Banna,43182884+vishnubanna@users.noreply.github.com,anivegesana,anirudh.vegesana@gmail.com
+173,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,60a0a5bdcc63151c5897ce9f617f2803dad710d2,1e79e23d371d51ea7ae61167783b9a72613e5461,mask resizing added in maskrcnn_input,2021-05-25T17:11:05Z,vedanshu,anshgravity@gmail.com,vedanshu,anshgravity@gmail.com
+174,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,b779dbb6ad7e92ff8244f0315f7722351b15d888,6d0bef82c09ba61c46d0a08cfd2f87a483b05430,Merge branch 'purdue-yolo' into new_model,2021-05-25T00:00:10Z,Vishnu Banna,43182884+vishnubanna@users.noreply.github.com,GitHub,noreply@github.com
+175,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,45ee6a0b69b63bd752d67e01e917877f40b941eb,18285233c6e1d17c3032c69504b508bb75f9ffbd,Merge branch 'purdue-yolo' into new_model,2021-05-24T23:58:59Z,Vishnu Banna,43182884+vishnubanna@users.noreply.github.com,GitHub,noreply@github.com
+176,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,90e1c7f575627a61316378587de88bc5176c4eac,08fbd38b493bca43fc6866fed929118a63622bc2,Incorporate reviewer notes,2021-05-24T17:25:59Z,Stanley Bileschi,bileschi@google.com,Stanley Bileschi,bileschi@google.com
+177,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,93cdbaf591ffbf0df30cc880f7ac8491507d3c62,d6cc12e20b78e99e0a396f108cf2e8c6fa0c5d08,fixed minor changes,2021-05-22T02:06:57Z,stephenwu,stephw42@uw.edu,stephenwu,stephw42@uw.edu
+178,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,e748d7853daa5a0dcb9afc0a7581af148ab2fc3c,fd83f8b479631489acc4315013c1523766dab133,fixed style issues,2021-05-21T19:38:38Z,stephenwu,stephw42@uw.edu,stephenwu,stephw42@uw.edu
+179,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,790e49e519cb1ba4a3f9b29418c5ef09915fe266,ccb03e7ae06c7c5a2b19842d247a8b561509da22,Merge branch 'master' of https://github.com/tensorflow/models into run_superglue,2021-03-24T04:51:39Z,stephenwu,stephw42@uw.edu,stephenwu,stephw42@uw.edu
+180,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,bf861e065acb75784278227a639f0cb7e082558b,b264c78bf446cb7f5c464e3ac0da2f5262fa1141,mask record validation resizing added.,2021-05-21T04:48:04Z,vedanshu,anshgravity@gmail.com,vedanshu,anshgravity@gmail.com
+181,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,ba07bf4425930e990aa255d86038d4b4521f7886,fa80c1d41cccd6148e7f15e93e19b8436f485577,Merge branch 'master' of https://github.com/tensorflow/models into record_mask_eval,2021-05-21T04:40:24Z,vedanshu,anshgravity@gmail.com,vedanshu,anshgravity@gmail.com
+182,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f897697fc7c51b5559f51772ad528aa519538215,1c7accc5aa2186ba5fe985118e76e86b6d0214b1,Merge branch 'basnet' of https://github.com/tensorflow/models into basnet,2021-05-18T05:09:54Z,Gunho Park,gunho1123@postech.ac.kr,Gunho Park,gunho1123@postech.ac.kr
+183,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,42344de99a73e7e9208c7ef635b1669512b61afe,f6dc153e875650cef7360a07fedf174e94b17848,Internal change,2021-05-16T03:08:39Z,Gunho Park,gunho1123@postech.ac.kr,Jaeyoun Kim,jaeyounkim@google.com
+184,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,7062211701c63d55b985440ded219f70fd51a4e3,8ae14607e4f777e78f432cd62b877f74b8716692,(doc) Add training log note to README.md,2021-05-13T21:23:10Z,Stanley Bileschi,bileschi@google.com,Stanley Bileschi,bileschi@google.com
+185,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,1435a751fce6b1ba453717723530168400f21d84,9c10a864a25e631e4e681254074ca33854d62b10,Merge branch 'master' of https://github.com/tensorflow/models into basnet,2021-05-12T05:24:55Z,Gunho Park,gunho1123@postech.ac.kr,Gunho Park,gunho1123@postech.ac.kr
+186,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,1435a751fce6b1ba453717723530168400f21d84,9c10a864a25e631e4e681254074ca33854d62b10,Merge branch 'master' of https://github.com/tensorflow/models into basnet,2021-05-12T05:24:55Z,Gunho Park,gunho1123@postech.ac.kr,Gunho Park,gunho1123@postech.ac.kr
+187,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,e47ecf4bcb52456c2f301244e47b6ffbbab30947,e1ef6a5ec8c373ffae0ded9591561a445b621eb1,docstring and variable name updates,2021-05-11T17:58:34Z,vishnubanna,banna3vishnu@gmail.com,vishnubanna,banna3vishnu@gmail.com
+188,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,913c42f612a34110c40657d005dd8827000f2010,1ac64d69c4c693a9d9a8b89d2fbfda879d46af51,docstring and variable name updates,2021-05-11T17:58:06Z,vishnubanna,banna3vishnu@gmail.com,vishnubanna,banna3vishnu@gmail.com
+189,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,c35652eac85db2bef1c4b5f8f61c1cd60957553b,ce9dd6621297807835a9d68a40d6cb1f18d7099e,docstring and variable name updates,2021-05-11T17:51:01Z,vishnubanna,banna3vishnu@gmail.com,vishnubanna,banna3vishnu@gmail.com
+190,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,a2f397a86995a0c6f9c30d956e21c9a63af6d3e6,027643c9ca72efe7210bac72f62d977b842b1228,new line added,2021-05-07T16:06:03Z,vedanshu,anshgravity@gmail.com,vedanshu,anshgravity@gmail.com
+191,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,02d4f98f865c8ef04222b97e3796652ba58877a6,4b5a2863275e78e972a64aa7e4981e8b318fbcc2,Internal change,2021-05-06T12:03:30Z,Gunho Park,gunho1123@postech.ac.kr,Gunho Park,gunho1123@postech.ac.kr
+192,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,17ef002509760532e37a12538620a7e4eb71d5c2,2d6e1043f569fd1dbf08116326d0a66bb7a4c431,PR fixes,2021-05-02T11:55:15Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+193,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,c639e6d7ff0b4d0ed345d48a5292e3d508d270c1,348d3bc5a5ee13f4fd55b4c2ba45114dd03cd35a,Fix YOLO head imports,2021-04-28T21:03:55Z,anivegesana,anirudh.vegesana@gmail.com,anivegesana,anirudh.vegesana@gmail.com
+194,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,8a7cefc605363714e582b624e2a7107e6bcc2bc6,c547f9d09fd00dcc4c3d9fa988663e9a9c2698cf,Fix bugs,2021-04-28T21:01:58Z,anivegesana,anirudh.vegesana@gmail.com,anivegesana,anirudh.vegesana@gmail.com
+195,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,85cb075106c930207ff69a97b6400cfc2eed145f,6da74f4cbdb37d2bbd00ce66ca16c30de87d9972,Give descriptive names to the test cases,2021-04-28T20:56:52Z,anivegesana,anirudh.vegesana@gmail.com,anivegesana,anirudh.vegesana@gmail.com
+196,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,eef8d919c5354718e2122030c265608439293bd1,b8f89aa0f6327f6f9a8aa26fa916c0a7553f8d3b,Address some of Dr. Davis' changes,2021-04-28T18:48:05Z,anivegesana,anirudh.vegesana@gmail.com,anivegesana,anirudh.vegesana@gmail.com
+197,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,cfb56ef38c9edef6a66be8da390435fac9fcf728,5deef68ff878353d4d3ddc10e38343f0592fef23,Internal change,2021-04-28T15:31:53Z,Gunho Park,gunho1123@gmail.com,Gunho Park,gunho1123@gmail.com
+198,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,116e854ebb91ce31be290884cb0a98734f906e8b,ef9d5d3444a10fde100c077244fa5df1118109e1,"Update train_test.py
+
+Test the main function.",2021-04-27T05:12:03Z,Yeqing Li,yeqing@google.com,GitHub,noreply@github.com
+199,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,d854109b42fdca4be15ba1ded6514e2ba3a7f77d,f540421f0ec5c50e394ce7c2942934098fa8c164,Fix docstrings,2021-04-26T21:06:57Z,anivegesana,anirudh.vegesana@gmail.com,anivegesana,anirudh.vegesana@gmail.com
+200,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9277ffed6b0a250c01ae6172fce3b510dd3829f5,0decf6ec3deca2f87c2934881db82741775afe55,"Add NVIDIA BERT
+
+Signed-off-by: Pablo Ribalta Lorenzo <pribalta@nvidia.com>",2021-04-26T12:05:23Z,Pablo Ribalta Lorenzo,pribalta@nvidia.com,Pablo Ribalta Lorenzo,pribalta@nvidia.com
+201,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,b8de94ef663c9106b228474dde9cecceacca58fe,c8229b7ab42afd3e1a07ebc986ab9c34ab8f7bba,Fix for previous PR,2021-04-24T07:52:42Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+202,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,7c84be333332745c219b85ad86a419c3f1153e1c,6e664fb0bc765a9f4a554a956698f9ce76ae3d8b,Fix some docstrings,2021-04-21T20:22:22Z,anivegesana,anirudh.vegesana@gmail.com,anivegesana,anirudh.vegesana@gmail.com
+203,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,d9aba5ecdcede072ec4f92c26f7c6705772d7216,ab641aaefde6a6974ef923b677d02af811218a04,linting fixes.,2021-04-21T09:06:36Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+204,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,4754de072c9692ee950bde864f9e236fb26820a7,a9f700654762d17a07f1d2268b1a11744087bf6a,linting fixes.,2021-04-21T08:55:14Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+205,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,bcea050de030bb592f164baf19baad6e9259142f,bd93e2e5ccd111215e9206233abdc5008508b4d0,linting issues fixed,2021-04-21T08:24:39Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+206,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,8fa13bde0536df8556bc0e8d61341f56b742d096,6c9173a6c60a65b14b70cf1838af4ab6f2c543b9,tensorboard module added,2021-04-21T07:24:09Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+207,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9d55fe6cb5d0324ec00d5b0d73af29e475d40de9,6ba280cc0f2ee1ce9085ffe6a8f089df552e4805,Add whiten module import,2021-04-20T22:53:36Z,Andre Araujo,andrearaujo@google.com,Andre Araujo,andrearaujo@google.com
+208,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,81a477a20cffca580b1bf98af9b878ef23bdcff6,ca505a37cc00b30df4973905439ca2f3c017c4c5,Update bot_config.yml,2021-04-20T16:15:41Z,Rajeshwar Reddy T,43972606+rthadur@users.noreply.github.com,GitHub,noreply@github.com
+209,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,aaf1481d623337010c99d411f39f8721d27d31e1,132fab1c4130bd014edad75110a52effa47d50d4,Adding DELG unit tests,2021-04-19T19:53:09Z,its-dron,dron@alum.mit.edu,its-dron,dron@alum.mit.edu
+210,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,ffc696e9c72f33109fec9f9fc1f09e924bf98b39,21f09387116b22e825f273eaa8d5a61d19fa045a,Merge branch 'purdue-yolo' into new_model,2021-04-19T19:21:04Z,Vishnu Banna,43182884+vishnubanna@users.noreply.github.com,GitHub,noreply@github.com
+211,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,8582eb980cfeba0bf127d17f7bfa64b2841d0b96,ae959238b78d52944ed554e2cbce47a9ef78bb52,Update YOLO model,2021-04-18T20:19:35Z,vishnubanna,banna3vishnu@gmail.com,anivegesana,anirudh.vegesana@gmail.com
+212,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,99d573e358e9acb3a1a968b4ff21df0bac97cb3f,9003720b14f836c42cabd54f31378caf1c406d3f,Autodownload the weights file.,2021-04-16T18:39:25Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+213,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,0ab269df153b61026a50e409429b22a1e77d51e5,c740a28fc6b71eb76e1029a368e166c468572b89,Add training argument,2021-04-16T17:39:11Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+214,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,5bf3e95d80c48b3f10231ff15349b94a482a5cfd,9c6a5e78d479e8af9255b913fc797a7aebf2cf5f,Tests pass with frames-first (relaxed npz tolerences),2021-04-16T16:51:09Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+215,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,06f6836897d76efeda0724bf70ee4a6572cbc52d,dbf6640b8b6c20067a215682470d95e75943d61a,Minor style fixes,2021-04-16T10:24:07Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+216,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,3a2f2279c0bfc0e5827ff8f7810a468216065a37,4d1f771d099edb8246b2f71d227e2c245ec804d2,"Include batched signature when tflite_compatible=True
+
+Batched tests pass with `tflite_compatible`",2021-04-15T22:41:32Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+217,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,d94bcd2c669c9004c967b9df042398992695efb2,14f3348b55371d7811b3843c9aec22163236a118,"Merge pull request #1 from tensorflow/master
+
+sync with original repo",2021-04-15T17:59:32Z,Leandro Schelb,leandro.schelb@gmail.com,GitHub,noreply@github.com
+218,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,fdb07a6b971a02bce65c08fb10c4ab854a8f1053,9811eb32f1d63fff03056538b5bc4f5fdd821108,Rerun npz/ tests with tflite_compatible=True,2021-04-15T16:51:39Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+219,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,878256dea565f86a04e6d3a6a5ce9368d89f035b,a8801b9f58abb9bb03b380fd1db2b690f11f31e5,code style fixes,2021-04-15T14:21:11Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+220,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,d2838ce6d5576798131fbe207bbfddb0be6f443e,1403a679bf031334af91d5aefeae5959e5729877,Update running_on_mobile_tensorflowlite.md,2021-04-15T05:20:47Z,Uzair,72073401+uzair-ali10@users.noreply.github.com,GitHub,noreply@github.com
+221,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,c83170840fd48ae81ee5273e8dc81ab8fa99451e,c565dc10884027d83b2189a3a7652afc811d15cb,Fixed deprecated tf.flags,2021-04-14T19:39:51Z,leandroschelb,leandro.schelb@gmail.com,leandroschelb,leandro.schelb@gmail.com
+222,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,2421130475e472167cd6c8de78f337abdbf15971,21435aaa75049da98227e30be6e2ffcf5a83ee20,"Add output_stride parameter to quantize.md
+
+The default output_stride in export_model.py is 8. The example in quantize.md is a model that expects an output_stride of 16. So if you try to use export_model.py without setting the output_stride, the resulting model will convert to tflite fine but with the wrong output_stride. This likely produces an invalid model. In my use case where I wanted to compile the model for an edgetpu, I suspect that this issue with the resulting model was causing the compiler to abort.",2021-04-14T18:07:17Z,john-maidbot,78750993+john-maidbot@users.noreply.github.com,GitHub,noreply@github.com
+223,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,7aaad4ee6fc04625f1a4782aab3df2d57273124d,9811eb32f1d63fff03056538b5bc4f5fdd821108,Rerun tests with,2021-04-14T14:28:13Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+224,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,7455cb713a0a33b13b6c6988e234a47a7b746e96,15c962ff211a9346afa404078d618cc67dda8cc5,Merge master-npz branch,2021-04-14T13:09:43Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+225,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,a828e470cc045ef44d39fbfe6654392a7d4edf6d,e6d6e1098203b95edb43164e6bc0d80fd87765f1,Merge branch 'master' of https://github.com/tensorflow/models into basnet,2021-04-14T02:01:08Z,Gunho Park,gunho1123@gmail.com,Gunho Park,gunho1123@gmail.com
+226,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9f7971cb05767cfb929c650d053a2da466e83be3,15c962ff211a9346afa404078d618cc67dda8cc5,add reference npz/ files generated from master branch,2021-04-14T00:29:50Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+227,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f8fcb69f14f95f8ff7c325c9c0a08b34457f0b46,f94e1725a1dfe97fc9bdc2db0b5d23f2b2fe2ba0,add a  test,2021-04-14T00:17:49Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+228,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,fe3d80ae56cd735ed51b627cfec9f298f45cc54a,92523a54250a7f7e7fb197edadf27c4e98def7a3,Parameterize the model output.,2021-04-13T23:23:47Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+229,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,8a5681601830fd9b105ab6c6eac4a9aa29d08857,04ab44e817d0468f233ded484d7955c235b3ca9a,"Remove dummy layer, move batch flattening.",2021-04-13T22:47:44Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+230,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,0147de239f159627df941f46d42fe46a7f336e75,60cfbf15970a791cb5b436d828ff74cbba703fdf,Fix attention application in DELG,2021-04-13T21:37:23Z,its-dron,dron@alum.mit.edu,its-dron,dron@alum.mit.edu
+231,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,29919194fa1e551611e8a33b1cfe7e1eba26ee27,60cfbf15970a791cb5b436d828ff74cbba703fdf,Fix attention application in DELG,2021-04-13T20:28:20Z,Daniel Ron,danron@amazon.com,Daniel Ron,danron@amazon.com
+232,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,ab1ff245e2c8262497e770db0dc724fa0691b5bf,83163d27a7466c2a0c5164b23209d14edde1e8fa,Global model training,2021-04-13T19:50:11Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+233,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9ca4908345e1f30612782328e68f5cb0fdca6065,376dc4619df5fd5ec1b219757e5d23246fa5990a,Adding global model dataset related modules,2021-04-13T19:43:35Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+234,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9b99cc5c7fdc256359243e8a1be414de6e27a10a,74a5e35b2b720037d2b8beb38ed2036c0a7008d7,"Global model definition added, synced",2021-04-13T19:39:27Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+235,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f90e43968bed72a92cc8323eb79326b19031d0aa,e8901a066fc14a7ff0d11bd529b6e94171a4bd79,Added global model supporting modules,2021-04-13T19:27:24Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+236,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,4cdb2bb810b572f2d61837dcc82f338e82a79d7a,4ccee715522ea15c91a957018e6d76049468b78a,Syncing 2,2021-04-13T19:23:05Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+237,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,341d1647e3d8b9b6ceb79b3998fc73ffda6c44ec,895ce3710288b51974486495f5689371768871c8,Syncing 2,2021-04-13T19:17:39Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+238,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,b995583b2691b175ac53a7033c8b045560d1e94c,d31979cf2764e4f783294a57381e368c6e4d7c54,Syncing,2021-04-13T19:09:45Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+239,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,05fe29698d4936730bea94bce69ea6ba0612972e,3cae0d8ff3b204735d33b8c61398071374191bf0,Removed unnecessary files,2021-04-13T18:44:31Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+240,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,5037e530acec4b9201ed2203abd3e17ed6da364e,5b4c200b92b2c51003346c3d39e13dd20d56b595,Removed unnecessary modules,2021-04-13T17:56:17Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+241,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,8a62788d2452943c66ff819aac50c88ed4f5883c,fc221bbe033e3e8620642ae0d18f29a2a902907d,"Update tf2_detection_zoo.md
+
+Added a period, to be consistent with the subsequent paragraph.",2021-04-12T16:07:33Z,Dan Morris,dmorris@cs.stanford.edu,GitHub,noreply@github.com
+242,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,908815d0a42e83d0009d4381b32b09a796dc1783,5f887cbe9f5bf84c6bba88f8ad0656b34d8d9679,"Add efficientnet to community
+
+Signed-off-by: Pablo Ribalta Lorenzo <pribalta@nvidia.com>",2021-04-12T11:02:56Z,Pablo Ribalta Lorenzo,pribalta@nvidia.com,Pablo Ribalta Lorenzo,pribalta@nvidia.com
+243,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,86c5d56c50e1e45dc577e4e54dcc75113d31b02e,a8426b85d215d4698fb47dcfb365f36bf8926121,repo sync,2021-04-12T11:08:01Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+244,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,228cbb3e7385955d2534f9209d92a7ecd7c50d86,d50c07bf5cea49f2d6988863bd2e4517337e5ed6,repo sync,2021-04-12T11:05:19Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+245,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,78504de36fd2f075863b7aebe2d718612ff11eef,f6518d03145577a07e3e10de80d713f814be4a0d,Merge remote-tracking branch 'upstream/master',2021-04-12T10:26:15Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+246,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,8162ede7ce9db24d24c9d29cfee430e2504d64a8,2e3cbd58de805b1bc6ac95c39cae67bed0dfef4c,PR fixes,2021-04-12T07:52:55Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+247,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,f971295121918a18ff6137ef005b61de3d08d872,efec481711cd9819eaeb87cad04a3fd8586664e8,Fix tests,2021-04-08T21:03:06Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+248,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,2e86c519b2ab533603e3c57b29ad99d00962e038,5b98ec0366ff15afe4b42834c27e49da94b3ab39,Fix tests,2021-04-08T20:28:45Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+249,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,feada13995900a26f183bc48768955b058142c4d,bae033d01a2318b4764039efb93030404ccae015,"Fix tfjs export.
+
+There's a `BroadcastArgs` operation in
+linear_to_mel_weight_matrix -> linspace that tfjs cannot convert.
+
+So `linear_to_mel_weight_matrix` can't run while the model's
+executing. It needs to run before.
+
+A `tf.init_scope` runs with eager execution [1] allowing you to calculate
+the constant value outside of the graph that's being built.
+
+I don't see how this could work before my change, unless the
+`BroadcastArgs` was added later, or my change prevents somehow prevents
+an optimization step from removing the `BroadcastArgs`.
+
+[1] https://www.tensorflow.org/api_docs/python/tf/init_scope
+
+> When eager execution is enabled, code inside an init_scope block runs
+with eager execution enabled even when tracing a tf.function.",2021-04-08T20:10:18Z,Mark Daoust,markdaoust@google.com,Mark Daoust,markdaoust@google.com
+250,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,c5dcc0f9505593460a2bc77cffe5cd369c2b0858,c4398dfa73a16c03684c1cbce8670ef6f1ddd164,Test dataset update,2021-04-07T08:18:07Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+251,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,4c46b6d69cf9f0dca268cbe4d17a5b837e635486,2c47d97658007fed43bc53cdd29dc5bdb7a06e1e,global features fix,2021-04-07T07:49:11Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+252,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,031f636a56f585cd198542bd91cf7d857e341660,14b2ae6aaccd62e3c8d5fffdbf48acb5a616e40d,global features model training added,2021-04-07T07:45:07Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+253,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,5447ce11ab2ed58916f1604b4623cbbb431a77ad,25d09e888f50ec9367f3ba982300234d40b5291d,Adds TR-LT Official and removes W&D Int8 precision,2021-04-05T21:19:48Z,Melanie H Buehler,melanie.h.buehler@intel.com,Melanie H Buehler,melanie.h.buehler@intel.com
+254,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,b10d546c4709d52e9e0a28d0a0aa4f62600c5439,e3a951e69c40fdc8273e25f5ce81935162096aed,Added option to return boxes in visualization_utils.py/visualize_boxes_and_labels_on_image_array,2021-04-01T17:31:36Z,wolf-hash,karansingh8777@gmail.com,wolf-hash,karansingh8777@gmail.com
+255,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,335823144cece96e3cd3d9296e83f402cd022daa,551e4c2de75011676ed433619a1a4a57a6b4e8da,"Add dlrm entry
+
+Signed-off-by: Pablo Ribalta Lorenzo <pribalta@nvidia.com>",2021-03-31T17:27:23Z,Pablo Ribalta Lorenzo,pribalta@nvidia.com,Pablo Ribalta Lorenzo,pribalta@nvidia.com
+256,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,66ff408854b1f79df6e0d5d931ac0c2f9fcf863f,82a980a4fa05bf20ac982e4ed4e6c0d1a8172cb6,Dataset modules fix.,2021-03-31T08:59:28Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+257,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,e4009b236c08afc812b18060c9976f0a3764ee52,e704960cc1621e703d6a84d40f93df5e37367d6f,Dataset modules added.,2021-03-31T08:49:32Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+258,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,d82024098fd39b67f0ae93f57cc86a9c9cd7bdaa,4607097d2045a3ae3a542a0e851a6079c5e37a9d,Global model definition,2021-03-30T17:37:29Z,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz,"Jaroslavceva, Jekatěrina",jarosjek@fel.cvut.cz
+259,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,fc227c3bd84c174377f04489135af026209f9b1b,43ed9d7f280539d34d6c31da3ce8decfbd13f3c9,"Fix Keras hyperparams get_regularizer_weight() to return float.
+
+PiperOrigin-RevId: 365177695",2021-03-26T03:18:17Z,Austin Myers,aom@google.com,TF Object Detection Team,object-detection-dev+copybara@google.com
+260,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,81e456dd69dedd2173e76c18db6a4fdbb1e45213,d40b6c81d86236ff8761f44770afaacbcd85ff79,"Clarify which part of the StandardEvaluator functions is in eager or graph mode.
+
+PiperOrigin-RevId: 365133146",2021-03-25T22:05:44Z,Ruoxin Sang,rxsang@google.com,A. Unique TensorFlower,gardener@tensorflow.org
+261,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,207e8ed87c39176114dfe55ea2986f562d543f49,8f3b299292a7db51e5af0d8b36ab0ea52036d93b,"Create GitHub Action for pylint script. (#9818)
+
+* Create GitHub Action for pylint script.
+
+* Fix indent
+
+* Add back incremental flag from TF, remove allowlist.
+
+Running a full-repo pylint with Github Actions CI takes >40 minutes,
+too long for use on presubmit.
+
+Allowlist is per-file, so the TF allowlist offers nothing here.
+
+* Fetch master so our script has something to diff against.
+
+* Checkout as branch rather than as merge.
+
+This should (?) get us only our modified files.
+
+* Diff to common ancestor.
+
+* Terrible no-good commit introducing linter error.
+
+* Point to locally fetched master.
+
+* debug logging
+
+* HEAD missing?
+
+* Fetch full branches.
+
+* Fetch master again.
+
+* Revert ""debug logging""
+
+This reverts commit 6edde819537a162a2fe4010b0e66c82b088ea7a9.
+
+* Revert ""Terrible no-good commit introducing linter error.""
+
+This reverts commit ac41b830342a21a1711a9d77a11777276602fb96.",2021-03-25T20:46:55Z,Revan Sopher,rsopher@google.com,GitHub,noreply@github.com
+262,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,b4ca8615ef3d005e804a9bf047549ecb52c30296,35bd6f0a8c5fae007dda213ead144bd2b4278d23,"Revert ""Terrible no-good commit introducing linter error.""
+
+This reverts commit ac41b830342a21a1711a9d77a11777276602fb96.",2021-03-25T03:48:13Z,Revan Sopher,rsopher@google.com,Revan Sopher,rsopher@google.com
+263,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,2c8fdc2060ec283f0840c58814f0fdae1f4e0fbd,d668d702de58c1b751fa30822ab926c775228fad,"Revert ""debug logging""
+
+This reverts commit 6edde819537a162a2fe4010b0e66c82b088ea7a9.",2021-03-25T03:45:36Z,Revan Sopher,rsopher@google.com,Revan Sopher,rsopher@google.com
+264,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,9f340cd53d395b6075c0a1cb8eba34a18fa482c3,dd5e11fef491827593f76a210666965e92bc78ac,Fetch master again.,2021-03-25T03:38:00Z,Revan Sopher,rsopher@google.com,Revan Sopher,rsopher@google.com
+265,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,679397e0050b2deb6788c2cff56cd74745d0bc47,bba5b64297936688681ffca79b2ae38a9e7877a9,Fetch full branches.,2021-03-25T03:34:36Z,Revan Sopher,rsopher@google.com,Revan Sopher,rsopher@google.com
+266,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,302b4e6c1f435330bc5226943753b9639057bb1e,6aae79df65b075b8fc71b0806ccb8c6f93c45485,HEAD missing?,2021-03-25T03:19:16Z,Revan Sopher,rsopher@google.com,Revan Sopher,rsopher@google.com
+267,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,6edde819537a162a2fe4010b0e66c82b088ea7a9,3ae1f8bf64a0eae857b11354855c4c9b0138130b,debug logging,2021-03-25T03:14:03Z,Revan Sopher,rsopher@google.com,Revan Sopher,rsopher@google.com
+268,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,c4849698c2cea35c39003e84920da691cbdb0bd5,7a8c8ad8ad2b1bb770723601f1ba248ef1873f4a,Point to locally fetched master.,2021-03-25T02:54:39Z,Revan Sopher,rsopher@google.com,Revan Sopher,rsopher@google.com
+269,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,ac41b830342a21a1711a9d77a11777276602fb96,6eaf9e6273f13a16a259cc0085d795f09f071d3d,Terrible no-good commit introducing linter error.,2021-03-25T02:50:36Z,Revan Sopher,rsopher@google.com,Revan Sopher,rsopher@google.com
+270,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,52dbcf9b7c0495e63158844c166509adc1f0b20b,075657047dd45954d86903777253e655de9f2089,Diff to common ancestor.,2021-03-25T02:14:09Z,Revan Sopher,rsopher@google.com,Revan Sopher,rsopher@google.com
+271,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,228edb2ea37b6c8c58a6c59247a58f3cd7f8b0ea,788192274ce0edf0a76fdeb40711d7c2a71cc654,"Checkout as branch rather than as merge.
+
+This should (?) get us only our modified files.",2021-03-25T01:58:57Z,Revan Sopher,rsopher@google.com,Revan Sopher,rsopher@google.com
+272,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,6061f75d7c6e676bc85126100d1cd82fb5c12a78,bcd215556e294c4b670b84ef31392be319aa36f1,Fetch master so our script has something to diff against.,2021-03-25T01:38:28Z,Revan Sopher,rsopher@google.com,Revan Sopher,rsopher@google.com
+273,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,0d0eeeb97103aa2a4357836613a626d114f0bba5,5f0e38cb6b91d6d4b96e6f3beb23ccbb0f82b3f8,"Add back incremental flag from TF, remove allowlist.
+
+Running a full-repo pylint with Github Actions CI takes >40 minutes,
+too long for use on presubmit.
+
+Allowlist is per-file, so the TF allowlist offers nothing here.",2021-03-25T01:21:11Z,Revan Sopher,rsopher@google.com,Revan Sopher,rsopher@google.com
+274,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,35bcb3cfee5bceb603594b0b0c0d3e47992ded4a,62d176672818ad391a978ffdc326a1de0b705593,Fix indent,2021-03-19T21:30:51Z,Revan Sopher,rsopher@google.com,GitHub,noreply@github.com
+275,tensorflow,models,https://github.com/tensorflow/models,https://api.github.com/repos/tensorflow/models/actions/runs,613ba6949f4fb6c0b7304951f89c7e8f2ef95286,ce5b051f03ab4b02d0a07db5457ee2d2957714f6,Create GitHub Action for pylint script.,2021-03-19T21:28:20Z,Revan Sopher,rsopher@google.com,GitHub,noreply@github.com

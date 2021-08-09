@@ -1,0 +1,1176 @@
+,organization,repo,repo_url,actions_url,head_commit_id,head_commit_tree_id,head_commit_message,head_commit_timestamp,head_commit_author_name,head_commit_author_email,head_commit_committer_name,head_commit_committer_email
+0,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,8207540632121ec947bd955b946774b97be22f1b,29d9a4e0f53dd7b98edb76b9a33a9479726362b0,fixed module name to FQCN,2021-08-07T14:29:06Z,Akira Yokochi,akira6592@gmail.com,GitHub,noreply@github.com
+1,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,8207540632121ec947bd955b946774b97be22f1b,29d9a4e0f53dd7b98edb76b9a33a9479726362b0,fixed module name to FQCN,2021-08-07T14:29:06Z,Akira Yokochi,akira6592@gmail.com,GitHub,noreply@github.com
+2,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,8bd10738606ba4be269bf2b865cce9404738cad2,4ee43947bf597bf475b640b2311514a9f6235516,Additional refinement to execution node check frequency,2021-08-06T20:37:25Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+3,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bc083089bb426403cf36834f2d53479036a64aaf,c756771974d171888fce99866f10bf559636231e,"Update inventory source sync button on kebab
+
+Update inventory source sync button on kebab
+
+See: https://github.com/ansible/awx/issues/8020",2021-08-06T20:31:07Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+4,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bc083089bb426403cf36834f2d53479036a64aaf,c756771974d171888fce99866f10bf559636231e,"Update inventory source sync button on kebab
+
+Update inventory source sync button on kebab
+
+See: https://github.com/ansible/awx/issues/8020",2021-08-06T20:31:07Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+5,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bc083089bb426403cf36834f2d53479036a64aaf,c756771974d171888fce99866f10bf559636231e,"Update inventory source sync button on kebab
+
+Update inventory source sync button on kebab
+
+See: https://github.com/ansible/awx/issues/8020",2021-08-06T20:31:07Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+6,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,7cc45f4a42b9f801e174181c45b4c6faf4b5f361,be4b72e626d2f12e26c1a100e013fbb1b1b3b6ea,adds dragging functionality to modal,2021-08-06T19:57:15Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+7,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ec66ffb1ebccf8637f9774dee2b6384a97d1708d,3a1369d618ac054ac9e6a79c25e19c24a53b3ce1,"Merge pull request #10826 from beeankha/fix_collection_name_issue
+
+Point to the Correct Name for AAP Within Collections",2021-08-06T18:32:46Z,Bianca Henderson,bstohrer@redhat.com,GitHub,noreply@github.com
+8,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ec66ffb1ebccf8637f9774dee2b6384a97d1708d,3a1369d618ac054ac9e6a79c25e19c24a53b3ce1,"Merge pull request #10826 from beeankha/fix_collection_name_issue
+
+Point to the Correct Name for AAP Within Collections",2021-08-06T18:32:46Z,Bianca Henderson,bstohrer@redhat.com,GitHub,noreply@github.com
+9,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a2fc77f145ab4ff85422673a96d7b6bfed9d57ec,1df6776b75ae6cf7b59b38d1ac71517241ca49b7,adds dragging functionality to modal,2021-08-05T17:49:00Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+10,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,1858f6eecd5553aec848dce58c64ecd73ca7c02b,f2deb1e35135c5f5c55db0bc432fbf518e957f51,Undo the raw value override from the PoC,2021-08-06T17:30:06Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+11,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3a6b228f6fbe7fa0f401d85c87ae795e4a773638,03b1e36d58f1ac5f6648f4121f8cd364715d3a8b,"Merge pull request #10821 from nixocio/ui_ids
+
+Add Ids to ease tests",2021-08-06T15:41:59Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+12,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3a6b228f6fbe7fa0f401d85c87ae795e4a773638,03b1e36d58f1ac5f6648f4121f8cd364715d3a8b,"Merge pull request #10821 from nixocio/ui_ids
+
+Add Ids to ease tests",2021-08-06T15:41:59Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+13,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ea162f3af4f65c2117c51019cefec796996b8b1f,a57b0d95fab49f5a395481b6ac5c82cd801793a4,Addresses permission problem on host group list and adds convergence data to Prompt Detail,2021-08-06T14:53:18Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+14,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ea162f3af4f65c2117c51019cefec796996b8b1f,a57b0d95fab49f5a395481b6ac5c82cd801793a4,Addresses permission problem on host group list and adds convergence data to Prompt Detail,2021-08-06T14:53:18Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+15,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ea162f3af4f65c2117c51019cefec796996b8b1f,a57b0d95fab49f5a395481b6ac5c82cd801793a4,Addresses permission problem on host group list and adds convergence data to Prompt Detail,2021-08-06T14:53:18Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+16,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ea162f3af4f65c2117c51019cefec796996b8b1f,a57b0d95fab49f5a395481b6ac5c82cd801793a4,Addresses permission problem on host group list and adds convergence data to Prompt Detail,2021-08-06T14:53:18Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+17,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,58837499959c1832adfa5189abb6fc1bfd7c5ab8,c27014d6f60b1ea3941ad9ba2434041fb5b7abcf,marks dashboard chart axis labels for translation,2021-08-05T15:13:45Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+18,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e9b9dd30720995212b83b618d33a48e412d96d4e,cc25db692a39468e39f07db98a81655541e0e037,"Add Ids to ease tests
+
+Add Ids to ease tests.
+
+See: https://github.com/ansible/awx/issues/8680#issuecomment-893663314",2021-08-06T14:12:06Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+19,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bc365e2d0111145b443b9d55c583e362ae03178f,5d4c81e03d04f8187f042736376f028de9eaa1db,Point to the correct name for AAP within collections,2021-08-06T14:13:06Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+20,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bc365e2d0111145b443b9d55c583e362ae03178f,5d4c81e03d04f8187f042736376f028de9eaa1db,Point to the correct name for AAP within collections,2021-08-06T14:13:06Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+21,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bc365e2d0111145b443b9d55c583e362ae03178f,5d4c81e03d04f8187f042736376f028de9eaa1db,Point to the correct name for AAP within collections,2021-08-06T14:13:06Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+22,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bc365e2d0111145b443b9d55c583e362ae03178f,5d4c81e03d04f8187f042736376f028de9eaa1db,Point to the correct name for AAP within collections,2021-08-06T14:13:06Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+23,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e9b9dd30720995212b83b618d33a48e412d96d4e,cc25db692a39468e39f07db98a81655541e0e037,"Add Ids to ease tests
+
+Add Ids to ease tests.
+
+See: https://github.com/ansible/awx/issues/8680#issuecomment-893663314",2021-08-06T14:12:06Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+24,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,7b065ae0a06c3522735fa49c02bc6f81e62d0a50,d4bd0c13ebba86255e63297f9e934db7971fa783,"Merge pull request #10789 from phemmer/patch-1
+
+add minikube to github bug template",2021-08-06T14:04:00Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+25,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,7b065ae0a06c3522735fa49c02bc6f81e62d0a50,d4bd0c13ebba86255e63297f9e934db7971fa783,"Merge pull request #10789 from phemmer/patch-1
+
+add minikube to github bug template",2021-08-06T14:04:00Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+26,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,8cd8510a1b0c008b780b38bf4962161402fa2b81,ba63d44ae07ad5c2c783b40057a134e32cf6d2ed,Integrate new --worker-info into the execution node capacity check,2021-08-06T13:46:43Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+27,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c10d556f1745821387a55eab45ef1d87e65761a1,d4bd0c13ebba86255e63297f9e934db7971fa783,add minikube to github bug template,2021-08-06T13:36:00Z,Patrick Hemmer,phemmer@users.noreply.github.com,Jake McDermott,yo@jakemcdermott.me
+28,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0b3173d4ce579e567bd105db5cd3c719663d9260,5a357d735f1de69a5e3fdedb987bb35168617dd4,Make status command in error handling cleaner,2021-08-06T00:06:45Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+29,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,2378f90e90d7b9d37f0735cfb6bbb39110a1c671,f0951a2e323fe801d247c7d9f58abf4f1b00f8ff,delete duplicate prop,2021-08-05T21:28:34Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+30,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e6881caafb951e36ad372da385805ce24b2b7acb,f5390acbfd90359feba47348f91f62b13e89baec,move new files to ui dir,2021-08-05T21:12:35Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+31,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,134ff864366104054df29783743c651243a1bd99,51288f2b5ee1a722ff66a97b2301853c0d558d32,"Add Ids to ease tests
+
+Add Ids to ease tests.
+
+See: https://github.com/ansible/awx/issues/8680#issuecomment-893663314",2021-08-05T20:54:05Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+32,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,134ff864366104054df29783743c651243a1bd99,51288f2b5ee1a722ff66a97b2301853c0d558d32,"Add Ids to ease tests
+
+Add Ids to ease tests.
+
+See: https://github.com/ansible/awx/issues/8680#issuecomment-893663314",2021-08-05T20:54:05Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+33,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,134ff864366104054df29783743c651243a1bd99,51288f2b5ee1a722ff66a97b2301853c0d558d32,"Add Ids to ease tests
+
+Add Ids to ease tests.
+
+See: https://github.com/ansible/awx/issues/8680#issuecomment-893663314",2021-08-05T20:54:05Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+34,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,1ea0ff611a5d08426839b769ddf7c874b0789101,d7dba758938ea3c07b43ab06d40513295e0dde33,"Merge pull request #10819 from keithjgrant/8474-hide-search-clear-all
+
+Remove Clear All button in search when filters cleared",2021-08-05T18:20:24Z,Keith Grant,keithjgrant@redhat.com,GitHub,noreply@github.com
+35,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,1ea0ff611a5d08426839b769ddf7c874b0789101,d7dba758938ea3c07b43ab06d40513295e0dde33,"Merge pull request #10819 from keithjgrant/8474-hide-search-clear-all
+
+Remove Clear All button in search when filters cleared",2021-08-05T18:20:24Z,Keith Grant,keithjgrant@redhat.com,GitHub,noreply@github.com
+36,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,58837499959c1832adfa5189abb6fc1bfd7c5ab8,c27014d6f60b1ea3941ad9ba2434041fb5b7abcf,marks dashboard chart axis labels for translation,2021-08-05T15:13:45Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+37,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,92e35978dcf549004808a37c3ce2784ca35f71f6,a7cd16c366fd16950a46013525e437c788c951c8,remove Clear All button in search when filters cleared,2021-08-05T17:46:43Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+38,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,92e35978dcf549004808a37c3ce2784ca35f71f6,a7cd16c366fd16950a46013525e437c788c951c8,remove Clear All button in search when filters cleared,2021-08-05T17:46:43Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+39,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a2fc77f145ab4ff85422673a96d7b6bfed9d57ec,1df6776b75ae6cf7b59b38d1ac71517241ca49b7,adds dragging functionality to modal,2021-08-05T17:49:00Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+40,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a2fc77f145ab4ff85422673a96d7b6bfed9d57ec,1df6776b75ae6cf7b59b38d1ac71517241ca49b7,adds dragging functionality to modal,2021-08-05T17:49:00Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+41,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,93f15f94f67b3e9e60695f4ab90756c47b3c3923,8996f6ce34e6d9352c4c67bc72bc9a1e9bdfce67,Correctly format `startTime` in Schedule Edit and Add unit tests.,2021-08-04T19:32:12Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+42,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a2fc77f145ab4ff85422673a96d7b6bfed9d57ec,1df6776b75ae6cf7b59b38d1ac71517241ca49b7,adds dragging functionality to modal,2021-08-05T17:49:00Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+43,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a2fc77f145ab4ff85422673a96d7b6bfed9d57ec,1df6776b75ae6cf7b59b38d1ac71517241ca49b7,adds dragging functionality to modal,2021-08-05T17:49:00Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+44,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a2fc77f145ab4ff85422673a96d7b6bfed9d57ec,1df6776b75ae6cf7b59b38d1ac71517241ca49b7,adds dragging functionality to modal,2021-08-05T17:49:00Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+45,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,92e35978dcf549004808a37c3ce2784ca35f71f6,a7cd16c366fd16950a46013525e437c788c951c8,remove Clear All button in search when filters cleared,2021-08-05T17:46:43Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+46,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,86396514728899bbc27ab43db82836be0f2ea4f2,7413ab447bc552a59962ecd68bad1b070e919e90,move new files to ui dir,2021-08-03T17:14:47Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+47,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,58837499959c1832adfa5189abb6fc1bfd7c5ab8,c27014d6f60b1ea3941ad9ba2434041fb5b7abcf,marks dashboard chart axis labels for translation,2021-08-05T15:13:45Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+48,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,8d06c644956479725172837896571787768f6a06,ab44cf43f59f7831eb029745884ef1daa6d0253d,"Merge pull request #10772 from nixocio/ui_upgrade_formik
+
+Upgrade formik",2021-08-05T17:14:00Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+49,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,8d06c644956479725172837896571787768f6a06,ab44cf43f59f7831eb029745884ef1daa6d0253d,"Merge pull request #10772 from nixocio/ui_upgrade_formik
+
+Upgrade formik",2021-08-05T17:14:00Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+50,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,58837499959c1832adfa5189abb6fc1bfd7c5ab8,c27014d6f60b1ea3941ad9ba2434041fb5b7abcf,marks dashboard chart axis labels for translation,2021-08-05T15:13:45Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+51,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,fe8cd7188cf8856e0549bd74e8187d06693de3e2,ea0a70a86ea6e1a53ab4fff18dd67209f2b66c1e,"Upgrade formik
+
+Upgrade formik",2021-08-05T14:56:00Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+52,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c721fe0b37506e46dfc360693b2bfd74aae7139a,4addb8564053eda2b1650dd52bfd02c1d3c53eb5,"Merge pull request #10794 from nixocio/ui_issue_8680
+
+Show PAT as part of bulk delete list",2021-08-05T14:33:09Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+53,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c721fe0b37506e46dfc360693b2bfd74aae7139a,4addb8564053eda2b1650dd52bfd02c1d3c53eb5,"Merge pull request #10794 from nixocio/ui_issue_8680
+
+Show PAT as part of bulk delete list",2021-08-05T14:33:09Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+54,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ba1f89b9d8666e1c848ec8832a277ad692526d32,decff4ec1f160ddf7b75a2a327c6db4f9876a6bb,"Merge pull request #10796 from nixocio/ui_issue_job_id
+
+Add job id to job details screen",2021-08-05T14:32:24Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+55,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ba1f89b9d8666e1c848ec8832a277ad692526d32,decff4ec1f160ddf7b75a2a327c6db4f9876a6bb,"Merge pull request #10796 from nixocio/ui_issue_job_id
+
+Add job id to job details screen",2021-08-05T14:32:24Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+56,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,d94eba717990605ddf6910915cd938fb4034c255,8ebd720ee3f33c8152b9d6f8329fa0c8d7ca1b4c,"Merge pull request #10810 from nixocio/ui_update_npm_container
+
+Bump npm version inside container",2021-08-05T13:54:45Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+57,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,d94eba717990605ddf6910915cd938fb4034c255,8ebd720ee3f33c8152b9d6f8329fa0c8d7ca1b4c,"Merge pull request #10810 from nixocio/ui_update_npm_container
+
+Bump npm version inside container",2021-08-05T13:54:45Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+58,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0492cc29efeda83d55bcef68f29df74e6051cae9,ed53e3d183cc794d58759db1c5df08c8bc6b7770,marks dashboard chart axis labels for translation,2021-08-05T13:25:38Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+59,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0492cc29efeda83d55bcef68f29df74e6051cae9,ed53e3d183cc794d58759db1c5df08c8bc6b7770,marks dashboard chart axis labels for translation,2021-08-05T13:25:38Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+60,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,93f15f94f67b3e9e60695f4ab90756c47b3c3923,8996f6ce34e6d9352c4c67bc72bc9a1e9bdfce67,Correctly format `startTime` in Schedule Edit and Add unit tests.,2021-08-04T19:32:12Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+61,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,f2e8b90628d988bba7be24033533497177bed06f,8ebd720ee3f33c8152b9d6f8329fa0c8d7ca1b4c,"Bump npm version inside container
+
+Bump npm version inside container
+
+See: https://docs.npmjs.com/cli/v7/configuring-npm/package-lock-json#lockfileversion",2021-08-04T19:34:27Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+62,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,93f15f94f67b3e9e60695f4ab90756c47b3c3923,8996f6ce34e6d9352c4c67bc72bc9a1e9bdfce67,Correctly format `startTime` in Schedule Edit and Add unit tests.,2021-08-04T19:32:12Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+63,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,2f0b5fc20a1dd86bb50f219ccfd2cae169b4e27d,7a2fb8085d0c0f7811de3d70d7086b41662e31c0,"Merge pull request #10722 from AlexSCorey/10706-DisappearingField
+
+Ensures that field is on screen behind the confirmation modal",2021-08-04T17:21:35Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+64,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,2f0b5fc20a1dd86bb50f219ccfd2cae169b4e27d,7a2fb8085d0c0f7811de3d70d7086b41662e31c0,"Merge pull request #10722 from AlexSCorey/10706-DisappearingField
+
+Ensures that field is on screen behind the confirmation modal",2021-08-04T17:21:35Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+65,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,6bfe95f496194736cfadb343280ce4520f8aecb1,bc98443e9247351e5e5ad167850379293845990e,Use the existing get_receptor_ctl method (#10813),2021-08-04T15:02:04Z,Alan Rominger,arominge@redhat.com,GitHub,noreply@github.com
+66,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,453da13228990b0fd8d0e64e27e8ce9261eb8fa5,bc98443e9247351e5e5ad167850379293845990e,Use the existing get_receptor_ctl method,2021-08-04T15:01:09Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+67,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bc6e38a1c20b4cea284779b4e25e1298566f113e,8f572d196b201f8d007e87c8c82da193af94e123,"Adopt the node_type field in receptor logic (#10802)
+
+* Adopt the node_type field in receptor logic
+
+* Refactor Instance.objects.register so we do not reset capacity to 0",2021-08-04T14:59:44Z,Alan Rominger,arominge@redhat.com,GitHub,noreply@github.com
+68,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,53817d3cbeb6641d5bd2c3ced94ed00c77f76a18,0301de25a4b7fbd84046d4e6ffe9868d60868b21,ensures that field is on screen behind the confirmation modal,2021-08-03T22:08:11Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+69,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b8e624174b5faf16988967f5de936d76198b409c,717cc42f25a20aa3b2e88367f59b2c9077dc344e,Use the existing get_receptor_ctl method,2021-08-04T14:30:01Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+70,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,97a4122cebb177911dbcde490bc490ac06a032f3,b8215c7294acf53f87f1c2d9c6b66735ad5803a9,"Add job id to job details screen
+
+Add job id to job details screen
+
+See: https://github.com/ansible/awx/issues/10786",2021-08-03T20:11:54Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+71,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0d078f5df1291a6259cbe28e1b63ae21ef226df0,62662338f2565525539e23d3318df588e52eb5da,"Bump npm version inside container
+
+Bump npm version inside container
+
+See: https://docs.npmjs.com/cli/v7/configuring-npm/package-lock-json#lockfileversion",2021-08-04T13:23:59Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+72,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ddfcee9622e6d838b122dd224ee49f1986fff1cf,8f572d196b201f8d007e87c8c82da193af94e123,Refactor Instance.objects.register so we do not reset capacity to 0,2021-08-04T13:15:27Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+73,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cc9856e938c2f4e3ce432378cc9b1b7ef0a7fe02,54b4417dbebad5f7903ba117d809eee76991f328,Adopt the node_type field in receptor logic,2021-08-04T11:51:43Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+74,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,53817d3cbeb6641d5bd2c3ced94ed00c77f76a18,0301de25a4b7fbd84046d4e6ffe9868d60868b21,ensures that field is on screen behind the confirmation modal,2021-08-03T22:08:11Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+75,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bf2f30676a81114d038f3d0b41bec5300726748f,55416ebfe36d864e0c517e8eb61c829de2021fc9,"Bump npm version inside container
+
+Bump npm version inside container
+
+See: https://docs.npmjs.com/cli/v7/configuring-npm/package-lock-json#lockfileversion",2021-08-03T21:28:39Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+76,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bf2f30676a81114d038f3d0b41bec5300726748f,55416ebfe36d864e0c517e8eb61c829de2021fc9,"Bump npm version inside container
+
+Bump npm version inside container
+
+See: https://docs.npmjs.com/cli/v7/configuring-npm/package-lock-json#lockfileversion",2021-08-03T21:28:39Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+77,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bf2f30676a81114d038f3d0b41bec5300726748f,55416ebfe36d864e0c517e8eb61c829de2021fc9,"Bump npm version inside container
+
+Bump npm version inside container
+
+See: https://docs.npmjs.com/cli/v7/configuring-npm/package-lock-json#lockfileversion",2021-08-03T21:28:39Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+78,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c23f7f5bdc21b8e6654a1712bb8e43f506178ca1,6b0ddd9c67eab70b449a68c1e72b866ac832a9d8,"Merge pull request #10807 from beeankha/collections_doc_error
+
+Fix Broken Collections Docs",2021-08-03T21:05:29Z,Bianca Henderson,bstohrer@redhat.com,GitHub,noreply@github.com
+79,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c23f7f5bdc21b8e6654a1712bb8e43f506178ca1,6b0ddd9c67eab70b449a68c1e72b866ac832a9d8,"Merge pull request #10807 from beeankha/collections_doc_error
+
+Fix Broken Collections Docs",2021-08-03T21:05:29Z,Bianca Henderson,bstohrer@redhat.com,GitHub,noreply@github.com
+80,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,86396514728899bbc27ab43db82836be0f2ea4f2,7413ab447bc552a59962ecd68bad1b070e919e90,move new files to ui dir,2021-08-03T17:14:47Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+81,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0d2bc750e8222cfe926afbded2ea96c152e85331,03e47ef73e1a0b4c5113eac0c0046488b63472c9,"Show PAT as part of bulk delete list
+
+* Show PAT as part of bulk delete list
+* Update tooltip message in how to create a Personal Access Token
+
+See: https://github.com/ansible/awx/issues/8680",2021-08-03T20:12:46Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+82,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4277149a3f8e221f2629b10781862cf387c7de6a,b582800953393d20d3cbd047a9537ff48fddbb74,"Merge pull request #10797 from tiagodread/workflow-e2e
+
+Update workflow to use pull_request_target",2021-08-03T20:31:59Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+83,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4277149a3f8e221f2629b10781862cf387c7de6a,b582800953393d20d3cbd047a9537ff48fddbb74,"Merge pull request #10797 from tiagodread/workflow-e2e
+
+Update workflow to use pull_request_target",2021-08-03T20:31:59Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+84,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3ba00c7a724c4fbf462f5f9cae57ebac072c959c,2897a0113fdd6c553d81ec1b213e8af0b7352692,Add CODEOWNERS for e2e_test.yml,2021-08-03T20:18:47Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+85,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0d2bc750e8222cfe926afbded2ea96c152e85331,03e47ef73e1a0b4c5113eac0c0046488b63472c9,"Show PAT as part of bulk delete list
+
+* Show PAT as part of bulk delete list
+* Update tooltip message in how to create a Personal Access Token
+
+See: https://github.com/ansible/awx/issues/8680",2021-08-03T20:12:46Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+86,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,97a4122cebb177911dbcde490bc490ac06a032f3,b8215c7294acf53f87f1c2d9c6b66735ad5803a9,"Add job id to job details screen
+
+Add job id to job details screen
+
+See: https://github.com/ansible/awx/issues/10786",2021-08-03T20:11:54Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+87,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,6bd6c4b2cc84e6372cbd37c446f6e391aea66bcc,7730618c1058f468dd4e9e66cd3048ff1add8731,ensures that field is on screen behind the confirmation modal,2021-08-03T19:34:58Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+88,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,2c0552871c02c25154a23b1501b620a1fd7912b9,15f45bd122f0673b2e4358cef20e6f4dd7a68004,Correctly format `startTime` in Schedule Edit and Add unit tests.,2021-08-03T19:36:16Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+89,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,8b165b333e7d1a0b4e43beb0e71e28ffac7c4614,3669d98f2923f50b4768b2b67919119268a5c6fb,Update workflow to use pull_request_target,2021-08-03T19:34:42Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+90,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c1e62a1a0a900bade59e6a049883bd36d8b5704b,68682351309852c5c86f99ef35358c54ac098459,Correctly format `startTime` in Schedule Edit and Add unit tests.,2021-08-03T19:23:07Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+91,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ea71fef2bdcf90b8d646cbfd2bd0421ee452d04c,011fe5930568f492ea9b9fca12b8e73aaec75a96,Add required params to collections docs file,2021-08-03T19:06:53Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+92,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ea71fef2bdcf90b8d646cbfd2bd0421ee452d04c,011fe5930568f492ea9b9fca12b8e73aaec75a96,Add required params to collections docs file,2021-08-03T19:06:53Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+93,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9409dc0085921c09eaa2948dd00ec7f59ebe49a4,8f7fca40128e78f558d5f59887ddd1278922252a,Remove Collections module parameters deprecated in Controller 4.0.0,2021-08-03T18:55:45Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+94,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dae3f1a1641b170122213af93b149cbce2a77601,fdf78cefe21f0a8154387e2c383c9c0b16424443,"Merge pull request #10592 from mabashian/2032-workflow-node-alias
+
+Adds support for workflow node aliasing via identifier field",2021-08-03T18:50:18Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+95,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dae3f1a1641b170122213af93b149cbce2a77601,fdf78cefe21f0a8154387e2c383c9c0b16424443,"Merge pull request #10592 from mabashian/2032-workflow-node-alias
+
+Adds support for workflow node aliasing via identifier field",2021-08-03T18:50:18Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+96,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,86396514728899bbc27ab43db82836be0f2ea4f2,7413ab447bc552a59962ecd68bad1b070e919e90,move new files to ui dir,2021-08-03T17:14:47Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+97,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,63a8fbc30900c0ab5c835e8d2fcde38b1c5cca4c,f45451ebca901f9a04c66f70f7643de6ddf673ad,"Merge pull request #3 from tchellomello/feature/calculate-mesh-ansible-plugin-attributes
+
+Ensure required attributes are present in the mesh data",2021-08-03T18:42:39Z,Sarabraj Singh,singh.sarabraj@gmail.com,GitHub,noreply@github.com
+98,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,07b88bc6b223edfb42381640d0eb9a83aba4c903,34db5c0dfe37cc058a29e80499f86e3c99175ef0,"Merge pull request #2 from jbradberry/mesh-module-skeleton
+
+Created a basic documentation module to go along with our action plugin",2021-08-03T18:11:44Z,Sarabraj Singh,singh.sarabraj@gmail.com,GitHub,noreply@github.com
+99,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5e25ca9bbdb5c8064bf8efdcbedbc4fa6ecdb85e,68682351309852c5c86f99ef35358c54ac098459,Correctly format `startTime` in Schedule Edit and Add unit tests.,2021-08-03T17:57:19Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+100,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0213fb541208ca93a6c91d1ab7920c997c8bfcdd,fdf78cefe21f0a8154387e2c383c9c0b16424443,Fix linting errors,2021-08-03T18:08:00Z,mabashian,mabashia@redhat.com,mabashian,mabashia@redhat.com
+101,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,791d24bcb6ce13da8b90e96927055d61ac5b2043,871d74a84f722cd1e57d8a6ab27d04244fa1184d,"Merge pull request #10801 from kialam/add-instances-node-type-ui
+
+Add Node Type to Instances page and modify ""Type"" to ""Policy Type.""",2021-08-03T18:01:02Z,kialam,digitalanime@gmail.com,GitHub,noreply@github.com
+102,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,791d24bcb6ce13da8b90e96927055d61ac5b2043,871d74a84f722cd1e57d8a6ab27d04244fa1184d,"Merge pull request #10801 from kialam/add-instances-node-type-ui
+
+Add Node Type to Instances page and modify ""Type"" to ""Policy Type.""",2021-08-03T18:01:02Z,kialam,digitalanime@gmail.com,GitHub,noreply@github.com
+103,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,729723205f044c03edfc1e1e8203e5eb1e7c5fd6,871d74a84f722cd1e57d8a6ab27d04244fa1184d,Fix unit tests.,2021-08-03T17:06:35Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+104,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,86396514728899bbc27ab43db82836be0f2ea4f2,7413ab447bc552a59962ecd68bad1b070e919e90,move new files to ui dir,2021-08-03T17:14:47Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+105,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,54fbf85743e92dd50bb2458e5c607324be90d3eb,e0af70a8a001f11707668c13b9e7ac524cd9d718,Remove Collections module parameters deprecated in Controller 4.0.0,2021-08-03T16:35:11Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+106,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,54fbf85743e92dd50bb2458e5c607324be90d3eb,e0af70a8a001f11707668c13b9e7ac524cd9d718,Remove Collections module parameters deprecated in Controller 4.0.0,2021-08-03T16:35:11Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+107,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,54fbf85743e92dd50bb2458e5c607324be90d3eb,e0af70a8a001f11707668c13b9e7ac524cd9d718,Remove Collections module parameters deprecated in Controller 4.0.0,2021-08-03T16:35:11Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+108,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,966c24861f7cdd7ad36ded431bb1080878bbfae6,7413ab447bc552a59962ecd68bad1b070e919e90,move new files to ui dir,2021-08-03T16:33:28Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+109,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,779e1f0fab04c4cc0fb68eb6446a6f8adbc8dc45,3669d98f2923f50b4768b2b67919119268a5c6fb,Update workflow to use pull_request_target,2021-08-03T15:24:40Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+110,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dbb5715fea83a868962f49b743fd9d502c2aa0ff,954818f334b23c5b33042a91de7f669bb1b1e93f,"Merge pull request #10803 from akus062381/add-ouia-wfjt-survey-prompt
+
+WFJT Prompt- Survey- add OUIA locators for testability",2021-08-03T14:57:07Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+111,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dbb5715fea83a868962f49b743fd9d502c2aa0ff,954818f334b23c5b33042a91de7f669bb1b1e93f,"Merge pull request #10803 from akus062381/add-ouia-wfjt-survey-prompt
+
+WFJT Prompt- Survey- add OUIA locators for testability",2021-08-03T14:57:07Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+112,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,86ebce6d3d261e51ccab3ce48a5d8adb5582f32b,954818f334b23c5b33042a91de7f669bb1b1e93f,"adding ouiaId locators to Survey Prompt step within Node Prompt Modal for WFJT
+
+adding ouiaId locators to Survey Prompt step within Node Prompt Modal for WFJT",2021-08-03T14:36:24Z,akus062381,sarah.akus@gmail.com,akus062381,sarah.akus@gmail.com
+113,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,71bb66358d0b8274e28a04c2628efae4e864433d,36486a5775d521363a28a6ba32da6a889e344b90,Add required deprecation parameters to extended doc fragment,2021-08-03T14:23:42Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+114,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,71bb66358d0b8274e28a04c2628efae4e864433d,36486a5775d521363a28a6ba32da6a889e344b90,Add required deprecation parameters to extended doc fragment,2021-08-03T14:23:42Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+115,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,71bb66358d0b8274e28a04c2628efae4e864433d,36486a5775d521363a28a6ba32da6a889e344b90,Add required deprecation parameters to extended doc fragment,2021-08-03T14:23:42Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+116,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,71bb66358d0b8274e28a04c2628efae4e864433d,36486a5775d521363a28a6ba32da6a889e344b90,Add required deprecation parameters to extended doc fragment,2021-08-03T14:23:42Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+117,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,569e5fb56aa8a1416f5460a953189b7fd86e9ae4,16492d0d8a4be4eae0dd93e7d34cb52aba5f6f56,"Add job id to job details screen
+
+Add job id to job details screen
+
+See: https://github.com/ansible/awx/issues/10786",2021-08-03T14:19:10Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+118,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e84a629ada1d1340dfc51159ae3f56516984334e,e3929d82746392ee399114f7d9c068c4062bf0ed,"Merge pull request #10788 from beeankha/fix_sanity_errors_collections
+
+Fix Collections Errors",2021-08-03T12:56:43Z,Bianca Henderson,bstohrer@redhat.com,GitHub,noreply@github.com
+119,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e84a629ada1d1340dfc51159ae3f56516984334e,e3929d82746392ee399114f7d9c068c4062bf0ed,"Merge pull request #10788 from beeankha/fix_sanity_errors_collections
+
+Fix Collections Errors",2021-08-03T12:56:43Z,Bianca Henderson,bstohrer@redhat.com,GitHub,noreply@github.com
+120,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,1907859827dc2460d5c8b91f092408816e1a75b4,e6dd00483046ce23001ac4da6fbba32c9da6fd26,"Merge pull request #10724 from nixocio/ui_issue_10676
+
+Merge ui and ui_next in one dir",2021-08-03T12:33:13Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+121,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,1907859827dc2460d5c8b91f092408816e1a75b4,e6dd00483046ce23001ac4da6fbba32c9da6fd26,"Merge pull request #10724 from nixocio/ui_issue_10676
+
+Merge ui and ui_next in one dir",2021-08-03T12:33:13Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+122,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9af9e9a4e4b05531ff076733a79883630ba46db3,240ff72d4ec942efb6d865a55a01c6d26dca9e55,Add error to job_explanation field,2021-08-03T07:32:13Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+123,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9af9e9a4e4b05531ff076733a79883630ba46db3,240ff72d4ec942efb6d865a55a01c6d26dca9e55,Add error to job_explanation field,2021-08-03T07:32:13Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+124,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9af9e9a4e4b05531ff076733a79883630ba46db3,240ff72d4ec942efb6d865a55a01c6d26dca9e55,Add error to job_explanation field,2021-08-03T07:32:13Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+125,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cf4a68c9b339829f2a67d0ae1fe345c94ef824d8,a53add497f629019217bd0eeb0ea0a73693e1ada,"Revert ""Add required params to deprecated docstrings""
+
+This reverts commit dea2ce6fded612db7333daca7753af6e94b0ed33.",2021-08-03T03:15:30Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+126,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dea2ce6fded612db7333daca7753af6e94b0ed33,e83891be9e16bef5350b6fb0260aadcbf7b23c1a,Add required params to deprecated docstrings,2021-08-03T00:03:02Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+127,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c695a2feda4443cfb231df7e80a23d80168e76e3,5092b4ee726cdf643586144eb900c5a2080af275,final fixes,2021-08-02T20:29:54Z,akus062381,sarah.akus@gmail.com,akus062381,sarah.akus@gmail.com
+128,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,f570ec13ac9f667188e656032f4d2f1da4ccca50,4e7032558e984c008bb527fd385335c6c9076323,added subroutine to generate dot file,2021-08-02T20:45:53Z,Sarabraj Singh,sarsingh@redhat.com,Sarabraj Singh,sarsingh@redhat.com
+129,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c695a2feda4443cfb231df7e80a23d80168e76e3,5092b4ee726cdf643586144eb900c5a2080af275,final fixes,2021-08-02T20:29:54Z,akus062381,sarah.akus@gmail.com,akus062381,sarah.akus@gmail.com
+130,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3b779ad96371ed67a54d4c75589970c144fffd79,d5ed799bb7e55409ae87c9eb42509d111ffb1794,fix,2021-08-02T20:06:15Z,akus062381,sarah.akus@gmail.com,akus062381,sarah.akus@gmail.com
+131,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3f4f7f64e8203d274a514d25ff4d60b86eed84ea,48c00329ec7cf6bdbb6f560028f8af9417e8fcee,add ouia,2021-08-02T19:59:27Z,akus062381,sarah.akus@gmail.com,akus062381,sarah.akus@gmail.com
+132,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3f4f7f64e8203d274a514d25ff4d60b86eed84ea,48c00329ec7cf6bdbb6f560028f8af9417e8fcee,add ouia,2021-08-02T19:59:27Z,akus062381,sarah.akus@gmail.com,akus062381,sarah.akus@gmail.com
+133,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4a8aa5736bc7043748f497d00ad9a8924620a474,2a5100af1e03286e0f6ed812145868322bdfbce2,Fix unit tests.,2021-08-02T16:48:00Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+134,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,355f30887fe0bebd10d77028a3cd78dbbd151ffe,b83a1db62e47763c660350e47176e769d182fd9b,Adopt the node_type field in receptor logic,2021-08-02T19:01:51Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+135,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,1ad3cc7a02a1aa8d8b890fb504452838151bb449,489a308fc378ab33159608e1edbe193208cc4283,"Add topology of docker-compose to docs, remove old mount (#10773)",2021-08-02T15:47:24Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+136,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,30c1d12998775d60eed0cf8af506dbecd65fab07,22440938e2cc020e626eefc0b4b13c7be62412a3,added some missing self references; reformatted string output in detect_cycles(),2021-08-02T18:53:50Z,Sarabraj Singh,sarsingh@redhat.com,Sarabraj Singh,sarsingh@redhat.com
+137,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dcdfab85113242f697145f55817120ac3f12e711,939c733091c89aebbb4070851d63ba5ef03cff7d,renamed action module name; generated first readable output from module,2021-08-02T18:31:28Z,Sarabraj Singh,sarsingh@redhat.com,Sarabraj Singh,sarsingh@redhat.com
+138,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,29f54d953b61f92a328471867bb5414b7540cd29,ec3d7b52865638c137033a2b5a5062fe8b038f80,"Upgrade formik
+
+Upgrade formik
+
+See: https://github.com/ansible/awx/issues/10594",2021-07-28T15:06:09Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+139,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,29f54d953b61f92a328471867bb5414b7540cd29,ec3d7b52865638c137033a2b5a5062fe8b038f80,"Upgrade formik
+
+Upgrade formik
+
+See: https://github.com/ansible/awx/issues/10594",2021-07-28T15:06:09Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+140,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,59aadff1a59c4a8da7ecb7cc5fd6d05b839118a5,1070aa3f698afd4c8c105005732787a7500cffe0,ensures that field is on screen behind the confirmation modal,2021-08-02T13:33:09Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+141,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,59aadff1a59c4a8da7ecb7cc5fd6d05b839118a5,1070aa3f698afd4c8c105005732787a7500cffe0,ensures that field is on screen behind the confirmation modal,2021-08-02T13:33:09Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+142,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,34fd59e30042db0b4ea691a6470f9545a5e0797d,11b6adac38a65c1b006fe40a9339b4db1e4b8938,stub notifications api in test,2021-08-02T17:05:37Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+143,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4a8aa5736bc7043748f497d00ad9a8924620a474,2a5100af1e03286e0f6ed812145868322bdfbce2,Fix unit tests.,2021-08-02T16:48:00Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+144,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4a8aa5736bc7043748f497d00ad9a8924620a474,2a5100af1e03286e0f6ed812145868322bdfbce2,Fix unit tests.,2021-08-02T16:48:00Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+145,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4a8aa5736bc7043748f497d00ad9a8924620a474,2a5100af1e03286e0f6ed812145868322bdfbce2,Fix unit tests.,2021-08-02T16:48:00Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+146,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,59aadff1a59c4a8da7ecb7cc5fd6d05b839118a5,1070aa3f698afd4c8c105005732787a7500cffe0,ensures that field is on screen behind the confirmation modal,2021-08-02T13:33:09Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+147,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,f85b2b6352568c0437ff018749720dc811a71850,e6dd00483046ce23001ac4da6fbba32c9da6fd26,"Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676
+
+Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-08-02T14:40:24Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+148,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,59aadff1a59c4a8da7ecb7cc5fd6d05b839118a5,1070aa3f698afd4c8c105005732787a7500cffe0,ensures that field is on screen behind the confirmation modal,2021-08-02T13:33:09Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+149,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,861ca65881cbe629a2122528a725ea321e536b6c,e6dd00483046ce23001ac4da6fbba32c9da6fd26,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-08-02T14:14:57Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+150,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,7c9a3679f414a1be0f7dd5ef3dc7db2532af69f1,e90de6f695b5f77be20e8e1ae906126d141539a2,refactored code using defaultdicts,2021-08-02T14:06:51Z,Sarabraj Singh,sarsingh@redhat.com,Sarabraj Singh,sarsingh@redhat.com
+151,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cc4c59817e221b8124ec2a587236d4790d2b0aa3,fbf72e6a90f73737e68c9127bc783dd5a5a33c8b,update searchableKeys in all Lookups & JobOutput,2021-07-30T23:11:12Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+152,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cc4c59817e221b8124ec2a587236d4790d2b0aa3,fbf72e6a90f73737e68c9127bc783dd5a5a33c8b,update searchableKeys in all Lookups & JobOutput,2021-07-30T23:11:12Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+153,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cc4c59817e221b8124ec2a587236d4790d2b0aa3,fbf72e6a90f73737e68c9127bc783dd5a5a33c8b,update searchableKeys in all Lookups & JobOutput,2021-07-30T23:11:12Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+154,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cc4c59817e221b8124ec2a587236d4790d2b0aa3,fbf72e6a90f73737e68c9127bc783dd5a5a33c8b,update searchableKeys in all Lookups & JobOutput,2021-07-30T23:11:12Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+155,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ff77e16335851cd63c906ba69ac9225b9f07feed,038648c1e881698cf1f30864b34d2a3c8fbe6a5c,Update workflow to use pull_request_target,2021-07-30T18:58:53Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+156,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0fea848eb2cee526257255d82068ee67150d76d3,f5c5a40c9a398e6a0b14fcd4c1f8314302715a38,"Add job id to job details screen
+
+Add job id to job details screen
+
+See: https://github.com/ansible/awx/issues/10786",2021-07-30T19:53:16Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+157,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0fea848eb2cee526257255d82068ee67150d76d3,f5c5a40c9a398e6a0b14fcd4c1f8314302715a38,"Add job id to job details screen
+
+Add job id to job details screen
+
+See: https://github.com/ansible/awx/issues/10786",2021-07-30T19:53:16Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+158,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0fea848eb2cee526257255d82068ee67150d76d3,f5c5a40c9a398e6a0b14fcd4c1f8314302715a38,"Add job id to job details screen
+
+Add job id to job details screen
+
+See: https://github.com/ansible/awx/issues/10786",2021-07-30T19:53:16Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+159,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ff77e16335851cd63c906ba69ac9225b9f07feed,038648c1e881698cf1f30864b34d2a3c8fbe6a5c,Update workflow to use pull_request_target,2021-07-30T18:58:53Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+160,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e2f69a28445a61b252ceace96f7ca24a9d02beac,de93338e5a057a88689821a150d4799302b0cfe5,"Show PAT as part of bulk delete list
+
+* Show PAT as part of bulk delete list
+* Update tooltip message in how to create a Personal Access Token
+
+See: https://github.com/ansible/awx/issues/8680",2021-07-30T18:48:26Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+161,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e2f69a28445a61b252ceace96f7ca24a9d02beac,de93338e5a057a88689821a150d4799302b0cfe5,"Show PAT as part of bulk delete list
+
+* Show PAT as part of bulk delete list
+* Update tooltip message in how to create a Personal Access Token
+
+See: https://github.com/ansible/awx/issues/8680",2021-07-30T18:48:26Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+162,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e2f69a28445a61b252ceace96f7ca24a9d02beac,de93338e5a057a88689821a150d4799302b0cfe5,"Show PAT as part of bulk delete list
+
+* Show PAT as part of bulk delete list
+* Update tooltip message in how to create a Personal Access Token
+
+See: https://github.com/ansible/awx/issues/8680",2021-07-30T18:48:26Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+163,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9a39ff110118991d98ae25f594a9d232fa5ebd72,f1334d98ed2250464361097c7a736116543bcc6e,Fix linting errors,2021-07-30T13:12:10Z,mabashian,mabashia@redhat.com,mabashian,mabashia@redhat.com
+164,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,27e928155392da1f46c68c85e5343faf891c2605,47206ebae5a9e6300ca7efec63d96e0eb9c9d819,"Merge pull request #1 from tchellomello/feature/calculate-mesh-ansible-plugin
+
+Few preflight checks",2021-07-30T15:41:16Z,Sarabraj Singh,singh.sarabraj@gmail.com,GitHub,noreply@github.com
+165,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ef88aec1dfe560d55fb81d8bcfdc2cb51cb7f9d3,69c238499eda085f1334fa6d37f1964c58122646,more code,2021-07-30T15:33:58Z,Sarabraj Singh,sarsingh@redhat.com,Sarabraj Singh,sarsingh@redhat.com
+166,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e88e81928c51b4de38fb226818a76b8ccdcb92c3,a53add497f629019217bd0eeb0ea0a73693e1ada,Fix sanity errors for collections,2021-07-30T14:53:44Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+167,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9a39ff110118991d98ae25f594a9d232fa5ebd72,f1334d98ed2250464361097c7a736116543bcc6e,Fix linting errors,2021-07-30T13:12:10Z,mabashian,mabashia@redhat.com,mabashian,mabashia@redhat.com
+168,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,494350d349d019aa10dd8a0d5d4d9110bbb4c054,7d2a6ee603482ba90391982039b7a507be4ac9ba,Fill created_by field on scheduled jobs,2021-07-30T10:06:02Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+169,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,494350d349d019aa10dd8a0d5d4d9110bbb4c054,7d2a6ee603482ba90391982039b7a507be4ac9ba,Fill created_by field on scheduled jobs,2021-07-30T10:06:02Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+170,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,494350d349d019aa10dd8a0d5d4d9110bbb4c054,7d2a6ee603482ba90391982039b7a507be4ac9ba,Fill created_by field on scheduled jobs,2021-07-30T10:06:02Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+171,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ddb3038c86bbf317d6e00e70f8a600a59e6fe48a,09cd3192e91247fca7d7d8142add079e6d66fccb,Remove unused imports,2021-07-30T09:28:27Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+172,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ddb3038c86bbf317d6e00e70f8a600a59e6fe48a,09cd3192e91247fca7d7d8142add079e6d66fccb,Remove unused imports,2021-07-30T09:28:27Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+173,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ddb3038c86bbf317d6e00e70f8a600a59e6fe48a,09cd3192e91247fca7d7d8142add079e6d66fccb,Remove unused imports,2021-07-30T09:28:27Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+174,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dc6455fc8e5febbcfa6de1a9ecb3f441b4988ed8,63ad89fb514a9dd7c17817dc3f55a583e95bc71c,Add more tests for different modules,2021-07-30T09:21:41Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+175,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3f050529d68ef57f26964257e338dca90a510b55,a955ebc41156de4b7227b1a992c81aedb7488296,add minikube to github bug template,2021-07-30T02:22:50Z,Patrick Hemmer,phemmer@users.noreply.github.com,GitHub,noreply@github.com
+176,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3f050529d68ef57f26964257e338dca90a510b55,a955ebc41156de4b7227b1a992c81aedb7488296,add minikube to github bug template,2021-07-30T02:22:50Z,Patrick Hemmer,phemmer@users.noreply.github.com,GitHub,noreply@github.com
+177,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a89ce8e5bf677baf75ba12a4a9aca6607d149465,305166eb26d8d86ec5ca8b28f32d6db10f2c2f37,Fix sanity errors for collections,2021-07-30T00:17:23Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+178,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4ec6db14f42d9bcc84a6bd1d1059937cdcee9874,b4d405b2f1947c2ae4c343d277c3a98bfb579c45,Fix sanity errors for collections,2021-07-29T20:36:29Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+179,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4ec6db14f42d9bcc84a6bd1d1059937cdcee9874,b4d405b2f1947c2ae4c343d277c3a98bfb579c45,Fix sanity errors for collections,2021-07-29T20:36:29Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+180,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4ec6db14f42d9bcc84a6bd1d1059937cdcee9874,b4d405b2f1947c2ae4c343d277c3a98bfb579c45,Fix sanity errors for collections,2021-07-29T20:36:29Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+181,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4ec6db14f42d9bcc84a6bd1d1059937cdcee9874,b4d405b2f1947c2ae4c343d277c3a98bfb579c45,Fix sanity errors for collections,2021-07-29T20:36:29Z,beeankha,beeankha@gmail.com,beeankha,beeankha@gmail.com
+182,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3960c52097063e77b13718d0f2b03d889cdadd65,3bd7ef1742f64b5943a815105117be37ab135003,Fix unit tests.,2021-07-29T00:34:30Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+183,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3960c52097063e77b13718d0f2b03d889cdadd65,3bd7ef1742f64b5943a815105117be37ab135003,Fix unit tests.,2021-07-29T00:34:30Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+184,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3960c52097063e77b13718d0f2b03d889cdadd65,3bd7ef1742f64b5943a815105117be37ab135003,Fix unit tests.,2021-07-29T00:34:30Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+185,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3960c52097063e77b13718d0f2b03d889cdadd65,3bd7ef1742f64b5943a815105117be37ab135003,Fix unit tests.,2021-07-29T00:34:30Z,Kia Lam,digitalanime@gmail.com,Kia Lam,digitalanime@gmail.com
+186,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,d89719c7409528006a65378c3e6ae1a4b2666ec0,d8d5450fb3b1a85b2819c47e12c8427a55ee4e7e,"Merge pull request #10757 from rebeccahhh/instance_node_type
+
+add a node_type field to the instance model",2021-07-28T21:52:27Z,Rebeccah Hunter,rhunter@redhat.com,GitHub,noreply@github.com
+187,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,d89719c7409528006a65378c3e6ae1a4b2666ec0,d8d5450fb3b1a85b2819c47e12c8427a55ee4e7e,"Merge pull request #10757 from rebeccahhh/instance_node_type
+
+add a node_type field to the instance model",2021-07-28T21:52:27Z,Rebeccah Hunter,rhunter@redhat.com,GitHub,noreply@github.com
+188,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,eef80c8875a5856c737b1ba46686ad83484d427d,2180c4c27e72eba32053bb6ad773782e6c1bc466,"Merge pull request #10781 from tiagodread/update-e2e-workflow
+
+Use cypress base image from a public repo in quay",2021-07-28T20:51:25Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+189,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,eef80c8875a5856c737b1ba46686ad83484d427d,2180c4c27e72eba32053bb6ad773782e6c1bc466,"Merge pull request #10781 from tiagodread/update-e2e-workflow
+
+Use cypress base image from a public repo in quay",2021-07-28T20:51:25Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+190,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,34bd0588b40de43b1c002d12cf1a3996f6451e79,5c46438b2e677511b9a636d9a90a1a8d92a5a3ac,"Merge pull request #10777 from nixocio/ui_issue_10775
+
+Update usage of useBrandName",2021-07-28T20:46:18Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+191,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,34bd0588b40de43b1c002d12cf1a3996f6451e79,5c46438b2e677511b9a636d9a90a1a8d92a5a3ac,"Merge pull request #10777 from nixocio/ui_issue_10775
+
+Update usage of useBrandName",2021-07-28T20:46:18Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+192,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bf8d70e6574071698b85a6b766c13995b61d0d77,772dabc03b34f7a08342f8237d8262f7004b0e82,Use cypress base image from a public repo in quay,2021-07-28T20:39:16Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+193,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bf8d70e6574071698b85a6b766c13995b61d0d77,772dabc03b34f7a08342f8237d8262f7004b0e82,Use cypress base image from a public repo in quay,2021-07-28T20:39:16Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+194,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,69c104008434c9c0f35d2bde143e124851a0a818,ae14bb160b6d750743e8ac260af1e5099c418593,Use cypress base image from a public repo in quay,2021-07-28T20:26:49Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+195,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,69c104008434c9c0f35d2bde143e124851a0a818,ae14bb160b6d750743e8ac260af1e5099c418593,Use cypress base image from a public repo in quay,2021-07-28T20:26:49Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+196,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,69c104008434c9c0f35d2bde143e124851a0a818,ae14bb160b6d750743e8ac260af1e5099c418593,Use cypress base image from a public repo in quay,2021-07-28T20:26:49Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+197,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,f69ae55256efd426641ac2cf09ad1abc89623410,8d74d7d2eeffbcd184c538fecbb2fb919ea1d50d,first iterating of ansible plugin for generating and validating user-defined mesh,2021-07-28T20:00:58Z,Sarabraj Singh,sarsingh@redhat.com,Sarabraj Singh,sarsingh@redhat.com
+198,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cb24a6371f3a9201c45ccab81398a9b888d16583,883c5f895e53aebf1b5441b4e84e5a8dc51d3210,first iterating of ansible plugin for generating and validating user-defined mesh,2021-07-28T19:55:54Z,Sarabraj Singh,sarsingh@redhat.com,Sarabraj Singh,sarsingh@redhat.com
+199,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b349774f9224bb1f5597250dc99de0bf22aefec6,41fe8876432bb29deea1d86572ff90346898c0ee,"Merge pull request #10572 from mabashian/790-mgt-jobs-workflow
+
+Add UI support for management jobs in workflows",2021-07-28T19:15:38Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+200,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b349774f9224bb1f5597250dc99de0bf22aefec6,41fe8876432bb29deea1d86572ff90346898c0ee,"Merge pull request #10572 from mabashian/790-mgt-jobs-workflow
+
+Add UI support for management jobs in workflows",2021-07-28T19:15:38Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+201,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,1f144601f1abaa2408cdf5b9560d4475185f7188,bb97769288718a498b76589fee4b44977c9cb985,"Add topology of docker-compose to docs, remove old mount (#10773)",2021-07-28T19:07:34Z,Alan Rominger,arominge@redhat.com,GitHub,noreply@github.com
+202,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,29f54d953b61f92a328471867bb5414b7540cd29,ec3d7b52865638c137033a2b5a5062fe8b038f80,"Upgrade formik
+
+Upgrade formik
+
+See: https://github.com/ansible/awx/issues/10594",2021-07-28T15:06:09Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+203,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,452848ff278299af79b749fdb7b75764204e6e53,205e14d36b1f7431e76a431f49a52d386f255b9a,"Update usage of useBrandName
+
+useBrandName return variables were updated. Update a few places using
+this custom hook.
+
+See: https://github.com/ansible/awx/issues/10775",2021-07-28T18:53:49Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+204,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,452848ff278299af79b749fdb7b75764204e6e53,205e14d36b1f7431e76a431f49a52d386f255b9a,"Update usage of useBrandName
+
+useBrandName return variables were updated. Update a few places using
+this custom hook.
+
+See: https://github.com/ansible/awx/issues/10775",2021-07-28T18:53:49Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+205,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,452848ff278299af79b749fdb7b75764204e6e53,205e14d36b1f7431e76a431f49a52d386f255b9a,"Update usage of useBrandName
+
+useBrandName return variables were updated. Update a few places using
+this custom hook.
+
+See: https://github.com/ansible/awx/issues/10775",2021-07-28T18:53:49Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+206,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5d345c22b43e0dfcfeb4650f39df6cb1619d488a,5d018b42d3adb67f11dd7682a1d33ab1c88c6460,"Merge pull request #10635 from nixocio/ui_issue_10613
+
+Add extra step to confirm edition of login redirect URL",2021-07-28T18:29:21Z,Sarah Akus,sakus@redhat.com,GitHub,noreply@github.com
+207,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5d345c22b43e0dfcfeb4650f39df6cb1619d488a,5d018b42d3adb67f11dd7682a1d33ab1c88c6460,"Merge pull request #10635 from nixocio/ui_issue_10613
+
+Add extra step to confirm edition of login redirect URL",2021-07-28T18:29:21Z,Sarah Akus,sakus@redhat.com,GitHub,noreply@github.com
+208,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,1658c91c0f277990e5a075d9194316a2c85d2f65,4f366d4e381040dc4a76a7395fc6558367d4ac6a,Undo some things not compatible with hybrid node hack (#10763),2021-07-28T17:33:35Z,Alan Rominger,arominge@redhat.com,GitHub,noreply@github.com
+209,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,41f4a15a289fc48803a51a5120e010bb96316377,78ca4ab4c4ae86a91de2e55c181c8b9f46c95348,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-07-28T16:36:56Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+210,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,33502daf45fbb895fa5584c607a4ed9921c496e7,5d018b42d3adb67f11dd7682a1d33ab1c88c6460,"Add extra step to allow edition of login redirect URL
+
+Add extra step to allow edition of login redirect URL
+
+closes: https://github.com/ansible/awx/issues/10613",2021-07-28T16:08:54Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+211,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0f1bdadbb259cb7f479819e662b5aab47d3a9732,9d0a314639503a407544bdb51a2a88acfabc32c3,"Add topology of docker-compose to docs, remove old mount",2021-07-28T15:37:31Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+212,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,29f54d953b61f92a328471867bb5414b7540cd29,ec3d7b52865638c137033a2b5a5062fe8b038f80,"Upgrade formik
+
+Upgrade formik
+
+See: https://github.com/ansible/awx/issues/10594",2021-07-28T15:06:09Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+213,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9372aae7035f5a9b3138c86ae4a7494d8fe69f2e,ec3d7b52865638c137033a2b5a5062fe8b038f80,"Upgrade formik
+
+Upgrade formik
+
+See: https://github.com/ansible/awx/issues/10594",2021-07-28T14:21:26Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+214,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,07a4683f088726e865cb05263a7b54c050c3ef43,d32b63d17985ca9fa0fe1cf966c6d0aa924427df,"Merge pull request #10741 from AlexSCorey/10495-ActionBtnOnEmptyState
+
+Improves empty state messages for improve UX",2021-07-28T14:18:49Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+215,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,07a4683f088726e865cb05263a7b54c050c3ef43,d32b63d17985ca9fa0fe1cf966c6d0aa924427df,"Merge pull request #10741 from AlexSCorey/10495-ActionBtnOnEmptyState
+
+Improves empty state messages for improve UX",2021-07-28T14:18:49Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+216,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e207b424b10e7fdbb18085ebcc2e29d1a1791601,755da0549c043c4dfa79895cf7e047f0b8d6b320,"Merge pull request #10768 from nixocio/ui_issue_8593
+
+Remove all groups filter",2021-07-28T14:06:16Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+217,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e207b424b10e7fdbb18085ebcc2e29d1a1791601,755da0549c043c4dfa79895cf7e047f0b8d6b320,"Merge pull request #10768 from nixocio/ui_issue_8593
+
+Remove all groups filter",2021-07-28T14:06:16Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+218,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,50279478c8a8266250a09d8ecaaec05f19c70149,8edd65dc436b5f7ad2a12688bee87fac07c3e613,Update job list message,2021-07-28T14:04:58Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+219,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,07e9cdb7cc5c212a3ca2cb5e703fa29a0f5589dc,69275eb6fa77ace1ade02360378a4d4c2803af96,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-07-28T13:46:14Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+220,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,7b6fa1815ac727f2afe9bb5f20330031c3318079,7dc4e398ec1b603f9a42be13b42067fab03e15e5,"Merge pull request #10692 from nixocio/ui_issue_10663_again
+
+Add auto-populate inventory host form",2021-07-28T13:32:08Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+221,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,7b6fa1815ac727f2afe9bb5f20330031c3318079,7dc4e398ec1b603f9a42be13b42067fab03e15e5,"Merge pull request #10692 from nixocio/ui_issue_10663_again
+
+Add auto-populate inventory host form",2021-07-28T13:32:08Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+222,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,44a9382e62e43085a024e16d5db9db3e35e07d84,1ab9b3b977aa0b5f886804110463532689fdbeb2,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-07-27T20:30:38Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+223,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b57966677e7def252c63c492d95e7eab46cbc34a,3a4289ba34bf8865c7f01e8abebbf6f967abe68d,"Remove all groups filter
+
+Remove all groups filter
+
+See: https://github.com/ansible/awx/issues/8593",2021-07-27T20:18:56Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+224,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b57966677e7def252c63c492d95e7eab46cbc34a,3a4289ba34bf8865c7f01e8abebbf6f967abe68d,"Remove all groups filter
+
+Remove all groups filter
+
+See: https://github.com/ansible/awx/issues/8593",2021-07-27T20:18:56Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+225,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b57966677e7def252c63c492d95e7eab46cbc34a,3a4289ba34bf8865c7f01e8abebbf6f967abe68d,"Remove all groups filter
+
+Remove all groups filter
+
+See: https://github.com/ansible/awx/issues/8593",2021-07-27T20:18:56Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+226,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b73e4ba2fb62f4f968ef83e1572f58bd2b860f9a,fb04af19eeda31ed31a7e39bad269c0d17f8c60d,"Remove all groups filter
+
+Remove all groups filter
+
+See: https://github.com/ansible/awx/issues/8593",2021-07-27T19:53:36Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+227,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,2920549ef186cdd9f9a9d4845a54959dc0ae3355,af55f741f868524bb640762cc27c2c6bf9c488c5,Fix integer/float errors in survey,2021-07-20T23:51:57Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+228,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dc79d7644427e0cf258d75631297b14c50d7091a,76bf24784e9238856b9f71f06aa73d245893ce2d,"Merge pull request #10761 from nixocio/ui_issue_6800
+
+Add string to be translated",2021-07-27T19:20:06Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+229,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dc79d7644427e0cf258d75631297b14c50d7091a,76bf24784e9238856b9f71f06aa73d245893ce2d,"Merge pull request #10761 from nixocio/ui_issue_6800
+
+Add string to be translated",2021-07-27T19:20:06Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+230,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9c0ddf40371df6c11a59c6e399963a5c12bda79e,e117c91ea42af7a18f50c36ccd471c11cf23b300,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-07-27T18:22:46Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+231,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,010de6cb29f8ef42e29e64130ddf43daca1ba3a6,e117c91ea42af7a18f50c36ccd471c11cf23b300,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-07-27T18:12:48Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+232,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3c1de8d6835bf10e53c800477eef53e6f1b15158,fb8d7e3be747dd6360ebfdc9f29acc028d886d31,"Add auto-populate inventory host form
+
+Add auto-populate inventory host form
+
+closes:https://github.com/ansible/awx/issues/10663",2021-07-27T17:03:51Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+233,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,20ecdafde809579f0094119762590e6faa2858c8,edd6cc6e39802f5be29282817737d820bff0ca68,"Add extra step to allow edition of login redirect URL
+
+Add extra step to allow edition of login redirect URL
+
+closes: https://github.com/ansible/awx/issues/10613",2021-07-27T16:33:42Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+234,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,20ecdafde809579f0094119762590e6faa2858c8,edd6cc6e39802f5be29282817737d820bff0ca68,"Add extra step to allow edition of login redirect URL
+
+Add extra step to allow edition of login redirect URL
+
+closes: https://github.com/ansible/awx/issues/10613",2021-07-27T16:33:42Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+235,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,69dc65c065f806e10047e6abcbd88af780526697,5375eb5fe7238595423898197640c324156ff2c4,Undo some things not compatible with hybrid node hack,2021-07-26T13:34:11Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+236,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b077f186d1836dc850296aac82cb029cd13b1384,db4d9424a33f406b2453b6d9fe0bb438337ce2e6,"Add string to be translated
+
+Add string to be translated
+
+closes: https://github.com/ansible/awx/issues/6800",2021-07-27T15:22:08Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+237,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b077f186d1836dc850296aac82cb029cd13b1384,db4d9424a33f406b2453b6d9fe0bb438337ce2e6,"Add string to be translated
+
+Add string to be translated
+
+closes: https://github.com/ansible/awx/issues/6800",2021-07-27T15:22:08Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+238,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b077f186d1836dc850296aac82cb029cd13b1384,db4d9424a33f406b2453b6d9fe0bb438337ce2e6,"Add string to be translated
+
+Add string to be translated
+
+closes: https://github.com/ansible/awx/issues/6800",2021-07-27T15:22:08Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+239,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,07cbbbf7b5bf5a5b12e8a3c6a1fd085a936d1d56,0b8296e8f21eea9f6ad6053574cb66c516e450fc,Make the AWX nodes fully connected in the development environment (#10758),2021-07-27T15:19:07Z,Alan Rominger,arominge@redhat.com,GitHub,noreply@github.com
+240,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,63075976c2e99167b87ff7c45eb6cede6735542f,4a4685ced340be787af4a4be7d2b0e8c868d7c54,"Merge pull request #10662 from AlexSCorey/updatesProdDeps
+
+Updates Several UI Production Dependencies",2021-07-27T15:14:04Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+241,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,63075976c2e99167b87ff7c45eb6cede6735542f,4a4685ced340be787af4a4be7d2b0e8c868d7c54,"Merge pull request #10662 from AlexSCorey/updatesProdDeps
+
+Updates Several UI Production Dependencies",2021-07-27T15:14:04Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+242,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,34fdf11217b5796d4154aed1179adde01f47c8e6,80aa2211bb7636fa2057878ed3479d937f2d670f,fixes tests,2021-07-26T18:21:31Z,Alex Corey,alex.swansboro@gmail.com,Jake McDermott,yo@jakemcdermott.me
+243,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,34fdf11217b5796d4154aed1179adde01f47c8e6,80aa2211bb7636fa2057878ed3479d937f2d670f,fixes tests,2021-07-26T18:21:31Z,Alex Corey,alex.swansboro@gmail.com,Jake McDermott,yo@jakemcdermott.me
+244,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,34fdf11217b5796d4154aed1179adde01f47c8e6,80aa2211bb7636fa2057878ed3479d937f2d670f,fixes tests,2021-07-26T18:21:31Z,Alex Corey,alex.swansboro@gmail.com,Jake McDermott,yo@jakemcdermott.me
+245,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a5f55709afa253cd384e82524b7f8a9d9ab3394c,ffd03384573ee81683a1cf8ea0745cf8c1740434,Fix linting errors,2021-07-27T13:03:13Z,mabashian,mabashia@redhat.com,mabashian,mabashia@redhat.com
+246,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5f7db084d3e4698e3d71322724ec6a9797517357,59fdaf1d24517bc4b3f8975fb2093f1b6f38bd84,Fix linting errors,2021-07-27T13:02:43Z,mabashian,mabashia@redhat.com,mabashian,mabashia@redhat.com
+247,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,34fdf11217b5796d4154aed1179adde01f47c8e6,80aa2211bb7636fa2057878ed3479d937f2d670f,fixes tests,2021-07-26T18:21:31Z,Alex Corey,alex.swansboro@gmail.com,Jake McDermott,yo@jakemcdermott.me
+248,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c5fa6656d67d780e50a5dd8a5cede96232ca7d66,a5ffb3cb6800183d013af024cb9b502e737f0121,Cleanup imagePullSecret from k8s when delete Credential,2021-07-27T09:54:05Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+249,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c5fa6656d67d780e50a5dd8a5cede96232ca7d66,a5ffb3cb6800183d013af024cb9b502e737f0121,Cleanup imagePullSecret from k8s when delete Credential,2021-07-27T09:54:05Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+250,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c5fa6656d67d780e50a5dd8a5cede96232ca7d66,a5ffb3cb6800183d013af024cb9b502e737f0121,Cleanup imagePullSecret from k8s when delete Credential,2021-07-27T09:54:05Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+251,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,d0338720ffeee6493b04d68d6c467372121ab501,0b8296e8f21eea9f6ad6053574cb66c516e450fc,Make the AWX nodes fully connected in the development environment,2021-07-26T20:49:20Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+252,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,fd6ce66906a6526d0c7b1b9da1c51297acc3ac1e,2ecdae8f4004374b38d2e786958da01bd79d315e,edit the provision_instance awx-manage command to include node_type when provisioning a new instance.,2021-07-26T20:36:44Z,Rebeccah,rhunter@redhat.com,Rebeccah,rhunter@redhat.com
+253,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,fd6ce66906a6526d0c7b1b9da1c51297acc3ac1e,2ecdae8f4004374b38d2e786958da01bd79d315e,edit the provision_instance awx-manage command to include node_type when provisioning a new instance.,2021-07-26T20:36:44Z,Rebeccah,rhunter@redhat.com,Rebeccah,rhunter@redhat.com
+254,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,f11b73da1248298af6db03f6524a4faa109ded26,5b64f832e6b21318916780224128e8747c8e624f,update node_type to be read-only,2021-07-26T20:13:57Z,Rebeccah,rhunter@redhat.com,Rebeccah,rhunter@redhat.com
+255,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dae7bf4f70e1f0a3cf62bf46681b4ee28cbdafff,61fbad0b23c9b14603613dd7f431f10e34118c9b,update node_type to be read-only,2021-07-26T20:09:23Z,Rebeccah,rhunter@redhat.com,Rebeccah,rhunter@redhat.com
+256,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,706f3f97ea9235c5a695a69d11685417580221b1,90234ecb580f0e7b5ce5df5d39047abf40264209,add a new field to the instance model for use with receptor changes (incoming),2021-07-26T19:53:56Z,Rebeccah,rhunter@redhat.com,Rebeccah,rhunter@redhat.com
+257,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,706f3f97ea9235c5a695a69d11685417580221b1,90234ecb580f0e7b5ce5df5d39047abf40264209,add a new field to the instance model for use with receptor changes (incoming),2021-07-26T19:53:56Z,Rebeccah,rhunter@redhat.com,Rebeccah,rhunter@redhat.com
+258,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cfa5d1b11dc85cafeca754c9c25eee578bfb6ef8,08bcb5e74cc66a226068d50583ea01935a5a1986,set timeout limit for e2e tests (#10756),2021-07-26T20:00:00Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+259,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cfa5d1b11dc85cafeca754c9c25eee578bfb6ef8,08bcb5e74cc66a226068d50583ea01935a5a1986,set timeout limit for e2e tests (#10756),2021-07-26T20:00:00Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+260,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,706f3f97ea9235c5a695a69d11685417580221b1,90234ecb580f0e7b5ce5df5d39047abf40264209,add a new field to the instance model for use with receptor changes (incoming),2021-07-26T19:53:56Z,Rebeccah,rhunter@redhat.com,Rebeccah,rhunter@redhat.com
+261,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,21e0f1ea009711c068e0907df0bfa6c9079ee6a1,ad26a6f75a29ea8cd7086b5959b2b20b3a147e2a,set timeout limit for e2e tests,2021-07-26T19:46:13Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+262,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,21e0f1ea009711c068e0907df0bfa6c9079ee6a1,ad26a6f75a29ea8cd7086b5959b2b20b3a147e2a,set timeout limit for e2e tests,2021-07-26T19:46:13Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+263,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,21e0f1ea009711c068e0907df0bfa6c9079ee6a1,ad26a6f75a29ea8cd7086b5959b2b20b3a147e2a,set timeout limit for e2e tests,2021-07-26T19:46:13Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+264,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,21e0f1ea009711c068e0907df0bfa6c9079ee6a1,ad26a6f75a29ea8cd7086b5959b2b20b3a147e2a,set timeout limit for e2e tests,2021-07-26T19:46:13Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+265,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,69f1d110f100dddfee41cf6f308cbae8480d3b42,33b2788e2c83437fd8f65b3aa526d69c32b85c34,"Add developer docs for incoming receptor mesh features (#10747)
+
+* Add developer docs for incoming receptor mesh features
+
+* Additional wording about the receptor mesh process
+
+* Wrap up docs feedback changes and polishing
+
+* Add in way more terminology introductions, delete statement about past
+
+* Fix typo around OCP-incluster type",2021-07-26T18:51:41Z,Alan Rominger,arominge@redhat.com,GitHub,noreply@github.com
+266,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,34fdf11217b5796d4154aed1179adde01f47c8e6,80aa2211bb7636fa2057878ed3479d937f2d670f,fixes tests,2021-07-26T18:21:31Z,Alex Corey,alex.swansboro@gmail.com,Jake McDermott,yo@jakemcdermott.me
+267,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,34fdf11217b5796d4154aed1179adde01f47c8e6,80aa2211bb7636fa2057878ed3479d937f2d670f,fixes tests,2021-07-26T18:21:31Z,Alex Corey,alex.swansboro@gmail.com,Jake McDermott,yo@jakemcdermott.me
+268,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,1e8be99c146ee9b5fbf378be460c8ca144d98e9d,80aa2211bb7636fa2057878ed3479d937f2d670f,fixes tests,2021-07-26T18:16:51Z,Alex Corey,alex.swansboro@gmail.com,Jake McDermott,yo@jakemcdermott.me
+269,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,1fe4cd2ed5b554b4dc474b15abdecf2a953855c6,2756eaa29c15ab8e5612cfaddd9376d63f7bcd83,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-07-26T17:33:34Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+270,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,8e8557d16fefeefaf2a06c881ddd2a2127443d4a,2756eaa29c15ab8e5612cfaddd9376d63f7bcd83,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-07-26T16:47:15Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+271,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,57fa2c03f7670d2fae3a6dfa5474648eff5949cc,f09658731109f13fd5b1a108b5d4f6d8a2d05a3f,"Merge pull request #10753 from ansible/jakemcdermott-patch-readme
+
+Update CI results status badge",2021-07-26T15:38:47Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+272,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,57fa2c03f7670d2fae3a6dfa5474648eff5949cc,f09658731109f13fd5b1a108b5d4f6d8a2d05a3f,"Merge pull request #10753 from ansible/jakemcdermott-patch-readme
+
+Update CI results status badge",2021-07-26T15:38:47Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+273,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,fe8f2530134bc8e5ab13b1078916cea12bf54222,be738c730150bdd2750650df8e36cfb95e2253c0,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-07-26T15:22:50Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+274,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c1d004381628a1dc28c30bbc4b658cc81fdb2f34,be738c730150bdd2750650df8e36cfb95e2253c0,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-07-26T15:21:48Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+275,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3ef8008f913f4303dfffdd4acc257489a8d470a5,f09658731109f13fd5b1a108b5d4f6d8a2d05a3f,Update CI results status badge,2021-07-26T15:19:54Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+276,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,808b0adebaa043a907cfc8ab9eb91a2544252df7,e127c4af535b83c9627dd2a3bee6dd9fd9d100da,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-07-26T15:13:44Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+277,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,58eefc909cdc1f88efb8043ccf155fd758fa25a4,6c93733d919bd8780ea8e5573dd67b68d710a39b,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-07-26T15:11:52Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+278,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a548fd3312fc18596883f46b5adfcc64a89a656c,ef18e6984e5b249e783266e5c3804b2b427cf3ff,Testing the tests,2021-07-26T15:08:46Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+279,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a548fd3312fc18596883f46b5adfcc64a89a656c,ef18e6984e5b249e783266e5c3804b2b427cf3ff,Testing the tests,2021-07-26T15:08:46Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+280,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3a50c67613ccdb16759c5efdd04126c5e043c448,f5b46e31312d5e39ebeec7d62d51b3ed56da603b,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-07-26T15:08:49Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+281,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,70f69b6c8b8c66f8f3551cc4ac5eda5c136aeed5,79033757ae31e2d89b5ea1bcd5d8ff9fe800c4cd,"Merge pull request #10751 from tiagodread/e2e-workflow
+
+Update e2e workflow to use variable for e2e project name",2021-07-26T15:06:15Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+282,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,70f69b6c8b8c66f8f3551cc4ac5eda5c136aeed5,79033757ae31e2d89b5ea1bcd5d8ff9fe800c4cd,"Merge pull request #10751 from tiagodread/e2e-workflow
+
+Update e2e workflow to use variable for e2e project name",2021-07-26T15:06:15Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+283,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c50c0d3f1e8fdc87589bbce27bf15369db9efff1,79033757ae31e2d89b5ea1bcd5d8ff9fe800c4cd,Update e2e workflow to use variable for e2e project name,2021-07-26T14:51:12Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+284,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c50c0d3f1e8fdc87589bbce27bf15369db9efff1,79033757ae31e2d89b5ea1bcd5d8ff9fe800c4cd,Update e2e workflow to use variable for e2e project name,2021-07-26T14:51:12Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+285,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c50c0d3f1e8fdc87589bbce27bf15369db9efff1,79033757ae31e2d89b5ea1bcd5d8ff9fe800c4cd,Update e2e workflow to use variable for e2e project name,2021-07-26T14:51:12Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+286,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c50c0d3f1e8fdc87589bbce27bf15369db9efff1,79033757ae31e2d89b5ea1bcd5d8ff9fe800c4cd,Update e2e workflow to use variable for e2e project name,2021-07-26T14:51:12Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+287,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,26620f964771691d15a3e1f22e47bb7cb17f843f,33b2788e2c83437fd8f65b3aa526d69c32b85c34,Fix typo around OCP-incluster type,2021-07-26T14:44:15Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+288,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,67407850541ff1b19457c6e943468e83d537378e,3506a09321ccf808da40b42d9847c06d678939eb,"Merge pull request #10725 from ansible/e2e-tests
+
+Add E2E tests workflow",2021-07-26T14:32:32Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+289,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,67407850541ff1b19457c6e943468e83d537378e,3506a09321ccf808da40b42d9847c06d678939eb,"Merge pull request #10725 from ansible/e2e-tests
+
+Add E2E tests workflow",2021-07-26T14:32:32Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+290,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e607aa3e35ad87c63f66299d804337145fab078d,059d2cf103e2878f151aa24cc889cd4921050202,"Add in way more terminology introductions, delete statement about past",2021-07-26T14:22:44Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+291,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,777d37c4b8d4505cbdaf366546814c0d4aa06dc1,1ee11f8ea2677747de9ecedc89dcebcc142aa991,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T22:13:20Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+292,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,34a3bd71ae5b879a419ed1ae09622942433da805,ffa19a4a0999675a8547edcb515a7ddd73d4c442,"Update django .po files
+
+Update django .po files
+
+Run `awx-manage makemessages`.",2021-07-26T13:17:27Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+293,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,53f5743c49779d83151eb87aaf915da8cf1db12b,f4bb3373d51b2e9fa0e12b7fb13ec9f537536b0c,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-26T12:33:05Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+294,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,25212202b1ccb55eae003a4dcd5043a31c400893,faed2463ad647ec7c0007de77f0a2174f65a21c3,Wrap up docs feedback changes and polishing,2021-07-26T12:22:01Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+295,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,777d37c4b8d4505cbdaf366546814c0d4aa06dc1,1ee11f8ea2677747de9ecedc89dcebcc142aa991,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T22:13:20Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+296,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,777d37c4b8d4505cbdaf366546814c0d4aa06dc1,1ee11f8ea2677747de9ecedc89dcebcc142aa991,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T22:13:20Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+297,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,41321d8ad5ec4f1fb9a2ebc42fc15b9924b8eac6,20432de18725e55ebb961ce1b59507d3b278711b,"Merge pull request #10716 from oweel/10392-return_404_ad_hoc_command_events
+
+Return 404 for ad_hoc_command_events list api. Remove api endtpoint",2021-07-23T21:35:57Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+298,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,41321d8ad5ec4f1fb9a2ebc42fc15b9924b8eac6,20432de18725e55ebb961ce1b59507d3b278711b,"Merge pull request #10716 from oweel/10392-return_404_ad_hoc_command_events
+
+Return 404 for ad_hoc_command_events list api. Remove api endtpoint",2021-07-23T21:35:57Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+299,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ac604848196cf0d122d44313c8a630f4fec054b0,9bd425e485de1e6756f4d53b9099232225a3e87d,Additional wording about the receptor mesh process,2021-07-23T19:38:29Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+300,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,15d6e29cc0deff95273b4ea58c623945e12eec45,eab93f64f7d5e8710e13f1efe64fe4cfd5744117,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T17:08:15Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+301,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9d574e5a85c0c90fd678e9d55bee40773da6d90a,b02c0dce16995e68498dc675ee96d53f34851752,Add developer docs for incoming receptor mesh features,2021-07-23T19:24:53Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+302,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,7f5ac3183126f49582f58b6474a211a16144a828,f801e2870075f7a5971b45a0b2a6c97873d65a95,"Revert ""Updates product name in About modal""",2021-07-23T17:40:20Z,Alex Corey,acorey@redhat.com,GitHub,noreply@github.com
+303,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e9b7f9ac40662f7856186d27d2dd0a9ab6d33b34,86733312c212862caec20aeb45a93d308dfefe55,"Merge pull request #10713 from keithjgrant/10563-a11y-fixes
+
+Fix multiple accessibility violations",2021-07-23T17:36:21Z,Keith Grant,keithjgrant@redhat.com,GitHub,noreply@github.com
+304,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e9b7f9ac40662f7856186d27d2dd0a9ab6d33b34,86733312c212862caec20aeb45a93d308dfefe55,"Merge pull request #10713 from keithjgrant/10563-a11y-fixes
+
+Fix multiple accessibility violations",2021-07-23T17:36:21Z,Keith Grant,keithjgrant@redhat.com,GitHub,noreply@github.com
+305,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,15d6e29cc0deff95273b4ea58c623945e12eec45,eab93f64f7d5e8710e13f1efe64fe4cfd5744117,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T17:08:15Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+306,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,f3b6291918eb833403056b371c47e3f44917cf67,bb4433f7fc627a3770a1664937520c16ab4a5ba8,"Merge pull request #10634 from AlexSCorey/5200-AboutModalUpdate
+
+Updates product name in About modal",2021-07-23T17:20:13Z,Alex Corey,acorey@redhat.com,GitHub,noreply@github.com
+307,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,f3b6291918eb833403056b371c47e3f44917cf67,bb4433f7fc627a3770a1664937520c16ab4a5ba8,"Merge pull request #10634 from AlexSCorey/5200-AboutModalUpdate
+
+Updates product name in About modal",2021-07-23T17:20:13Z,Alex Corey,acorey@redhat.com,GitHub,noreply@github.com
+308,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,15d6e29cc0deff95273b4ea58c623945e12eec45,eab93f64f7d5e8710e13f1efe64fe4cfd5744117,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T17:08:15Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+309,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,15d6e29cc0deff95273b4ea58c623945e12eec45,eab93f64f7d5e8710e13f1efe64fe4cfd5744117,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T17:08:15Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+310,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e3abc626d3febcc047aa2882175c4887479d5ed3,bd4698634eec65061908d248915d3759300b5c9b,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T17:06:07Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+311,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,fd209f011e0a90f2d00220c37c7b5a2667fb7400,a1a6f3a35115e84fa49e6bfbd1d235ee7c511027,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T17:04:22Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+312,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,fd209f011e0a90f2d00220c37c7b5a2667fb7400,a1a6f3a35115e84fa49e6bfbd1d235ee7c511027,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T17:04:22Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+313,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c34398a42e60c25b14c379054c4690858c045f1e,6680d404de501adde75274da3c7fc72c60c443b7,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-23T16:56:19Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+314,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,659e0bf5cd073db75bd65da928588b2892ca588f,ed9e4823be797a7ff1876a6e89d494fba2c4fb50,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T16:49:37Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+315,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,659e0bf5cd073db75bd65da928588b2892ca588f,ed9e4823be797a7ff1876a6e89d494fba2c4fb50,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T16:49:37Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+316,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,81160f353f6e8b77aaf25a71692738364dc37c60,c6c328cbfd7781b73ec986bbfdfa3d66053e224f,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-23T16:43:26Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+317,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ad8b9d79ff96484f99a6d74c2acf15b13f6b188f,d148a0d55b36c4c1cb8333ad24f5c7810b025613,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-23T16:38:17Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+318,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,77d38d5186281e5bc3070d3bd2dd2d40f0eb2629,5046473f99e62cf32abb24eb56e331c4d5bced00,fixes tests,2021-07-23T15:45:02Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+319,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,6e470d7f6adaba93a75075649c1f535a14c99cfb,30eb58dc8d9cf47cfc2243b2038d0a3e225025a1,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T16:07:03Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+320,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,6e470d7f6adaba93a75075649c1f535a14c99cfb,30eb58dc8d9cf47cfc2243b2038d0a3e225025a1,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T16:07:03Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+321,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3c6e7b0983dc00aa645220bbba4347772476f1a1,6ec5e1d24e0bb28227d9fb418e3d946a2c995b4b,Improves empty state messages for improve UX,2021-07-23T15:34:03Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+322,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5578bd3a06e6e45755ff27d292c4802aee456953,195922fe1e42f0d5da822a1bd00afaca2c07c446,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-23T15:24:03Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+323,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,685981fe47bff748506bd977f08bc74c3e32273e,30eb58dc8d9cf47cfc2243b2038d0a3e225025a1,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T15:15:17Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+324,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,685981fe47bff748506bd977f08bc74c3e32273e,30eb58dc8d9cf47cfc2243b2038d0a3e225025a1,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T15:15:17Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+325,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5b845a40d3e393fd6492bb5083825fa0fe0af286,1335eac0d142987daa236ba95316f538142944be,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-23T15:11:07Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+326,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,09479be4bad3063773e0f136b7113e13c11ee636,072f03f18614cc7600a07330b69b7599a6a90901,"Merge pull request #10738 from shanemcd/fix-docker-clean-volumes
+
+Fix docker-clean-volumes target when not using minikube",2021-07-23T15:06:13Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+327,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,09479be4bad3063773e0f136b7113e13c11ee636,072f03f18614cc7600a07330b69b7599a6a90901,"Merge pull request #10738 from shanemcd/fix-docker-clean-volumes
+
+Fix docker-clean-volumes target when not using minikube",2021-07-23T15:06:13Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+328,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5c555b0f75c70ad53edf8d4939e253dd19a5005a,60e70391ef77ad7d840ccabb468beeba6a954f4a,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T14:55:22Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+329,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5c555b0f75c70ad53edf8d4939e253dd19a5005a,60e70391ef77ad7d840ccabb468beeba6a954f4a,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T14:55:22Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+330,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c5d30cd0f8040ad53fa9fe9d312b1d782c032036,ee996f4eabcbde74bfb38adef00cb77105e7205b,"Merge pull request #10732 from shanemcd/mesh_code
+
+Allow for dynamically scaling automation mesh in dev env",2021-07-23T14:40:17Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+331,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,fe3176557659d173292ebe4fe997f6abe8abb7c2,071a05ff6cd4fdf5637a0528973d4dcb3ae6eaf0,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T14:27:32Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+332,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,fe3176557659d173292ebe4fe997f6abe8abb7c2,071a05ff6cd4fdf5637a0528973d4dcb3ae6eaf0,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T14:27:32Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+333,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5cedb530766538a85b5fa9c41908a6c81760e547,a8674f09cfc7b77f40466fcdcc84e5116304ea20,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-23T14:20:28Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+334,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5dd1c8cfdf41f6179fc1b35a716db364098c0603,6825bc7baac96e79cb14ba130d48e238be2eb1d4,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-23T14:09:04Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+335,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,911fa604b5a1e5c2cf05413eff1e8a696b7a20bd,34069fa9b0f2b286964e135726c10e87df47f595,"Update awx/ui_next/src/screens/NotificationTemplate/NotificationTemplateList/NotificationTemplateListItem.test.js
+
+Co-authored-by: Kersom <9053044+nixocio@users.noreply.github.com>",2021-07-23T13:13:47Z,Alex Corey,acorey@redhat.com,GitHub,noreply@github.com
+336,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,18a51d1dd079fbfa8f580c98aadc67f5211742e4,2d75358b2043dea468b630f2479ae032315d8605,"Fix docker-clean-volumes target when not using minikube
+
+Without this patch, you get:
+
+```
+tools/docker-compose-minikube/_sources/minikube delete
+make: tools/docker-compose-minikube/_sources/minikube: No such file or directory
+```",2021-07-23T13:09:33Z,Shane McDonald,me@shanemcd.com,Shane McDonald,me@shanemcd.com
+337,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a1c88a20cd10254c2e63d7cd6fa6f046b90964b3,ea386db4b2c48a914b94789ce3f426fd5f26b577,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T01:28:33Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+338,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a1c88a20cd10254c2e63d7cd6fa6f046b90964b3,ea386db4b2c48a914b94789ce3f426fd5f26b577,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T01:28:33Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+339,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a5fb19a0df29c8e7c21902e6996cb28bfbb25367,23d8db0c7a766df72b2c1a4ca70499035b1792e8,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T01:00:58Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+340,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a5fb19a0df29c8e7c21902e6996cb28bfbb25367,23d8db0c7a766df72b2c1a4ca70499035b1792e8,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T01:00:58Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+341,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,7882cb9008f9df0d94f2bafe8e89846ca380c53d,c27523289e585129c0ecd3a8e308e8c0f0f7380a,"Merge pull request #10668 from oweel/devel
+
+Fix ignoring --no-color for awx-manage list_instances command",2021-07-23T00:46:02Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+342,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,7882cb9008f9df0d94f2bafe8e89846ca380c53d,c27523289e585129c0ecd3a8e308e8c0f0f7380a,"Merge pull request #10668 from oweel/devel
+
+Fix ignoring --no-color for awx-manage list_instances command",2021-07-23T00:46:02Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+343,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,49ede917d6088dfafaf5b9abecd7b8e1fa9d5c06,4a80704130786f4a04f1cda811b86090e56d00cf,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T00:42:57Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+344,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,49ede917d6088dfafaf5b9abecd7b8e1fa9d5c06,4a80704130786f4a04f1cda811b86090e56d00cf,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-23T00:42:57Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+345,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,05c7d3a60ed78f5389f607feb05318014e91299e,8ed402206ce010676b04000f9e9833d4ec687384,"Merge pull request #10108 from saito-hideki/issue/10057
+
+Fix to handle ask_* parameters correctly when set false",2021-07-23T00:25:14Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+346,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,05c7d3a60ed78f5389f607feb05318014e91299e,8ed402206ce010676b04000f9e9833d4ec687384,"Merge pull request #10108 from saito-hideki/issue/10057
+
+Fix to handle ask_* parameters correctly when set false",2021-07-23T00:25:14Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+347,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c09050d1f2c42f482fc96f909bef011f1cae9009,9d5e9707554df1971e90693c02b1acaa71dd2966,"Merge pull request #9944 from AlanCoding/schedule_teardown
+
+Allow stable use of AWXKIT_PREVENT_TEARDOWN by disabling schedules at the end",2021-07-23T00:19:35Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+348,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c09050d1f2c42f482fc96f909bef011f1cae9009,9d5e9707554df1971e90693c02b1acaa71dd2966,"Merge pull request #9944 from AlanCoding/schedule_teardown
+
+Allow stable use of AWXKIT_PREVENT_TEARDOWN by disabling schedules at the end",2021-07-23T00:19:35Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+349,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dd9c6270ba3d16b7f74847794d2bf3c0fdce778e,bc87aa7fe23fe52d8974089e915e927eedb14f1d,Dont fail when pre-built CI image is not available,2021-07-22T23:43:34Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+350,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dd9c6270ba3d16b7f74847794d2bf3c0fdce778e,bc87aa7fe23fe52d8974089e915e927eedb14f1d,Dont fail when pre-built CI image is not available,2021-07-22T23:43:34Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+351,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,76dd44aead4546e334557b3b38ff3fd04cc704a5,ee996f4eabcbde74bfb38adef00cb77105e7205b,Allow for dynamically scaling automation mesh in dev env,2021-07-22T23:38:26Z,Shane McDonald,me@shanemcd.com,Shane McDonald,me@shanemcd.com
+352,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,568138cac88d68f7afeaff7f4a026329197cc63f,50f718f136d82573be99b85921a258103e5f888c,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T21:29:52Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+353,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,568138cac88d68f7afeaff7f4a026329197cc63f,50f718f136d82573be99b85921a258103e5f888c,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T21:29:52Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+354,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e019719916f24ba1de60a367f7b0d3c1b61ca1cf,6104788fb581690ce5217f7d199705ca13f1c223,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-22T21:20:17Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+355,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b10fe5f6c89122c78401099c22a186a600558eec,7f8c2f60c30895d1d49336c71a75d64498893cd8,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T21:18:23Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+356,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b10fe5f6c89122c78401099c22a186a600558eec,7f8c2f60c30895d1d49336c71a75d64498893cd8,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T21:18:23Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+357,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,18d9bfa06ea4415ef036955905b1655ea5485b73,a2d2fc1b5b3cacdf2d474cb74534f412d0a5faf9,"Merge pull request #10573 from Tompage1994/collection_inv_src_proj
+
+Default source_project to organization for inventory source",2021-07-22T21:14:32Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+358,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,18d9bfa06ea4415ef036955905b1655ea5485b73,a2d2fc1b5b3cacdf2d474cb74534f412d0a5faf9,"Merge pull request #10573 from Tompage1994/collection_inv_src_proj
+
+Default source_project to organization for inventory source",2021-07-22T21:14:32Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+359,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dbd4f2ce000ba7b0fda6c537c684ca9c4f8de1c9,e7cda8e99d87815b25b3da19a89c2babf35d0809,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T21:09:56Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+360,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dbd4f2ce000ba7b0fda6c537c684ca9c4f8de1c9,e7cda8e99d87815b25b3da19a89c2babf35d0809,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T21:09:56Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+361,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,701d27dd7336bbd759fff34cf35d7e744579ab3d,1ed54bca129dbc10463855d2d6a997c2ffe9c982,"WIP - List permissions
+
+list permissions",2021-07-22T21:08:10Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+362,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ef82c1ce0130909b5914f590756cb81320c56aff,da6b79784cdcc287cb3bada4310d9053dab2f90e,"Merge pull request #10566 from strollo/webhook-headers-patch
+
+Headers missing in webhook notification request",2021-07-22T21:08:56Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+363,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ef82c1ce0130909b5914f590756cb81320c56aff,da6b79784cdcc287cb3bada4310d9053dab2f90e,"Merge pull request #10566 from strollo/webhook-headers-patch
+
+Headers missing in webhook notification request",2021-07-22T21:08:56Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+364,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cab601ab23c762d43e71eb84a6dc995e3c67f466,bf4483cd6970aad14d4d57d24a68e65eb9828034,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-22T21:00:58Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+365,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,717a96b0ba69a56caf282414292a629b604d9828,6282008bf7a132994941287bfdb7dca5b96bb575,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T20:50:00Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+366,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,717a96b0ba69a56caf282414292a629b604d9828,6282008bf7a132994941287bfdb7dca5b96bb575,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T20:50:00Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+367,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dcd1526ad2c5344ea4ac3621b8a8fe04bd8f8eff,fc46d479c3134654945fe8e945da70a51fe13ea2,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-22T19:34:03Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+368,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0cba6eb16e75ba9cba5f4f31ba9a785c7472f8e1,ba878dc36c6d202aae39700927817a7f47e56b19,merge,2021-07-22T20:23:58Z,sezanzeb,proxima@hip70890b.de,sezanzeb,proxima@sezanzeb.de
+369,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ec6ee25a6d102dd9b03cf3a664c56d02c16c4635,feb76892e014889b1828d09c14d523da7c1f36a8,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T20:16:04Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+370,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ec6ee25a6d102dd9b03cf3a664c56d02c16c4635,feb76892e014889b1828d09c14d523da7c1f36a8,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T20:16:04Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+371,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3dae216205bb56cdaa5b2ad71a93ee29d719969a,b22baffea2b44617d3f1b5c2358b4090c0b0858c,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T20:13:27Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+372,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3dae216205bb56cdaa5b2ad71a93ee29d719969a,b22baffea2b44617d3f1b5c2358b4090c0b0858c,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T20:13:27Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+373,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,6a7aa77033dab7f6e7b612f4d08b5471a4893906,2041f5ba298c516f5d23aae1ccebff9000618491,"Merge pull request #10484 from ansible/chrismeyersfsu-patch-1
+
+only get active long running queries",2021-07-22T19:58:10Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+374,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,6a7aa77033dab7f6e7b612f4d08b5471a4893906,2041f5ba298c516f5d23aae1ccebff9000618491,"Merge pull request #10484 from ansible/chrismeyersfsu-patch-1
+
+only get active long running queries",2021-07-22T19:58:10Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+375,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,f683c7159d1fbe0c0983b50ecdbc838eaca3222f,3d872a33eccb2046dbb45c953441e157b0aaa7d9,"Merge pull request #10481 from brigzzy/compose_up_fix
+
+Reorder docker compose up options",2021-07-22T19:57:39Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+376,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,f683c7159d1fbe0c0983b50ecdbc838eaca3222f,3d872a33eccb2046dbb45c953441e157b0aaa7d9,"Merge pull request #10481 from brigzzy/compose_up_fix
+
+Reorder docker compose up options",2021-07-22T19:57:39Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+377,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,1f1402ef3dd2224c9f5adf13aea7705db0770dd6,0acf24ae8b8743cf316fa587e12f48414b7bc9b3,"Treat the awx_1 node as a hybrid node for now, use local work type (#10726)",2021-07-22T19:49:30Z,Alan Rominger,arominge@redhat.com,Alan Rominger,arominge@redhat.com
+378,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cd33db037d12612ea960efd2ec79917ad64e316f,91b618360a1f3b2d6562caded628864e4d89eb0a,"Merge pull request #9703 from tchellomello/double_ldap
+
+Avoid double LDAP updates",2021-07-22T19:54:29Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+379,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cd33db037d12612ea960efd2ec79917ad64e316f,91b618360a1f3b2d6562caded628864e4d89eb0a,"Merge pull request #9703 from tchellomello/double_ldap
+
+Avoid double LDAP updates",2021-07-22T19:54:29Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+380,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,8609a637f9f6e39845fc20b69dbfad026742c26d,bd1f42c5c16ea651a0d6cfa1a8db310ac48ecfc7,"Merge pull request #9365 from mcharanrm/aa-workloads-firehose
+
+tools/scripts/firehose.py: capture all job ids, attach events to all jobs ids and distribute the events",2021-07-22T19:52:16Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+381,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,8609a637f9f6e39845fc20b69dbfad026742c26d,bd1f42c5c16ea651a0d6cfa1a8db310ac48ecfc7,"Merge pull request #9365 from mcharanrm/aa-workloads-firehose
+
+tools/scripts/firehose.py: capture all job ids, attach events to all jobs ids and distribute the events",2021-07-22T19:52:16Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+382,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,99ffd3898c59a7eb8259266116e3d791bb6facbe,722911b2833988f127e1015d25c7c869a4ffef4e,"Merge pull request #8023 from velzend/improve_logging_migrating_or_instance_not_registered
+
+improve logging migrate or instance not registered",2021-07-22T19:50:33Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+383,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,99ffd3898c59a7eb8259266116e3d791bb6facbe,722911b2833988f127e1015d25c7c869a4ffef4e,"Merge pull request #8023 from velzend/improve_logging_migrating_or_instance_not_registered
+
+improve logging migrate or instance not registered",2021-07-22T19:50:33Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+384,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c36821d6e1ebbb28b226b3f2f175318b5eb94ee1,15f8fd257897dd9af7c26f3d481395f20b323cfd,"Merge pull request #7273 from jamesmarshall24/devel
+
+Remove query_parameters from page loop causing 414",2021-07-22T19:49:16Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+385,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c36821d6e1ebbb28b226b3f2f175318b5eb94ee1,15f8fd257897dd9af7c26f3d481395f20b323cfd,"Merge pull request #7273 from jamesmarshall24/devel
+
+Remove query_parameters from page loop causing 414",2021-07-22T19:49:16Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+386,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b3604ed94a932f8dabcb9141437893ba411ea5c1,4c48ab5c9885a39eb76d06f56378082c1a730cee,"Merge pull request #10511 from fosterseth/fix_haproxy_permission
+
+run dev cluster haproxy container as root",2021-07-22T19:45:28Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+387,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b3604ed94a932f8dabcb9141437893ba411ea5c1,4c48ab5c9885a39eb76d06f56378082c1a730cee,"Merge pull request #10511 from fosterseth/fix_haproxy_permission
+
+run dev cluster haproxy container as root",2021-07-22T19:45:28Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+388,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dcd1526ad2c5344ea4ac3621b8a8fe04bd8f8eff,fc46d479c3134654945fe8e945da70a51fe13ea2,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-22T19:34:03Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+389,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,32b4d228b91049ab70f5232ab12b604a87703d40,72e4a27809cf49a04e9350adcb88094c4a77d12d,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T19:31:34Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+390,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,32b4d228b91049ab70f5232ab12b604a87703d40,72e4a27809cf49a04e9350adcb88094c4a77d12d,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T19:31:34Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+391,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,d290543c4a2431124e528e95f1e31917e0d67e81,e83c9c2845e4fb349e0c77752435469c5b6c303d,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-22T18:19:53Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+392,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0e30c6639a3942cd8884d9fd98bcaf34f2e91fd6,7337ac2739b14fdf9679f9d9133f4142ad5cfcaf,"Merge pull request #10583 from coolbry95/waitfordb
+
+wait for database connection",2021-07-22T18:12:30Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+393,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0e30c6639a3942cd8884d9fd98bcaf34f2e91fd6,7337ac2739b14fdf9679f9d9133f4142ad5cfcaf,"Merge pull request #10583 from coolbry95/waitfordb
+
+wait for database connection",2021-07-22T18:12:30Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+394,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e4a5023a9eb684c5222d7c4d2f0c005dee3d587d,97200c78f380779f2e74ee9d423e3b8f245da628,Fix linting errors,2021-07-22T18:04:22Z,mabashian,mabashia@redhat.com,mabashian,mabashia@redhat.com
+395,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ed108c5a2cbc8c93bbb76c257b1ea1df23e51552,00f962a50d139825fdee0e324bf31b74d65f25bc,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T18:01:36Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+396,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ed108c5a2cbc8c93bbb76c257b1ea1df23e51552,00f962a50d139825fdee0e324bf31b74d65f25bc,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T18:01:36Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+397,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,6935b0e73d0c530d41753c2cb50acecd0cb16ea8,49efc6be92869665bf1075c27150a185f0b3b044,Fix linting errors,2021-07-22T18:00:48Z,mabashian,mabashia@redhat.com,mabashian,mabashia@redhat.com
+398,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,f6037f9df52a2311ba28b81f588328958acbb7a4,e69df30cfea04ebb9c25fbed686ade90c8a21a9b,run changes through updated v of prettier,2021-07-22T17:57:49Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+399,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0aca4d658af70fd718b3aac8fbb654c18d540aa3,7337ac2739b14fdf9679f9d9133f4142ad5cfcaf,Bash nitpick,2021-07-22T17:56:58Z,Shane McDonald,me@shanemcd.com,Shane McDonald,me@shanemcd.com
+400,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bbbd0963692fada8ba289804354fc53dbb203fff,789dbfb470659b057fbd7b72366c70db8dfd1cd6,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T17:56:50Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+401,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bbbd0963692fada8ba289804354fc53dbb203fff,789dbfb470659b057fbd7b72366c70db8dfd1cd6,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T17:56:50Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+402,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,88de9920c2dcfd0d44a0e8bbbc833dad20c75e4a,5ce090c1f45b1d8a9a5c1b2105dd41c450ae9cf6,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T17:01:56Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+403,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,88de9920c2dcfd0d44a0e8bbbc833dad20c75e4a,5ce090c1f45b1d8a9a5c1b2105dd41c450ae9cf6,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T17:01:56Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+404,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e0060fe06e79d9cccdd974e1e9d724497e864bb3,e83c9c2845e4fb349e0c77752435469c5b6c303d,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-22T17:31:29Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+405,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,88de9920c2dcfd0d44a0e8bbbc833dad20c75e4a,5ce090c1f45b1d8a9a5c1b2105dd41c450ae9cf6,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T17:01:56Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+406,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,442e7be9fc95c4dfa3694ff761fe530ae41fe1c3,46c2e0aebfc25bf235e0d7acfac7c1fbc022b35e,ensures that field is on screen behind the confirmation modal,2021-07-22T17:23:03Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+407,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,6a6271b57302fe282abf29dd193c2d829ced3fc2,540d4c4b625c5741ea2573bf84332febea2bfe47,"WIP - Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir
+
+See: https://github.com/ansible/awx/issues/10676",2021-07-22T16:56:54Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+408,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,88de9920c2dcfd0d44a0e8bbbc833dad20c75e4a,5ce090c1f45b1d8a9a5c1b2105dd41c450ae9cf6,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T17:01:56Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+409,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,88de9920c2dcfd0d44a0e8bbbc833dad20c75e4a,5ce090c1f45b1d8a9a5c1b2105dd41c450ae9cf6,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T17:01:56Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+410,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,55a9a4ca46c7aecd4e6e3c19bd9708749b6df190,e5508599cca1f8d3f2d6ffb571ff8e844a0e4a0a,update selectors in tests to match id changes,2021-07-22T16:55:01Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+411,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ef3e4bcbdd99263a06a82160ecb5928efe266ddc,c9a8d7224065d402fdb167b6d8ff7f42a6dc45f6,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T16:32:51Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+412,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,fb91c8fba1d25ec28f6599be6ec55eaff9925125,f5b9163b769ecc6f9084187fbfc3c8f3a41d0ade,updates product name in About modal,2021-07-20T12:27:33Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+413,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ef3e4bcbdd99263a06a82160ecb5928efe266ddc,c9a8d7224065d402fdb167b6d8ff7f42a6dc45f6,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T16:32:51Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+414,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,ef3e4bcbdd99263a06a82160ecb5928efe266ddc,c9a8d7224065d402fdb167b6d8ff7f42a6dc45f6,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T16:32:51Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+415,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,a345186d2364db5276c8f0da6b39930480c8a7ce,a5a53cc2ba8e43a780b11daaba2074ec093f0864,ensures that field is on screen behind the confirmation modal,2021-07-22T16:26:19Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+416,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,83acf467d79186cff02664e13dab9a1490e85cf1,b7e31d19d5154f729182f7b8133d9f4df3f5fcb7,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T16:30:18Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+417,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,83acf467d79186cff02664e13dab9a1490e85cf1,b7e31d19d5154f729182f7b8133d9f4df3f5fcb7,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T16:30:18Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+418,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e8d116b524cb3c1d3774584db069fa9d1dd3c22c,0d3dfeb5ff03fb548160b734a8b3a55a3c441d7f,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T15:47:59Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+419,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e8d116b524cb3c1d3774584db069fa9d1dd3c22c,0d3dfeb5ff03fb548160b734a8b3a55a3c441d7f,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T15:47:59Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+420,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,1aacd94cb5535d5f9ec44f96b880bb9bc48ad33f,7d82dc04766a4a38418649bbad460f07db339c0f,"Merge pull request #10711 from ansible/pip-boto
+
+Install boto to ci ansible python env",2021-07-22T15:08:35Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+421,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,1aacd94cb5535d5f9ec44f96b880bb9bc48ad33f,7d82dc04766a4a38418649bbad460f07db339c0f,"Merge pull request #10711 from ansible/pip-boto
+
+Install boto to ci ansible python env",2021-07-22T15:08:35Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+422,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0a67b72314c5f5bbd0a02f6f1e87bfa62488714d,900d06c7161f3fc07c4047e85100633880c78186,fixes tests,2021-07-22T14:14:11Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+423,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bde3f78b98331d19da4a3e0b01ff4b4e43d105d9,155e0531e45c1edb73237ebdba952f1ff8412952,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T13:26:44Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+424,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bde3f78b98331d19da4a3e0b01ff4b4e43d105d9,155e0531e45c1edb73237ebdba952f1ff8412952,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T13:26:44Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+425,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5aef31d390cde5d29d0638662f2b63e7bc298a91,2fcc2c1b4c715ef6dbd6a6e6aa29b4a9cd42fae1,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T13:23:17Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+426,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5aef31d390cde5d29d0638662f2b63e7bc298a91,2fcc2c1b4c715ef6dbd6a6e6aa29b4a9cd42fae1,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T13:23:17Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+427,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9befcdebba45d5296c7dab2b3506ee05460cc0e7,0d6c74b5cc19c4d5e99d3009413da21b8a89a6af,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T13:22:15Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+428,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9befcdebba45d5296c7dab2b3506ee05460cc0e7,0d6c74b5cc19c4d5e99d3009413da21b8a89a6af,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T13:22:15Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+429,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,6ac0b8d4a8db5d99fcdd9b18cd08e96448aa4cbb,6d69708e0029d7938ac8759eaa828dea1452c312,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T13:20:56Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+430,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,6ac0b8d4a8db5d99fcdd9b18cd08e96448aa4cbb,6d69708e0029d7938ac8759eaa828dea1452c312,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T13:20:56Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+431,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0a3667b08521c1102f2c3e59ace9d4890dde3a56,76ba7c991e74a7e07fc9dca9c49fc3a871accb06,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T13:20:24Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+432,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0a3667b08521c1102f2c3e59ace9d4890dde3a56,76ba7c991e74a7e07fc9dca9c49fc3a871accb06,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T13:20:24Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+433,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c45ca54e0c393e4398734fe0de0e585d5c13c5c2,9ee9c1aeb6e1113a63f1d4944b21b78caab2e8b8,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T13:16:01Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+434,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c45ca54e0c393e4398734fe0de0e585d5c13c5c2,9ee9c1aeb6e1113a63f1d4944b21b78caab2e8b8,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T13:16:01Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+435,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,070d76dc1a03129bee1a5b3160096651bcae0197,81d5a9fa29ddcaeb90fa9ef1ace306ba197a5802,"Add extra step to allow edition of login redirect URL
+
+Add extra step to allow edition of login redirect URL
+
+closes: https://github.com/ansible/awx/issues/10613",2021-07-22T13:15:56Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+436,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,7bfc1702abf18cafbd7b4fe74c6609659ccdccd2,e61a2a7de4ae8f27b3051453ced8fbd7b30548ec,"Merge pull request #10632 from The-Migus-Group/tss-plugin-amigus
+
+Add Thycotic SecretServer support",2021-07-22T12:57:39Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+437,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,7bfc1702abf18cafbd7b4fe74c6609659ccdccd2,e61a2a7de4ae8f27b3051453ced8fbd7b30548ec,"Merge pull request #10632 from The-Migus-Group/tss-plugin-amigus
+
+Add Thycotic SecretServer support",2021-07-22T12:57:39Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+438,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,d312e6091b9aeb00fc8f6dd1b27d8aef45763139,e66c6b5373108d52bada8771b39835451adf2090,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T12:56:06Z,Tiago,tiago.goes2009@gmail.com,Tiago Góes,tiago.goes2009@gmail.com
+439,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,d312e6091b9aeb00fc8f6dd1b27d8aef45763139,e66c6b5373108d52bada8771b39835451adf2090,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T12:56:06Z,Tiago,tiago.goes2009@gmail.com,Tiago Góes,tiago.goes2009@gmail.com
+440,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,046c55ccb7798297f9e9df54e03faec81a1ddff7,87d0bd57ee2fd678cca8ea3e3e89ab531f11e3e6,"Add extra step to allow edition of login redirect URL
+
+Add extra step to allow edition of login redirect URL
+
+closes: https://github.com/ansible/awx/issues/10613",2021-07-22T12:53:24Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+441,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,911898ddb637ad39eedad3cc51756839f08a89ff,e5825290dd8fa752df5ff7f947df759e9be278ec,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T12:52:49Z,Tiago,tiago.goes2009@gmail.com,Tiago Góes,tiago.goes2009@gmail.com
+442,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,911898ddb637ad39eedad3cc51756839f08a89ff,e5825290dd8fa752df5ff7f947df759e9be278ec,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-22T12:52:49Z,Tiago,tiago.goes2009@gmail.com,Tiago Góes,tiago.goes2009@gmail.com
+443,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,d68c118fd4a817007afcd976584b67bdede6662f,636b9b62eb78ee96685deef1959855784cdfc470,"Merge pull request #10570 from nixocio/ui_remove_with_router
+
+Remove mix usage of hooks and HOC for router",2021-07-22T12:34:55Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+444,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,d68c118fd4a817007afcd976584b67bdede6662f,636b9b62eb78ee96685deef1959855784cdfc470,"Merge pull request #10570 from nixocio/ui_remove_with_router
+
+Remove mix usage of hooks and HOC for router",2021-07-22T12:34:55Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+445,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,27543aed1dad29048785f7262dd497d756d641ac,c827d58ec3589c0bd46464150f356aa146370a21,Return 404 for ad_hoc_command_events list api. Remove api endtpoint,2021-07-22T10:04:00Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+446,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,edd3554c36ab7d07ec95f0503302944703e8d61f,972bb9f7c78737f8dc8df75b6ffbe709488e6414,Breakdown the compound statement in tss_backend,2021-07-22T02:03:34Z,Adam Migus,adam@migus.org,Adam Migus,adam@migus.org
+447,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,782719b36faf052d197be6f866d860533798502d,03e723c2d0dfddf70052abaebe34d84c5c04217e,fix a11y id issues in team list and jt form,2021-07-21T23:01:59Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+448,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4a6011e5fe3f1bb8cc48d08ea1c8c60357faa09c,262d6fd22a689b669b139a14a8641aefda24c377,Making it possible to list workflow jobs,2021-07-21T22:30:35Z,Ranmsés Bastos,ranmses@gmail.com,GitHub,noreply@github.com
+449,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,94d9efbb61a6851d77de6915b9622e3f3e555c09,299ef982b28e037b59c510287019dc4fb47393a2,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-21T22:13:16Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+450,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,94d9efbb61a6851d77de6915b9622e3f3e555c09,299ef982b28e037b59c510287019dc4fb47393a2,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-21T22:13:16Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+451,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dd48ed8642b9638781ef8289133cfa611de04759,ea70c790cabf673b7439b491b5f5a1060f6d1b02,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-21T22:08:25Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+452,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,dd48ed8642b9638781ef8289133cfa611de04759,ea70c790cabf673b7439b491b5f5a1060f6d1b02,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-21T22:08:25Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+453,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,39808641517314225f9dcb7167251320c5ac2943,c57743b6771cdf2322a3c18e94fa64ffeb420212,Install boto to ci ansible python env,2021-07-21T22:01:09Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+454,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e76e50ea8cf2e4bed217904782219424b341ee89,cb5790f8a637cef5cbc8e873b90c5a13431c6025,test,2021-07-21T22:07:11Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+455,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e76e50ea8cf2e4bed217904782219424b341ee89,cb5790f8a637cef5cbc8e873b90c5a13431c6025,test,2021-07-21T22:07:11Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+456,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,36c074c64e43140a60d7b2c6d72ca446f06d2758,bab8f54e98f4d41b7ff895ab71564dbf41298a6d,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-21T22:05:17Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+457,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,36c074c64e43140a60d7b2c6d72ca446f06d2758,bab8f54e98f4d41b7ff895ab71564dbf41298a6d,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-21T22:05:17Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+458,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,39808641517314225f9dcb7167251320c5ac2943,c57743b6771cdf2322a3c18e94fa64ffeb420212,Install boto to ci ansible python env,2021-07-21T22:01:09Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+459,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,fc05f12e9a0b675c300bbf1a7c86a1ae2e219e7b,14eddf5e8ca627939cab59f2311aec1b5dc95123,test,2021-07-21T22:03:43Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+460,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,fc05f12e9a0b675c300bbf1a7c86a1ae2e219e7b,14eddf5e8ca627939cab59f2311aec1b5dc95123,test,2021-07-21T22:03:43Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+461,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,39808641517314225f9dcb7167251320c5ac2943,c57743b6771cdf2322a3c18e94fa64ffeb420212,Install boto to ci ansible python env,2021-07-21T22:01:09Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+462,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,27a00cf9195ef7e6ae55d91a666bf5c4e051b43b,3c3c078455934f35968ef72b1d5b821100a7e984,test,2021-07-21T21:58:42Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+463,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,27a00cf9195ef7e6ae55d91a666bf5c4e051b43b,3c3c078455934f35968ef72b1d5b821100a7e984,test,2021-07-21T21:58:42Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+464,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,547ffe19c8571853656c1cb338278470591182b9,f2a44965e97b38f4a647b7a109e63447c381dc2c,test,2021-07-21T21:56:27Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+465,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,547ffe19c8571853656c1cb338278470591182b9,f2a44965e97b38f4a647b7a109e63447c381dc2c,test,2021-07-21T21:56:27Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+466,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0493dfaf5245cd28a27774c0bc384a394443e207,26bc092cdac17d9c39e4356a0b2642b0a39990cf,test,2021-07-21T21:55:43Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+467,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0493dfaf5245cd28a27774c0bc384a394443e207,26bc092cdac17d9c39e4356a0b2642b0a39990cf,test,2021-07-21T21:55:43Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+468,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b2b0444322b6f414c0857937a39fc64584cb762c,1b019e888ed52b34da82867afb831743d9f2ee0b,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-21T21:53:16Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+469,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b2b0444322b6f414c0857937a39fc64584cb762c,1b019e888ed52b34da82867afb831743d9f2ee0b,Add workflow to run e2e tests when the label needs_test is applied to the PR,2021-07-21T21:53:16Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+470,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0c8f4fc9e7de9cf37cb4df62424121c7b5c9b60f,069a2e2a8cd6f32513c51dca99eb1299ffbbf51c,"Revert ""add e2e tests to ci.yml""
+
+This reverts commit 4f428af515c2942ae12aadcfc43e1e9948cc6f87.",2021-07-21T21:52:14Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+471,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,2fc85c07dfd5b0324f02cda328bd3fe705064877,4db6008e05042aa02e609660876536612120601a,test,2021-07-21T21:49:32Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+472,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,2fc85c07dfd5b0324f02cda328bd3fe705064877,4db6008e05042aa02e609660876536612120601a,test,2021-07-21T21:49:32Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+473,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,2deca452528b40c8abd5d1827837155f9c6bf6bd,567e95aabbf0001b34eba3704298ecf02022eb58,test,2021-07-21T21:46:47Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+474,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,2deca452528b40c8abd5d1827837155f9c6bf6bd,567e95aabbf0001b34eba3704298ecf02022eb58,test,2021-07-21T21:46:47Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+475,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4c591e283c1d4afeae2bd67add6116fa2e33683b,39811aad64f367e91c0ba535db7b5ab58d577405,test,2021-07-21T21:40:46Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+476,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4c591e283c1d4afeae2bd67add6116fa2e33683b,39811aad64f367e91c0ba535db7b5ab58d577405,test,2021-07-21T21:40:46Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+477,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cb57e3ccb4f3fd6511a93ba3991ada14ca7ad51d,724fe2b752b82625e342a750df49bcf50260e466,Merge branch 'devel' into updatesProdDeps,2021-07-21T21:38:07Z,Alex Corey,acorey@redhat.com,GitHub,noreply@github.com
+478,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4f428af515c2942ae12aadcfc43e1e9948cc6f87,7cfd636976a004f2e8e4d93d5fef4b3c388e51dd,add e2e tests to ci.yml,2021-07-21T21:35:02Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+479,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,97047a511b0263b5d60a0c56096f9808aaafdcff,e8a6301023c5f297034e2c2667c71770e5d1463e,Install boto to ci ansible python env,2021-07-21T21:26:21Z,Jake McDermott,yo@jakemcdermott.me,Jake McDermott,yo@jakemcdermott.me
+480,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5d20acaa92f04c864b3f25833edd26b119a54aea,040dbdf01a9ae3570e38787a5f4037a0d668cb45,"Merge pull request #10709 from nixocio/ui_fix_lint
+
+Run prettier and lint",2021-07-21T21:15:48Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+481,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5d20acaa92f04c864b3f25833edd26b119a54aea,040dbdf01a9ae3570e38787a5f4037a0d668cb45,"Merge pull request #10709 from nixocio/ui_fix_lint
+
+Run prettier and lint",2021-07-21T21:15:48Z,Kersom,9053044+nixocio@users.noreply.github.com,GitHub,noreply@github.com
+482,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,f829717b52da2a2901f130b4d2b44b776e5b0865,cb98551b9eea803d23676b5008fb74d6a022a75e,add e2e tests to ci.yml,2021-07-21T21:14:56Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+483,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b6c84e54282c3dd374c2ce5783f97e5cfd724891,a17cf0cc9ba6303cd977edfb2dd3f4c9802f7d33,add e2e tests to ci.yml,2021-07-21T21:11:30Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+484,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,424990da327952e29c5686c79b7d1aab1837a9c7,cd537a420b47caab6765850ff4f39f3ec4c799c4,Install boto to ci ansible python env,2021-07-21T21:05:08Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+485,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,05e5cd6bf171fcd085eeb3cbf32891d8697eb96e,43198d82aaa648814bb2d4f7179c0b5ff5082d3b,"Run prettier
+
+Run prettier",2021-07-21T21:00:05Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+486,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,0d9482fcf84c9bacccef69199f7fdcc2bf3b7ecf,04c3e56f27af4bbf90d884c16fef7b8d10a5200a,add e2e tests to ci.yml,2021-07-21T20:56:36Z,Tiago,tiago.goes2009@gmail.com,Tiago,tiago.goes2009@gmail.com
+487,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cd3236c49ad7207c35914ea22c53665a1b0b142b,ad3da1499e8ad9a6dbc9dcadea61066de385ea6c,"Run prettier
+
+Run prettier",2021-07-21T20:45:36Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+488,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,bb2a1ad7a00393a0b0a922e1ebf1b13840fd83d1,4febb87a99e677e44c82db4ac1a8951f06a9bf3d,"Run prettier
+
+Run prettier",2021-07-21T20:42:43Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+489,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,d218b2a8e1362ded6b50f3f0cb28a8c859c7916d,ac1e3762be9dbda4c8752c8162784e218bb423be,Breakdown the compound statement in tss_backend,2021-07-21T20:25:04Z,Adam Migus,adam@migus.org,Adam Migus,adam@migus.org
+490,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4ff64abe234bf3079ec8adacaf33ab1c34e883e8,5e6419fd08a8705f89fa4c290b4292208f1d83a2,"Run prettier
+
+Run prettier",2021-07-21T20:24:23Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+491,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,53251434f2206b2cf323ff159fe2b676dfbae526,80e22cfbe72d2c04bd174fcff0b5e45fc1553607,"Merge pull request #10696 from nixocio/ui_status_label
+
+Create map of strings to be translated",2021-07-21T19:41:56Z,Sarah Akus,sakus@redhat.com,GitHub,noreply@github.com
+492,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,53251434f2206b2cf323ff159fe2b676dfbae526,80e22cfbe72d2c04bd174fcff0b5e45fc1553607,"Merge pull request #10696 from nixocio/ui_status_label
+
+Create map of strings to be translated",2021-07-21T19:41:56Z,Sarah Akus,sakus@redhat.com,GitHub,noreply@github.com
+493,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,10a4d500897edaf42f85aeace6b838b699a124d5,78682f6192663dcb9b7e22c96080fa1f42adfc13,Use a callable function instead of a lambda.,2021-07-21T19:29:50Z,Adam Migus,adam@migus.org,Adam Migus,adam@migus.org
+494,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,89aba34d8977767130e1b0978062128fa23e1e56,b4cb66a61ae6925dfb9bef6b113dd590568bb982,Use a callable function instead of a lambda.,2021-07-21T19:27:16Z,Adam Migus,adam@migus.org,Adam Migus,adam@migus.org
+495,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,938c8714b4620c717b8089f3bbef0e949a24ec4e,e57a2c614f4fc18c4e728c340e0cf7537f8b0b13,Fix linting errors,2021-07-21T18:23:59Z,mabashian,mabashia@redhat.com,mabashian,mabashia@redhat.com
+496,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9704c57d6b58551d4c0967f9036a8c719c019ecf,069a2e2a8cd6f32513c51dca99eb1299ffbbf51c,"Merge pull request #10665 from keithjgrant/disallow-test-network-requests
+
+Disallow network requests in tests",2021-07-21T16:32:47Z,Keith Grant,keithjgrant@redhat.com,GitHub,noreply@github.com
+497,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9704c57d6b58551d4c0967f9036a8c719c019ecf,069a2e2a8cd6f32513c51dca99eb1299ffbbf51c,"Merge pull request #10665 from keithjgrant/disallow-test-network-requests
+
+Disallow network requests in tests",2021-07-21T16:32:47Z,Keith Grant,keithjgrant@redhat.com,GitHub,noreply@github.com
+498,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9b7ef9ba21339a7afdc3a8b71e0345b506e150e4,f50fcff585faf4acfeb4e2a321f4ea2884f36b60,"Merge pull request #10700 from nixocio/ui_misalignment
+
+Fix misalignment node approval timeout",2021-07-21T16:05:41Z,Sarah Akus,sakus@redhat.com,GitHub,noreply@github.com
+499,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9b7ef9ba21339a7afdc3a8b71e0345b506e150e4,f50fcff585faf4acfeb4e2a321f4ea2884f36b60,"Merge pull request #10700 from nixocio/ui_misalignment
+
+Fix misalignment node approval timeout",2021-07-21T16:05:41Z,Sarah Akus,sakus@redhat.com,GitHub,noreply@github.com
+500,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e7f1d1d0c12f4242c11e5638ea669aa84e515930,89c4408bbf73e2cc762b2b93dcbbf89ea678d45b,Fix ignoring --no-color for awx-manage list_instances command,2021-07-21T15:55:24Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+501,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,fdc63d6364ba3effed0c3405c33beb94f3bc74a6,d053ba8ac5ed41f432e31eed57c5dd77cf7b43ff,"Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir",2021-07-21T15:49:38Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+502,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,7abbac0d3b3a89cf55e7018ac32570551b432aa1,28adea7292b7a53871071dc53892a19c405e63c4,"Merge ui and ui_next in one dir
+
+Merge ui and ui_next in one dir",2021-07-21T15:30:11Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+503,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b27a8878279aa3c9c57559bba8cc7d6a5776bf54,105d27984ac6dc96b770805ec9282bfaa2ae7602,marks dashboard chart axis labels for translation,2021-07-21T15:25:07Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+504,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c9259ac45b6a12bce98848cec747583c05a45a4a,bb8e920f2020598518d9f2ba51f23f752af01685,"Merge pull request #10675 from tchellomello/minikube-hack-macos
+
+Workaround Minikube issue on MacOS and enable preflights",2021-07-21T14:56:14Z,Marcelo Moreira de Mello,tchello.mello@gmail.com,GitHub,noreply@github.com
+505,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c9259ac45b6a12bce98848cec747583c05a45a4a,bb8e920f2020598518d9f2ba51f23f752af01685,"Merge pull request #10675 from tchellomello/minikube-hack-macos
+
+Workaround Minikube issue on MacOS and enable preflights",2021-07-21T14:56:14Z,Marcelo Moreira de Mello,tchello.mello@gmail.com,GitHub,noreply@github.com
+506,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,19049b670829e8f62f77a847bb03c821b3fe28b4,88c299e302221d21c783a908a40e420272f6d927,wait for migrations in awx-web container,2021-07-21T14:40:36Z,coolbry95,coolbry95@gmail.com,coolbry95,coolbry95@gmail.com
+507,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,8bdf211812e041eea88079803a72d6daf61ac6c4,91b938ad8d75ddf59dbd1dfb6e0baa31013430d2,"Add extra step to allow edition of login redirect URL
+
+Add extra step to allow edition of login redirect URL
+
+closes: https://github.com/ansible/awx/issues/10613",2021-07-21T14:40:33Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+508,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,7e46499e188554b2a61e3be7a1905fd266d1bbff,bb8e920f2020598518d9f2ba51f23f752af01685,Workaround Minikube issue on MacOS and enable preflights,2021-07-21T14:39:51Z,Marcelo Moreira de Mello,tchello.mello@gmail.com,Marcelo Moreira de Mello,tchello.mello@gmail.com
+509,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,4143259cb32b2f1b4e1c51699c84d6c95d5e5dc9,6125e324421d124220ec2122fa7e070f6ff22a60,"Add extra step to allow edition of login redirect URL
+
+Add extra step to allow edition of login redirect URL
+
+closes: https://github.com/ansible/awx/issues/10613",2021-07-20T12:58:34Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+510,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c1b2428b5da9c881f0189949ef34a9da3f0658d2,b008811b4726eeb1dc6658c95fd2adb63dea45fa,"Create map of strings to be translated
+
+Create map of strings to be translated to StatusLabel
+
+closes:https://github.com/ansible/awx/issues/8586",2021-07-21T13:53:37Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+511,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c073583663161cd5e0f22d89a72faac7f70c90cc,b74ed99de8d0915024ec4da2cfa56020f66a84d1,"Merge pull request #10658 from AlexSCorey/updatesESLint_and_Prettier_and_relatedDeps
+
+Updates Several Dev Dependencies",2021-07-21T13:50:22Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+512,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c073583663161cd5e0f22d89a72faac7f70c90cc,b74ed99de8d0915024ec4da2cfa56020f66a84d1,"Merge pull request #10658 from AlexSCorey/updatesESLint_and_Prettier_and_relatedDeps
+
+Updates Several Dev Dependencies",2021-07-21T13:50:22Z,Tiago Góes,tiago.goes2009@gmail.com,GitHub,noreply@github.com
+513,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,66fc92a97f60091df95d3a41b8f5a1000a1d37d0,89f525dc428f8a9964026b489f7ef748de42b343,"Merge pull request #10679 from AlexSCorey/10549-AuditorsCanAssociateHostWithGroup
+
+Enforces Proper permissions for Host Groups List",2021-07-21T13:45:38Z,Sarah Akus,sakus@redhat.com,GitHub,noreply@github.com
+514,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,66fc92a97f60091df95d3a41b8f5a1000a1d37d0,89f525dc428f8a9964026b489f7ef748de42b343,"Merge pull request #10679 from AlexSCorey/10549-AuditorsCanAssociateHostWithGroup
+
+Enforces Proper permissions for Host Groups List",2021-07-21T13:45:38Z,Sarah Akus,sakus@redhat.com,GitHub,noreply@github.com
+515,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,10c8480247cac4436841de7d7f43b57040e85780,9e4b2d334407dc2acdc525a682e256d80925a37f,"Fix misalignment node approval timeout
+
+Fix misalignment node approval timeout
+
+closes:https://github.com/ansible/awx/issues/10515",2021-07-21T13:30:58Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+516,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,cfcaa4271c37569d105c7f573efb2c6f0ba9498a,b7a2ef595c9fc0cd62f697be72e740438d72e85e,hits correct api end point to get options data for host groups list,2021-07-21T13:30:10Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+517,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,2920549ef186cdd9f9a9d4845a54959dc0ae3355,af55f741f868524bb640762cc27c2c6bf9c488c5,Fix integer/float errors in survey,2021-07-20T23:51:57Z,Alexander Komarov,akomarov.me@gmail.com,Alexander Komarov,akomarov.me@gmail.com
+518,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,3def23883ee9224037e2913c8a4c5f26406de19c,267fa428b72759978116409937e435dca4cc7a18,updates several dependencies,2021-07-20T16:19:27Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+519,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,872513617ed8da9661e0bd3aaba88d628e00d675,75ca135a53357e506b7612f86dfff6504a72915b,"Merge pull request #10660 from nixocio/ui_issue_9554
+
+Bump size of SSO icons login screen",2021-07-20T20:56:39Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+520,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,872513617ed8da9661e0bd3aaba88d628e00d675,75ca135a53357e506b7612f86dfff6504a72915b,"Merge pull request #10660 from nixocio/ui_issue_9554
+
+Bump size of SSO icons login screen",2021-07-20T20:56:39Z,Jake McDermott,yo@jakemcdermott.me,GitHub,noreply@github.com
+521,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,2c56854ab9acc1e131420951b6a92d1bc6f7b430,f66cfae2dc570feda29218c6a730ced4489c045f,print last attempt output,2021-07-20T20:49:32Z,coolbry95,coolbry95@gmail.com,coolbry95,coolbry95@gmail.com
+522,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9237ca48097b4a3fb2ce8594ab978d69b715b0d0,d671c5c98a293aaf2ea8bf0b5879feb7d1b69689,fix path to useBrandName in test,2021-07-20T20:47:46Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+523,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,719c9e824b94df6c52e4fab47888cc649a764279,d81f8bbaf78b364d31a439b340fdb48a29cbc706,"Remove mix usage of hooks and HOC for router
+
+There were a few cases that hooks and HOC were being used at the same on
+a certain component. Remove HOC from those ones.",2021-07-20T20:47:39Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+524,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,52777681d11b1331e8277e481e77122e12e273ca,be60e0a5dd224ee8a99069b398c57b5fc6a2eaf1,"Bump size of SSO icons login screen
+
+Bump size of SSO icons login screen
+
+closes: https://github.com/ansible/awx/issues/9554",2021-07-20T12:59:57Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+525,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,72766ec2ac926889d06f477530d7c51614872c4f,2e2e26b945b839ea3c1661b3878a67fcf32b8c30,"Create map of strings to be translated
+
+Create map of strings to be translated to StatusLabel
+
+closes:https://github.com/ansible/awx/issues/8586",2021-07-20T20:29:08Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+526,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,9d01334a86e42c977bbc98c72d9a391938cbfc42,b59485ae2ea9325057f5b8ceaa80a53ca612da60,remove withRouter where not needed,2021-07-20T20:01:32Z,Keith J. Grant,barkeep@keithjgrant.com,Keith J. Grant,barkeep@keithjgrant.com
+527,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,38d2e933f42de22a32a8d6359bb2117d375c77fa,b9df45accafd907188d5e0b686ef6e228405890d,wait for migrations in awx-web container,2021-07-20T19:56:14Z,coolbry95,coolbry95@gmail.com,coolbry95,coolbry95@gmail.com
+528,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b24576c219cc7eae3180329d9d605aa196558d83,ca992aa4b6676b017e29081435188c84b021826f,wait for migrations in awx-web container,2021-07-20T19:53:09Z,coolbry95,coolbry95@gmail.com,coolbry95,coolbry95@gmail.com
+529,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,330e8303077a33d33fbe6d79f52f60686c605014,876222da90d1aea74f72b66b88224e119da69c63,adds missing license text files,2021-07-20T19:44:20Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+530,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,e32ea04d207d8a2973fe079b62a25bd4ea0329a7,1f77860ba31185160ea67746a4542200a2bd4ee6,"Add auto-populate inventory host form
+
+Add auto-populate inventory host form
+
+closes:https://github.com/ansible/awx/issues/10663",2021-07-20T19:34:48Z,nixocio,nixocio@gmail.com,nixocio,nixocio@gmail.com
+531,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,6715b886335fdb9ea80c14601e3788d192f7dafa,dab6a6bbfbbf772d25e3f8fa975dfd38e3762e25,Update upload_schema.yml,2021-07-20T19:32:11Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+532,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,6715b886335fdb9ea80c14601e3788d192f7dafa,dab6a6bbfbbf772d25e3f8fa975dfd38e3762e25,Update upload_schema.yml,2021-07-20T19:32:11Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+533,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,556f8aff17e50fb87e38190ac646906ab550b608,3c5d1ce581f7c8478b95c2ef2d8e10648688ebd6,Update upload_schema.yml,2021-07-20T19:14:36Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+534,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,556f8aff17e50fb87e38190ac646906ab550b608,3c5d1ce581f7c8478b95c2ef2d8e10648688ebd6,Update upload_schema.yml,2021-07-20T19:14:36Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+535,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,62b1ed2f219809f8f0a8541c6b8e1d368b836046,876222da90d1aea74f72b66b88224e119da69c63,adds missing license text files,2021-07-20T17:03:38Z,Alex Corey,alex.swansboro@gmail.com,Alex Corey,alex.swansboro@gmail.com
+536,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c8322ee2f1fe38457df5b2c9f69a38f8632edc3e,8c2241134e125ac32dab823a8b378f16d8b63954,"Merge pull request #10672 from shanemcd/actions
+
+Reimplement CI jobs in GitHub Actions",2021-07-20T16:55:06Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+537,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,c8322ee2f1fe38457df5b2c9f69a38f8632edc3e,8c2241134e125ac32dab823a8b378f16d8b63954,"Merge pull request #10672 from shanemcd/actions
+
+Reimplement CI jobs in GitHub Actions",2021-07-20T16:55:06Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+538,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,d2017feb55d3ef7a13d988f2abf291783b57510f,8c2241134e125ac32dab823a8b378f16d8b63954,Specify which region to upload schema to,2021-07-20T16:23:06Z,Shane McDonald,me@shanemcd.com,Shane McDonald,me@shanemcd.com
+539,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,b202c0c4b6d55bef3eaaa308ba0e3dfa1d93a488,1b2df48890ab70eac5f690a3fec85c3d006690d9,DNM,2021-07-20T16:23:06Z,Shane McDonald,me@shanemcd.com,Shane McDonald,me@shanemcd.com
+540,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,f030c1a76a2f490dd6fcdcbf28aff219a9f6b16f,e534aa6dfd55ba2958c282827df4e2b28f008cd9,Merge branch 'devel' into actions,2021-07-19T19:16:12Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+541,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,df77afe625515d6da84601c83728432de7cecc14,9a680f17be207b2ced46ae8d0ee74e4c822190d2,Specify which region to upload schema to,2021-07-19T16:47:05Z,Shane McDonald,me@shanemcd.com,Shane McDonald,me@shanemcd.com
+542,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,da95ca57ec0aa8a03c27e390327720e79c6527b2,e534aa6dfd55ba2958c282827df4e2b28f008cd9,Merge branch 'devel' into actions,2021-07-19T18:37:29Z,Shane McDonald,me@shanemcd.com,GitHub,noreply@github.com
+543,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,df77afe625515d6da84601c83728432de7cecc14,9a680f17be207b2ced46ae8d0ee74e4c822190d2,Specify which region to upload schema to,2021-07-19T16:47:05Z,Shane McDonald,me@shanemcd.com,Shane McDonald,me@shanemcd.com
+544,ansible,awx,https://github.com/ansible/awx,https://api.github.com/repos/ansible/awx/actions/runs,5c759d1447bfbaa9c048eeeda3fd97f180ffffef,8b05b2b54e15e7a621e87bea4d70e2dff5da8c42,Add post-merge GHA job for uploading api schema to s3,2021-07-19T16:34:07Z,Shane McDonald,me@shanemcd.com,Shane McDonald,me@shanemcd.com
